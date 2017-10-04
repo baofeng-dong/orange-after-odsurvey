@@ -12,7 +12,7 @@ from sqlalchemy import func
 from sqlalchemy.orm import aliased
 from geoalchemy2 import functions as geofunc
 
-from dashboard import SessionODK as Session
+#from dashboard import SessionODK as Session
 from dashboard import debug, error
 from ..shared.models import Stops, SurveysCore, CallbackFlag as CFlag
 from ..shared.helper import Helper

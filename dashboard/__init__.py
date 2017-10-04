@@ -8,11 +8,11 @@ app = Flask(__name__)
 app.config.from_object('config')
 app.debug = True
 
-engine_odk = create_engine(app.config['ODK_DB_CONFIG'])
+#engine_odk = create_engine(app.config['ODK_DB_CONFIG'])
 engine_onoff = create_engine(app.config['ONOFF_DB_CONFIG'])
 
 
-SessionODK = scoped_session(sessionmaker(bind=engine_odk))
+#SessionODK = scoped_session(sessionmaker(bind=engine_odk))
 SessionONOFF = scoped_session(sessionmaker(bind=engine_onoff))
 
 # make debug and error logging easier

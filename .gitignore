@@ -3,7 +3,7 @@
 dashboard/.DS_Store
 *.*~
 *.swp
-surveydashboard.wsgi
+odsurvey.wsgi
 env/
 sql/
 config.py

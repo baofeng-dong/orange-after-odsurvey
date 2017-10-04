@@ -1,0 +1,28 @@
+<!-- Copyright (C) 2017 Baofeng Dong
+# This program is released under the "MIT License".
+# Please see the file COPYING in the source
+# distribution of this software for license terms. -->
+
+{% extends "base.html" %}
+
+{% block content %}
+
+<div id='message-onoff'>
+<h3><b>Boarding and Alighting Dashboard</b></h3>
+</div>
+
+<div id="index-content-onoff">
+<ul style="list-style-type: none; font-size: medium;">
+  <!--<li style="margin-top: 20px;"><a href="{{ url_for('index') }}introduction"><b>Introduction</b></a></li>-->
+  <li style="margin-top: 20px;"><a href="{{ url_for('index') }}onoff/data"><b>Data</b></a></li>
+  <li style="margin-top: 20px;"><a href="{{ url_for('index') }}onoff/surveyors"><b>Surveyor</b></a></li>
+  <!--<li style="margin-top: 20px;"><a href="{{ url_for('index') }}onoff/status"><b>Status</b></a></li>-->
+  <!--<li style="margin-top: 20px;"><a href="{{ url_for('index') }}map"><b>Map</b></a></li>-->
+</ul>
+</div>
+{% endblock %}
+
+
+
+
+

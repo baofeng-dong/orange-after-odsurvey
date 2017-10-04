@@ -1,0 +1,17 @@
+<!-- Copyright (C) 2017 Baofeng Dong
+# This program is released under the "MIT License".
+# Please see the file COPYING in the source
+# distribution of this software for license terms. -->
+
+{% extends "dashboard_base.html" %}
+
+{% block dashboard %}
+<h3 class="page-header">Intercept Dashboard</h3>
+{% endblock %}
+
+{% block nav_links %}
+<!--li><a href="{{ url_for('long.viewer') }}">Viewer</a></li-->
+<li><a href="{{ url_for('long.status') }}">Status</a></li>
+<li><a href="{{ url_for('long.callback') }}">Callbacks</a></li>
+<li><a href="{{ url_for('onoff.index') }}">On and Off</a></li>
+{% endblock %}

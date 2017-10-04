@@ -1,0 +1,104 @@
+<!--Copyright (C) Baofeng Dong 2017-->
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Fall 2017 Orange After OD &amp Fare Survey</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" type="image/png" href="{{ url_for('index') }}static/image/favicon-16x16.png">
+    <script src="https://code.jquery.com/jquery-2.2.3.js"></script>
+    <script type="text/javascript" src="{{ url_for('index') }}static/js/svg.jquery.js"></script>
+    <script type="text/javascript" src="{{ url_for('index') }}static/js/pygal-tooltips.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <script src="//code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('index') }}static/css/dashboard.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="//code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.js"></script>
+    <scripts src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.0.0/leaflet.ajax.min.js"></scripts>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0/leaflet.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0/leaflet.js"></script>
+    <!-- Load geocoding plugin after Leaflet -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-geocoder-mapzen/1.7.1/leaflet-geocoder-mapzen.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-geocoder-mapzen/1.7.1/leaflet-geocoder-mapzen.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/leaflet.heat/0.2.0/leaflet-heat.js"></script>
+</head>
+
+<body>
+
+<header>
+  <nav class="navbar">
+    <div class="container">
+
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand-tm navbar-left" href="http://trimet.org/"><img src="{{ url_for('index') }}static/image/trimet-logo.svg" height="30" class="inline-block align-middle" alt=""></a>
+      </div>
+
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a class="my-text" href="https://survey.trimet.org"><b>Survey Home</b></a></li>
+          <li><a class="my-text" href="{{ url_for('index') }}"><b>OD Home</b></a></li>
+          <li class="dropdown">
+            <a class="my-text" href="#" class="dropdown-toggle" data-toggle="dropdown"><b>On-Off</b><b class="caret"></b></a>
+            <ul class="dropdown-menu dropdown-menu-left" role="menu" aria-labelledby="menu1">
+              <li role="presentation"><a role="menuitem" href="{{ url_for('index') }}onoff/data"><b>Data</b></a></li>
+              <li role="presentation"><a role="menuitem" href="{{ url_for('index') }}onoff/surveyors"><b>Surveyor</b></a></li>
+              <!--<li role="presentation"><a role="menuitem" href="{{ url_for('index') }}onoff/status"><b>Status</b></a></li>-->
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a class="my-text" href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Intercept Survey</b><b class="caret"></b></a>
+            <ul class="dropdown-menu dropdown-menu-left" role="menu" aria-labelledby="menu1">
+              <!--<li role="presentation"><a role="menuitem" href="{{ url_for('index') }}long/data"><b>Data</b></a></li>
+              <li role="presentation"><a role="menuitem" href="{{ url_for('index') }}long/surveyors"><b>Surveyor</b></a></li>
+              <li role="presentation"><a role="menuitem" href="{{ url_for('index') }}long/status"><b>Status</b></a></li>-->
+            </ul>
+          </li>
+          <!--<li><a class="my-text" href="{{ url_for('index') }}results"><b>Results</b></a></li> -->
+          <!--<li><a class="my-text" href="{{ url_for('index') }}map"><b>Map</b></a></li> -->
+        </ul>
+      </div>
+      
+    </div>
+  </nav>
+</header>
+
+<div id='content'>
+    {% block content %}
+    
+    {% endblock %}
+
+</div>
+
+<!--<footer>
+  <div class="navbar-tm navbar-default navbar-fixed-bottom ">
+  <div class="container-tm text-center">
+    <small class="text-muted">
+      TriMet Fall 2016 On-board Customer Survey
+      &nbsp <i>Powered by <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> and <a href="http://flask.pocoo.org/" target="_blank">Python Flask</a> – <a href=http://trimet.org/research/><strong>Learn More</strong></a></i>
+    </small>
+  </div>
+  </div>
+</footer> -->
+
+</body>
+
+
+</html>
+

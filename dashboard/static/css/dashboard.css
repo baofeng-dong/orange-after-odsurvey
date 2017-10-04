@@ -1,0 +1,295 @@
+
+body {
+    font-family: Open Sans, Helvetica, sans-serif;
+}
+
+/* Helper classes */
+.margin-v {
+    margin: 1em 0;
+}
+
+.left-border {
+    border-left: 3px solid #2980B9;
+    padding-left: 10px;
+}
+
+/* Navbar styling */
+.navbar {
+    background: #084c8d;
+    color: #fff;
+    min-height: 60px;
+    position: relative;
+    /* override bootstrap */
+    margin-bottom: 0px;
+    border: none;
+    border-radius: 0;
+}
+
+.navbar a {
+    color: inherit;
+}
+
+.navbar-brand .navbar-brand {
+    min-height: 60px;
+    line-height: 30px;
+}
+
+.navbar-brand-tm {
+    float: left;
+    height: 60px;
+    padding: 15px 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.navbar-header .navbar-header {
+    min-height: 60px;
+}
+
+.navbar .navbar {
+    min-height: 60px;
+}
+
+.navbar-nav > li > a.my-text {
+    min-height: 60px;
+    padding-top: 20px;
+}
+
+.navbar-nav >li > a > b {
+    font-size: 15px;
+}
+
+.navbar-nav > li > a:hover, .navbar-nav > li.nav-active, 
+.navbar .navbar-nav .open .dropdown-menu>li>a:hover  {
+    background-color: #fff;
+    color: #000;
+}
+
+.navbar .navbar-nav .open .dropdown-menu>li>a, .navbar .navbar-nav .open .dropdown-menu {
+    background-color: #084c8d;
+    color: white;
+  }
+
+.navbar .icon-bar {
+    background-color: #fff;
+}
+
+.scrollable-menu {
+    height: auto;
+    max-height: 300px;
+    overflow-x: hidden;
+}
+
+
+#menu-dd {
+  margin-top: 20px;
+  height: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#select-group {
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 120px;
+
+}
+
+#map-control {
+    height: 210px;
+}
+
+#control-section {
+    min-height: 220px;
+    margin-left: 20px;
+    height: 100%;
+    float: left;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 10px 20px;
+}
+
+#select-table {
+    max-width: 900px;
+    width: 100%;
+    height: 100%;
+}
+
+#map-button-header {
+    float:right;
+}
+
+#map-select {
+    height: 100px;
+    width: 100%;
+    max-width: 920px;
+}
+
+#map-intro {
+    width: 40%;
+    margin-right: 20px;
+    float: left;
+}
+
+#map-view {
+    width: 25%;
+    padding-left: 50px;
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 20px;
+    float: left;
+}
+
+#summary-view {
+    width: 20%;
+    margin-top: 10px;
+    margin-left: 25px;
+    float: left;
+}
+
+
+#origin-button {
+    width: 49%;
+    float: left;
+}
+
+#dest-button {
+    width: 51%;
+    float: right;
+}
+
+.tod-view, .week-view {
+    margin-top: 10px;
+}
+
+#surveyor-intro, #data-intro, #progress-intro, #progress {
+    margin-left: 20px;
+}
+
+#bus-progress {
+    padding-left: 20px;
+}
+
+#download-button, #select-date {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+#data-div, #survey-intro, #intro-overview, #intro-questions, #intro-contact {
+    margin-top: 20px;
+    margin-left: 20px;
+    max-width: 1300px;
+    width: auto;
+}
+
+#surveyors {
+    margin-top: 20px;
+    margin-left: 20px;
+    max-width: 1000px;
+    width: auto;
+}
+
+#message, #message-onoff {
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+#index-content, #index-content-onoff {
+    margin-top: 40px;
+    margin-left: 60px;
+}
+
+#surveyors-onoff, #workers-table {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+#mapid {
+  width: 100%;
+  height: 800px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  }
+
+th {
+    align:center;
+}
+
+.fa {
+    font-family: FontAwesome;
+    } 
+
+.legend .circle {
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  margin-left: 8px;
+  margin-right: 12px;
+  margin-top: 3px;
+
+}
+
+.legend {
+    line-height: 18px;
+    width: 140px;
+    color: #555;
+    text-align: left;
+}
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    opacity: 0.7;
+}
+
+.infohover { padding: 6px 8px; 
+    font: 14px/16px Arial, Helvetica, sans-serif; 
+    background: white; 
+    background: rgba(255,255,255,0.8); 
+    box-shadow: 0 0 15px rgba(0,0,0,0.2); 
+    border-radius: 5px; 
+} 
+
+.infohover h4 
+{ 
+    margin: 0 0 5px;
+    color: #777; 
+}
+
+#satisfaction, #origin, #destination, #travelchange, #gasoline, #ridership, #rideyears, #approval,
+#onechange, #age, #gender, #race, #disability, #transit, #vehicle, #house, #vecount, #income, #poverty
+{
+  /*max-width: 1000px;*/
+  margin-left: 20px;
+  margin-top: 30px;
+  width: 40%;
+  float: left;
+  height: auto;
+  display: none;
+}
+
+#container {
+    width: 100%;
+    max-width: 1400px;
+    margin: 10px,10px;
+}
+
+#line-chart {
+    margin-left: 20px;
+    width: 45%;
+    float: right;
+}
+
+#button-header {
+padding-left: 20px;
+padding-bottom: 10px;
+display: none; 
+}
+

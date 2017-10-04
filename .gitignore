@@ -1,0 +1,11 @@
+*.pyc
+.DS_Store
+dashboard/.DS_Store
+*.*~
+*.swp
+surveydashboard.wsgi
+env/
+sql/
+config.py
+dashboard/static/image/
+*.wsgi

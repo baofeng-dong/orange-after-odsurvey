@@ -38,7 +38,7 @@ def status():
     web_session = Session()
     query = web_session.execute("""
         SELECT rte_desc, sum(count) AS count
-        FROM v.records
+        FROM records
         WHERE rte_desc LIKE 'Portland Streetcar%'
         GROUP by rte_desc;""")
     #hardcode streetcar targets, then populate the count
@@ -52,7 +52,7 @@ def status():
         streetcar[record[0]]['count'] = int(record[1])
     web_session.close()
     summary = Helper.query_routes_summary()
-    return render_template(static('status.html'), 
+    return render_template('onoff/status.html', 
             streetcar=streetcar, routes=routes, data=data, summary=summary)
 
 

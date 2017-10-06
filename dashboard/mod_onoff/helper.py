@@ -286,7 +286,7 @@ class Helper(object):
             query = web_session.execute("""
                 SELECT rte, rte_desc, dir, dir_desc,
                     time_period, count, target * .2
-                FROM v.summary
+                FROM summary
                 WHERE rte_desc = :rte_desc
                 ORDER BY rte, dir,
                     CASE time_period
@@ -305,7 +305,7 @@ class Helper(object):
             query = web_session.execute("""
                 SELECT rte, rte_desc, dir, dir_desc,
                     time_period, count, target * .2
-                FROM v.summary
+                FROM summary
                 ORDER BY rte, dir,
                     CASE time_period
                         WHEN 'AM Peak' THEN 1

@@ -172,6 +172,12 @@ table {
     margin-left: 20px;
 }
 
+#status-onoff-intro {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
 #bus-progress {
     padding-left: 20px;
 }
@@ -293,3 +299,78 @@ padding-bottom: 10px;
 display: none; 
 }
 
+.status-1  {
+    /*background:#DB5555;*/
+    background-color:rgba(219,85,85,0.6);
+
+}
+.status-2  {
+    /*background:#D4A246;*/
+    background-color:rgba(212,162,70,0.6);
+
+}
+.status-3  {
+    /*background:#CCFF33;*/
+    background-color:rgba(204,255,51,0.6);
+
+}
+.status-4  {
+    /*background:#A1ED44;*/
+    background-color:rgba(161,237,68,0.6);
+
+}
+.status-complete  {
+    /*background:#76DB55;*/
+    background-color:rgba(118,219,85,0.6);
+}
+.status-none  {
+    /*background:#76DB55;*/
+    background-color:rgba(219,217,217,0.6);
+}
+
+.tbl-header {
+    background-color:rgba(234,227,227,0.6);
+}
+
+.tbl-row-header {
+    background-color:rgba(201,213,219,0.6);
+
+.off-label {  
+    background-color:rgba(0,0,0,0.2);
+    width:30px;
+    height:30px;
+    border-radius: 10px;
+}
+
+.off-label table {  
+    border-collapse:collapse;
+    width:100%;
+    height:100%;
+}
+
+.active-dir {
+    background-color:rgba(0,0,0,0.2);
+}
+
+
+.off-label td {
+    line-height:0;
+    text-align: center;
+    font-size:10;
+    color:#D2D4EF;
+    font-weight:bold;
+    text-shadow: 0 0 3px black;
+}
+
+.quotas-table {  
+
+}
+
+.quotas-table th{  
+    padding:5px;
+    border:1;
+}
+
+.quotas-table td{  
+    padding:5px;
+}

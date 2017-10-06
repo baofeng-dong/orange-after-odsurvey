@@ -178,6 +178,10 @@ table {
     margin-bottom: 20px;
 }
 
+#status-table {
+    margin-left: 20px;
+}
+
 #bus-progress {
     padding-left: 20px;
 }

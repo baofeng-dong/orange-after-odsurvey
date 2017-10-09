@@ -68,10 +68,10 @@
     
     var url = "surveyors/_summary";
     var times = [
-        {'id':'AM Peak', 'label':'AM Peak - 6:00 am to 8:59'},
-        {'id':'Midday', 'label':'Midday - 9:00 am to 3:59'},
-        {'id':'PM Peak', 'label':'PM Peak - 4:00 am to 6:59'},
-        {'id':'Evening', 'label':'Evening - 7:00 am to 10:00'}
+        {'id':'AM Peak', 'label':'AM Peak - 6:00 am to 8:59 am'},
+        {'id':'Midday', 'label':'Midday - 9:00 am to 3:59 pm'},
+        {'id':'PM Peak', 'label':'PM Peak - 4:00 pm to 6:59 pm'},
+        {'id':'Evening', 'label':'Evening - 7:00 pm to 10:00 pm'}
     ];
 
     $("#date-select").val(get_date());

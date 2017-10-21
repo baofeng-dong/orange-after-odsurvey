@@ -146,7 +146,7 @@ def map():
         'rte':route['rte'], 'rte_desc':route['rte_desc']
         } for route in h.get_routes() ]
     directions = h.get_directions()
-    return render_template(static('map.html'),
+    return render_template('onoff/map.html',
         routes=routes, directions=directions
     )
 
@@ -160,7 +160,7 @@ def map_offs_details():
         fields = ['dir', 'tad', 'centroid', 'stops', 'ons', 'count']
         query_time = session.execute("""
             SELECT """ + ','.join(fields) + """, bucket
-            FROM long.tad_time_stats
+            FROM tad_time_stats
             WHERE rte = :rte;""", {'rte':rte})
         query_markers = session.execute("""
             SELECT dir, tad, centroid, stops, ons, count

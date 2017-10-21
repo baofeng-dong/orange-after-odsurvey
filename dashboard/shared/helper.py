@@ -121,7 +121,7 @@ class Helper(object):
         session = Session()
         query = session.execute("""
             SELECT rte
-            FROM v.lookup_rte
+            FROM lookup_rte
             WHERE rte_desc = :rte_desc""", {'rte_desc':rte_desc})
         for record in query:
             rte = record[0]
@@ -135,7 +135,7 @@ class Helper(object):
         session = Session()
         routes = session.execute("""
             SELECT rte, rte_desc
-            FROM v.lookup_rte
+            FROM lookup_rte
             ORDER BY rte;""")
         ret_val = [ {'rte':str(route[0]), 'rte_desc':route[1]} for route in routes ]
         debug(ret_val)
@@ -148,7 +148,7 @@ class Helper(object):
         session = Session()
         directions = session.execute("""
             SELECT rte, rte_desc, dir, dir_desc
-            FROM v.lookup_dir
+            FROM lookup_dir
             ORDER BY rte, dir;""")
         ret_val = [{
             'rte':str(direction[0]),
@@ -203,7 +203,7 @@ class Helper(object):
         query_string = """
             SELECT rte_desc, dir_desc, date, time, user_id,
                 on_stop_name, off_stop_name
-            FROM v.display_data """
+            FROM display_data """
         query_string += where 
         query_string += " ORDER BY date DESC, time DESC "
         query_string += limit
@@ -256,7 +256,7 @@ class Helper(object):
         web_session = Session()
         query = web_session.execute("""
             SELECT rte, rte_desc, sum(count), sum(target) * 0.2
-            FROM v.summary
+            FROM summary
             GROUP BY rte, rte_desc
             ORDER BY rte;""")
 

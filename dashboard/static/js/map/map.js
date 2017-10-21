@@ -1,7 +1,3 @@
-// Copyright (C) 2017 Baofeng Dong
-// This program is released under the "MIT License".
-// Please see the file COPYING in the source
-// distribution of this software for license terms.
 
 var styles = {
     tadColor:'#CEA04A',
@@ -543,6 +539,7 @@ Map.prototype = {
             THIS.downloadStatusOn();
             THIS.manager.turnOff();
             $.getJSON(this.url, {rte_desc:args.rteDesc}, function(data) {
+                console.log(args.rteDesc);
                 console.log(data);
                 THIS.manager.addRoute(THIS.currentRte)
                 THIS.buildData(data);

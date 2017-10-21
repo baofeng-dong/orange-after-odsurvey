@@ -205,7 +205,11 @@ class Helper(object):
         query_string = """
             SELECT rte_desc, dir_desc, date, time, first_name,
                 on_stop_name, off_stop_name
-            FROM display_data """
+            FROM display_data
+            UNION
+            SELECT rte_desc, dir_desc, date, time, first_name,
+                on_stop_name, off_stop_name
+            FROM display_data_ts """
         query_string += where 
         query_string += " ORDER BY date DESC, time DESC "
         query_string += limit

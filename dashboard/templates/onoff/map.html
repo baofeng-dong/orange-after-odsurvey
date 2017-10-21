@@ -182,6 +182,7 @@ $('#rte-menu a').on('click', function() {
         $('#both-btn').addClass('disabled');
     }
     active.rte = $(this).attr("rte");
+    console.log("rte: " + active.rte);
     map.activateRoute({
         active:active,
         rteDesc:this.text,

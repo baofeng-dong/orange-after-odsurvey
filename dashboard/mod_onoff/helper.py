@@ -127,8 +127,8 @@ class Helper(object):
         web_session = Session()
         routes = web_session.execute("""
             SELECT rte, rte_desc
-            FROM lookup_rte
-            ORDER BY rte;""")
+            FROM orange_route_direction
+            ORDER BY route_sort_order;""")
 
         RTE = 0
         RTE_DESC = 1

@@ -37,10 +37,13 @@ def status():
     data = Helper.query_route_status()
     web_session = Session()
     query = web_session.execute("""
-        SELECT rte_desc, sum(count) AS count
-        FROM records
-        WHERE rte_desc LIKE 'Portland Streetcar%'
-        GROUP by rte_desc;""")
+        SELECT sq.rte_desc, sum(sq.count) AS count
+        FROM 
+        (SELECT * FROM records_ts
+        UNION
+        SELECT * FROM records ) sq
+        WHERE sq.rte_desc LIKE 'Portland Streetcar%'
+        GROUP BY sq.rte_desc;""")
     #hardcode streetcar targets, then populate the count
     streetcar = {
             "Portland Streetcar - NS Line":{'target':1737, 'count':0},

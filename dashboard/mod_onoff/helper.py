@@ -38,7 +38,7 @@ class Helper(object):
                 rte_desc,
                 sum(count) AS count,
                 sum(target) AS target
-            FROM v.summary
+            FROM summary
             GROUP BY rte, rte_desc
             ORDER BY rte;""")
         
@@ -205,8 +205,9 @@ class Helper(object):
         query_string = """
             SELECT rte_desc, dir_desc, date, time, first_name,
                 on_stop_name, off_stop_name
-            FROM display_data
-            UNION
+            FROM display_data """
+
+        query_string_ts = """
             SELECT rte_desc, dir_desc, date, time, first_name,
                 on_stop_name, off_stop_name
             FROM display_data_ts """
@@ -214,10 +215,16 @@ class Helper(object):
         query_string += " ORDER BY date DESC, time DESC "
         query_string += limit
 
+        query_string_ts += where 
+        query_string_ts += " ORDER BY date DESC, time DESC "
+        query_string_ts += limit
+
         debug(query_string)
+        debug(query_string_ts)
 
         web_session = Session()
         query = web_session.execute(query_string, query_args)
+        query_ts = web_session.execute(query_string_ts, query_args)
 
         RTE_DESC = 0
         DIR_DESC = 1
@@ -229,6 +236,27 @@ class Helper(object):
 
         # each record will be converted as json
         # and sent back to page
+        for record in query_ts:
+            if csv:
+                data = []
+                data.append(str(record[DATE]))
+                data.append(str(record[TIME]))
+                data.append(record[USER])
+                data.append(record[RTE_DESC])
+                data.append(record[DIR_DESC])
+                data.append(record[ON_STOP])
+                data.append(record[OFF_STOP])
+            else:
+                data = {}
+                data['date'] = str(record[DATE])
+                data['time'] = str(record[TIME])
+                data['user'] = record[USER]
+                data['rte_desc'] = record[RTE_DESC]
+                data['dir_desc'] = record[DIR_DESC]
+                data['on_stop'] = record[ON_STOP]
+                data['off_stop'] = record[OFF_STOP]
+            ret_val.append(data)
+
         for record in query:
             if csv:
                 data = []
@@ -250,6 +278,7 @@ class Helper(object):
                 data['off_stop'] = record[OFF_STOP]
             ret_val.append(data)
         web_session.close()
+
         return ret_val
 
     @staticmethod
@@ -261,16 +290,23 @@ class Helper(object):
        
         web_session = Session()
         query = web_session.execute("""
-            SELECT rte, rte_desc, sum(count), sum(target) * 0.2
+            SELECT sq.rte, sq.rte_desc, sum(sq.count),sum(sq.target)*0.2
+            FROM
+            (SELECT *
+            FROM summary_ts
+            UNION
+            SELECT *
             FROM summary
-            GROUP BY rte, rte_desc
-            ORDER BY rte;""")
+            ) sq
+            GROUP BY sq.rte,sq.rte_desc
+            ORDER BY sq.rte;""")
 
         for record in query:
             rte_desc = record[1]
             count = int(record[2])
             target = int(record[3])
             ret_val[rte_desc] = {"count":count, "target":target}
+        debug(ret_val)
 
         return ret_val
 
@@ -288,12 +324,20 @@ class Helper(object):
         web_session = Session()
         if rte_desc:
             query = web_session.execute("""
-                SELECT rte, rte_desc, dir, dir_desc,
-                    time_period, count, target * .2
-                FROM summary
-                WHERE rte_desc = :rte_desc
-                ORDER BY rte, dir,
-                    CASE time_period
+                SELECT sq.rte,sq.rte_desc,sq.dir,sq.dir_desc,sq.time_period,
+                        sq.scount + sq.tcount AS count, sq.target * .2
+                FROM
+                (SELECT s.rte, s.rte_desc,s.dir,s.dir_desc,s.time_period, s.target,
+                s.count AS scount, t.count AS tcount
+                FROM
+                summary_ts t
+                LEFT JOIN summary s
+                ON t.rte = s.rte AND
+                t.dir = s.dir AND
+                t.time_period = s.time_period) sq
+                WHERE sq.rte_desc = :rte_desc
+                ORDER BY sq.rte, sq.dir,
+                    CASE sq.time_period
                         WHEN 'AM Peak' THEN 1
                         WHEN 'Midday' THEN 2
                         WHEN 'PM Peak' THEN 3
@@ -307,11 +351,19 @@ class Helper(object):
             # query web database
             # using helper views
             query = web_session.execute("""
-                SELECT rte, rte_desc, dir, dir_desc,
-                    time_period, count, target * .2
-                FROM summary
-                ORDER BY rte, dir,
-                    CASE time_period
+                SELECT sq.rte,sq.rte_desc,sq.dir,sq.dir_desc,sq.time_period,
+                        sq.scount + sq.tcount AS count, sq.target * .2
+                FROM
+                (SELECT s.rte, s.rte_desc,s.dir,s.dir_desc,s.time_period, s.target,
+                s.count AS scount, t.count AS tcount
+                FROM
+                summary_ts t
+                LEFT JOIN summary s
+                ON t.rte = s.rte AND
+                t.dir = s.dir AND
+                t.time_period = s.time_period) sq
+                ORDER BY sq.rte, sq.dir,
+                    CASE sq.time_period
                         WHEN 'AM Peak' THEN 1
                         WHEN 'Midday' THEN 2
                         WHEN 'PM Peak' THEN 3
@@ -321,6 +373,7 @@ class Helper(object):
                     END;""")
             ret_val = Helper.build_response_summary_status(query)
         web_session.close()
+        debug(ret_val)
         return ret_val
 
     @staticmethod
@@ -364,7 +417,7 @@ class Helper(object):
                 data = {}
 
             ret_val[rte_desc][str(dir)][time] = data
-        
+            debug(ret_val)
         return ret_val
     
     @staticmethod
@@ -411,18 +464,21 @@ class Helper(object):
         
         web_session = Session()
         results = web_session.execute("""
-            SELECT rte_desc, time_period, user_id, rte
-            FROM users_tod
-            WHERE date = :date
+            SELECT u.rte_desc, u.time_period, u.user_id, u.rte
+            FROM
+            (SELECT * from users_tod_ts
+            UNION
+            SELECT * from users_tod) u
+            WHERE u.date = :date
             ORDER BY
-            CASE time_period
-                WHEN 'AM Peak' THEN 1
-                    WHEN 'Midday' THEN 2
-                    WHEN 'PM Peak' THEN 3
-                    WHEN 'Evening' THEN 4
-                    WHEN 'Total' THEN 5
-                ELSE 6
-            END, rte;""",{'date':date})
+                    CASE u.time_period
+                        WHEN 'AM Peak' THEN 1
+                            WHEN 'Midday' THEN 2
+                            WHEN 'PM Peak' THEN 3
+                            WHEN 'Evening' THEN 4
+                            WHEN 'Total' THEN 5
+                        ELSE 6
+                    END, u.rte;""",{'date':date})
 
             
         for result in results:

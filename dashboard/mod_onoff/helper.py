@@ -224,7 +224,14 @@ class Helper(object):
 
         web_session = Session()
         query = web_session.execute(query_string, query_args)
+	# convert query object to list
+	result = [r for r in query]
         query_ts = web_session.execute(query_string_ts, query_args)
+	# convert query object to list
+	result_ts = [r for r in query_ts]
+	# merge two lists to one list
+	result_all = result + result_ts
+	debug(type(result_all))
 
         RTE_DESC = 0
         DIR_DESC = 1
@@ -236,7 +243,7 @@ class Helper(object):
 
         # each record will be converted as json
         # and sent back to page
-        for record in query_ts:
+        for record in result_all:
             if csv:
                 data = []
                 data.append(str(record[DATE]))
@@ -257,26 +264,6 @@ class Helper(object):
                 data['off_stop'] = record[OFF_STOP]
             ret_val.append(data)
 
-        for record in query:
-            if csv:
-                data = []
-                data.append(str(record[DATE]))
-                data.append(str(record[TIME]))
-                data.append(record[USER])
-                data.append(record[RTE_DESC])
-                data.append(record[DIR_DESC])
-                data.append(record[ON_STOP])
-                data.append(record[OFF_STOP])
-            else:
-                data = {}
-                data['date'] = str(record[DATE])
-                data['time'] = str(record[TIME])
-                data['user'] = record[USER]
-                data['rte_desc'] = record[RTE_DESC]
-                data['dir_desc'] = record[DIR_DESC]
-                data['on_stop'] = record[ON_STOP]
-                data['off_stop'] = record[OFF_STOP]
-            ret_val.append(data)
         web_session.close()
 
         return ret_val

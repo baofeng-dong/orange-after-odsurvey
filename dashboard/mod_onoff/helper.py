@@ -224,14 +224,14 @@ class Helper(object):
 
         web_session = Session()
         query = web_session.execute(query_string, query_args)
-	# convert query object to list
-	result = [r for r in query]
+        # convert query object to list
+        result = [r for r in query]
         query_ts = web_session.execute(query_string_ts, query_args)
-	# convert query object to list
-	result_ts = [r for r in query_ts]
-	# merge two lists to one list
-	result_all = result + result_ts
-	debug(type(result_all))
+        # convert query object to list
+        result_ts = [r for r in query_ts]
+        # merge two lists to one list
+        result_all = result + result_ts
+        debug(type(result_all))
 
         RTE_DESC = 0
         DIR_DESC = 1

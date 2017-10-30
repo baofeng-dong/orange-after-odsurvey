@@ -277,13 +277,16 @@ class Helper(object):
        
         web_session = Session()
         query = web_session.execute("""
-            SELECT sq.rte, sq.rte_desc, sum(sq.count),sum(sq.target)*0.2
+            SELECT sq.rte, sq.rte_desc, sum(sq.scount + sq.tcount) AS count,sum(sq.target)*0.2
             FROM
-            (SELECT *
-            FROM summary_ts
-            UNION
-            SELECT *
-            FROM summary
+            (SELECT s.rte, s.rte_desc,s.dir,s.dir_desc,s.time_period, s.target,
+                s.count AS scount, t.count AS tcount
+                FROM
+                summary_ts t
+                LEFT JOIN summary s
+                ON t.rte = s.rte AND
+                t.dir = s.dir AND
+                t.time_period = s.time_period
             ) sq
             GROUP BY sq.rte,sq.rte_desc
             ORDER BY sq.rte;""")

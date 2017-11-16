@@ -1,27 +1,18 @@
-<!-- Copyright (C) 2017 Baofeng Dong
-# This program is released under the "MIT License".
-# Please see the file COPYING in the source
-# distribution of this software for license terms. -->
+{% extends "base.html" %}
 
-{% extends "onoff/base.html" %}
 
-{% block head %}
-{{ super() }}
+{% block content %}
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="{{ url_for('static', filename='lib/leaflet/leaflet.css') }}" />
 <link rel="stylesheet" href="{{ url_for('static', filename='lib/leaflet/plugins/leaflet.label.css') }}"/>
-<script src="{{url_for('static', filename='lib/leaflet/leaflet-src.js') }}"></script>
 <script src="{{ url_for('static', filename='lib/leaflet/plugins/leaflet.label.js') }}"></script>
 <script src="{{ url_for('static', filename='lib/d3/d3.js') }}"></script>
 <script src="{{ url_for('static', filename='js/map/manager.js') }}"></script>
 <script src="{{ url_for('static', filename='js/map/map.js') }}"></script>
 
-{% endblock %}
-
-{% block dashboard %}
-{{ super() }}
+<div id="status-onoff-intro">
+    <h4><b>Boarding Alighting Map Dashboard</b></h4>
+</div>
 
 <style>
 #layers-toolbar button {
@@ -50,7 +41,7 @@
 <!-- top menu with route dropdown and direction buttons -->
 <div id="layers-toolbar" class="btn-toolbar" role="toolbar">
   <!-- route dropdown -->
-  <div class="btn-group">  
+  <div class="btn-group" style="margin-left: 20px; margin-bottom: 15px">  
     <button id="rte-btn" type="button"
         class="btn btn-default dropdown-toggle" data-toggle="dropdown">
       Select Route <span class="caret"></span>
@@ -86,7 +77,7 @@
   <!-- end of direction button choices -->
 </div> 
 <!-- end of top menu choices -->
-<div id="map" style="width:100%; height:70vh; z-index:1"></div>
+<div id="map" style="width:100%; height:70vh; z-index:1; margin-left: 10px"></div>
 
 
 <script>
@@ -106,12 +97,21 @@ var tagID = {
 
 var dirLookup = {};
 var directions = {{ directions|tojson|safe }};
+var base = '{{url_for('index')}}';
+console.log(base);
+//create boundary geojson layergroup
+//var boundaryLayer = new L.FeatureGroup();
+//var tmLayer = "tm_fill.geojson";
+//use Map constructor to create an instance of Map   
 var map = new Map({
     mapID:'map',
     url:'map/_details',
     cog:'#status-cog',
     dirTabs:'#dir-menu'
 });
+
+console.log(map);
+
 
 $(directions).each(function(index, item) {
     if(!dirLookup.hasOwnProperty(item.rte_desc)) {
@@ -129,9 +129,11 @@ function SidebarControlFactory(position, divId) {
             //var div = $('<div>').attr('id', 'map-sidebar');
             var container = L.DomUtil.create('div', 'map-sidebar');
             $(container).attr('id', 'map-sidebar');
+            console.log(container);
             return container;
         },
         addContent:function(content) {
+            console.log(content);
             $('#map-sidebar').remove().append(content).css('display', '');
         },
         clearContent:function() {
@@ -148,7 +150,9 @@ function ViewControlFactory(position, divId) {
         onAdd:function (map) {
             var viewMenu = $('#hidden-view-menu').remove();
             var container = L.DomUtil.create('div', 'my-custom-control');
+            console.log($(container));
             $(container).append(viewMenu.html());
+            console.log(container);
             return container;
         }
     });
@@ -160,8 +164,13 @@ map.addSidebar(sidebar);
 //map.map.addControl(sidebar);
 
 var ViewControl = ViewControlFactory('topright', 'layer-control');
-var viewControl = new ViewControl()
+var viewControl = new ViewControl();
+console.log(map.map);
+//add view control to map.map L.map object by calling addControl method
 map.map.addControl(viewControl);
+
+//add trimet boundary layer
+//map.addBoundary(tmLayer, map.map);
 
 function activateDir(activeSelector) {
     $('#dir-menu button.active').removeClass('active').removeClass('active-dir');
@@ -217,10 +226,14 @@ $('#dir-menu button').on('click', function() {
 
 $('#view-menu a').on('click', function() {
     active.view = this.text;
+    console.log(active.view);
     $("#view-btn").text(active.view+' ').append('<span class="caret"></span>');
     map.activateView(active.rte, active.dir, active.view);
 });
 
 </script>
 
+
+
 {% endblock %}
+

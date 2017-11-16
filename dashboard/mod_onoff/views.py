@@ -149,7 +149,7 @@ def map():
         'rte':route['rte'], 'rte_desc':route['rte_desc']
         } for route in h.get_routes() ]
     directions = h.get_directions()
-    return render_template('onoff/map.html',
+    return render_template('onoff/map2.html',
         routes=routes, directions=directions
     )
 
@@ -167,7 +167,7 @@ def map_offs_details():
             WHERE rte = :rte;""", {'rte':rte})
         query_markers = session.execute("""
             SELECT dir, tad, centroid, stops, ons, count
-            FROM long.tad_stats
+            FROM tad_stats
             WHERE rte = :rte;""", {'rte':rte})
         query_tads = session.execute("""
             SELECT
@@ -185,7 +185,7 @@ def map_offs_details():
                 dir,
                 on_tad,
                 sum(count) AS ons
-            FROM long.tad_onoff
+            FROM tad_onoff
             WHERE rte = :rte
             GROUP BY dir, on_tad;""", {'rte':rte})
         query_data = session.execute("""
@@ -194,7 +194,7 @@ def map_offs_details():
                 on_tad,
                 off_tad,
                 count
-            FROM long.tad_onoff
+            FROM tad_onoff
             WHERE rte = :rte;""", {'rte':rte})
         query_routes = session.execute("""
             SELECT dir, ST_AsGeoJson(ST_Transform(ST_Union(geom), 4326))
@@ -203,7 +203,7 @@ def map_offs_details():
             GROUP BY dir;""", {'rte':rte})
         query_minmax = session.execute("""
             SELECT dir, label, stop_name, ST_AsGeoJson(ST_Transform(geom, 4326))
-            FROM long.stop_minmax
+            FROM stop_minmax
             WHERE rte = :rte;""", {'rte':rte})
         
         def build_data(record):

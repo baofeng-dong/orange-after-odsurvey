@@ -570,6 +570,18 @@ Map.prototype = {
         this.map.addControl(sidebar);
         this.sidebar = $('#'+sidebarID);
     },
+    addBoundary:function(geojson, map) {
+        var path = base + 'static/geojson/';
+
+        $.getJSON(path + geojson, function(data) {
+            console.log(data);
+            boundary = L.geoJson(data, {
+                style: styles.tmLayer
+            });
+            boundary.addTo(map);
+            console.log(geojson + " added to mymap!");
+        })
+    },
     buildData:function(data) {
         var THIS = this;
         var viewArgs = {

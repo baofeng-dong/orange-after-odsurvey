@@ -149,7 +149,7 @@ def map():
         'rte':route['rte'], 'rte_desc':route['rte_desc']
         } for route in h.get_routes() ]
     directions = h.get_directions()
-    return render_template('onoff/map2.html',
+    return render_template('onoff/map.html',
         routes=routes, directions=directions
     )
 

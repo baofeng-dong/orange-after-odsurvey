@@ -101,7 +101,7 @@ var base = '{{url_for('index')}}';
 console.log(base);
 //create boundary geojson layergroup
 //var boundaryLayer = new L.FeatureGroup();
-//var tmLayer = "tm_fill.geojson";
+var tmLayer = "tm_fill.geojson";
 //use Map constructor to create an instance of Map   
 var map = new Map({
     mapID:'map',
@@ -170,7 +170,7 @@ console.log(map.map);
 map.map.addControl(viewControl);
 
 //add trimet boundary layer
-//map.addBoundary(tmLayer, map.map);
+map.addBoundary(tmLayer, map.map);
 
 function activateDir(activeSelector) {
     $('#dir-menu button.active').removeClass('active').removeClass('active-dir');

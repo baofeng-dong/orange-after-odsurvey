@@ -22,36 +22,35 @@ var styles = {
     },
     tadDefault:{
        // fillColor:this.tadColor,
-        fillColor:'#B7BDF4',
+        fillColor:'#5D9CA2',
         color:'#595959',
         weight:3,
         dashArray:'2 6',
         opacity:1,
-        fillOpacity:0.7
+        fillOpacity:0.25
     },
     tadHover:{
         fillColor:'#45A035',
-        color:'#595959',
+        color:'#3F64A7',
         weight:3,
         opacity:1,
         fillOpacity: 0.2
     },
     _defaultStyle:{
         //fillColor:this.tadColor,
-        fillColor:'#B7BDF4',
-
+        fillColor:'#5D9CA2',
         color:'#595959',
         weight:3,
         dashArray:'2 6',
         opacity:1,
-        fillOpacity:0.15
+        fillOpacity:0.45
     },
     _eventStyle:{
-        fillColor:'#536FD6',
-        color:'#3F4D96',
+        fillColor:'#3399FF',
+        color:'#007DB7',
         weight:4,
         opacity:1,
-        fillOpacity: 0.4
+        fillOpacity: 0.2
     },
 
     offCentroid:{
@@ -60,7 +59,13 @@ var styles = {
         weight:0.5,
         opacity:0.9,
         fillOpacity:0.6
-    }
+    },
+    tmLayer: {
+        color: "#909090",
+        weight: 2.0,
+        opacity: 0.8,
+        fillOpacity: 0.0
+    } 
 };
 
 var icons = {
@@ -506,6 +511,15 @@ Map.prototype = {
             subdomains:["tilea", "tileb", "tilec", "tiled"]
         });
     },
+    mapboxTiles:function() {
+        var url = "https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoidG11c2VyMTk3IiwiYSI6ImNpc254cHk1YTA1dngydm14bjkyamQ1NmsifQ.8ya7T1hHXtVmYOwMrVIuFw";
+        return new L.tileLayer(url, {
+            attribution: '<a href="https://www.mapbox.com/about/maps/" target="_blank">&copy; Mapbox &copy; OpenStreetMap</a>',
+            id: 'mapbox.light',
+            maxZoom: 20,
+            minZoom: 9
+        });
+    },
     osmTiles:function() {
         var url='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
         return new L.TileLayer(url, {
@@ -517,7 +531,7 @@ Map.prototype = {
     },
     initmap:function(map_div) {
         var map = new L.Map(map_div);
-        var tiles = this.trimetTiles()
+        var tiles = this.mapboxTiles();
         map.setView(new L.LatLng(45.5, -122.5),11);
         map.addLayer(tiles);
         return map;

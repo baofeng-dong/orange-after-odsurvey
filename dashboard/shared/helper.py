@@ -135,8 +135,8 @@ class Helper(object):
         session = Session()
         routes = session.execute("""
             SELECT rte, rte_desc
-            FROM lookup_rte
-            ORDER BY rte;""")
+            FROM orange_route_direction
+            ORDER BY route_sort_order;""")
         ret_val = [ {'rte':str(route[0]), 'rte_desc':route[1]} for route in routes ]
         debug(ret_val)
         session.close()

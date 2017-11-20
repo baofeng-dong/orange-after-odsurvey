@@ -62,11 +62,33 @@ var styles = {
     },
     tmLayer: {
         color: "#909090",
-        weight: 2.0,
-        opacity: 0.8,
+        weight: 1.0,
+        opacity: 0.9,
         fillOpacity: 0.0
-    } 
+    }
 };
+
+function getRteColor(rte) {
+    return rte == 90  ? '#d02c0f' :
+           rte == 100 ? '#0069AA' :
+           rte == 190 ? '#FFC425' :
+           rte == 200 ? '#008752' :
+           rte == 203 ? '#c044ec' :
+           rte == 290 ? '#D15F27' :
+                        '#1c4ca5' ;
+}
+
+function onEachFeature(feature, layer) {
+    var popupContent = "<b>Route:</b> " + feature.properties.rte + '-' + feature.properties.rte_desc;
+    // specify popup options 
+    var customOptions =
+        {
+        'maxWidth': '300',
+        'className' : 'custom'
+        }
+
+    layer.bindPopup(popupContent, customOptions);
+}
 
 var icons = {
     start: L.icon({
@@ -93,13 +115,13 @@ function BuildStops(MAP_THIS) {
 BuildStops.prototype = {
     pointFunctionStops:function(feature, latlng) { 
         var opt = jQuery.extend(true, {}, styles.tadQuota); 
-        opt.fillColor = '#000'; 
-        opt.color = '#302D5B';    
+        opt.fillColor = '#000';
+        opt.color = '#302D5B';
         opt.fillOpacity = 0.6
         opt.radius = 4; 
-        opt.clickable = false; 
-        var marker = new L.circleMarker(latlng, opt); 
-        return marker; 
+        opt.clickable = false;
+        var marker = new L.circleMarker(latlng, opt);
+        return marker;
     },
     build:function(data) {
         var stops = [{}, {}];
@@ -145,6 +167,7 @@ BuildQuotas.prototype = {
         var text;
         if(pct < 0) text = 'N/A';
         else text = pct.toString() + "%";
+        //console.log("text: ", text);
         return text;
     },
     _getPct:function(count, quota) {
@@ -173,6 +196,7 @@ BuildQuotas.prototype = {
     tadPointToLayer:function() {
         var THIS = this;
         return function(feature, latlng) {
+            //console.log(feature);
             var opt = jQuery.extend(true, {}, styles.tadQuota);
             var code = THIS._getStatus(
                 THIS._getPct(feature.properties.count,feature.properties.ons)
@@ -188,7 +212,7 @@ BuildQuotas.prototype = {
     },
     buildTadTable:function(properties) {
         console.log("BUILD TABLE");
-        console.log(properties);
+        //console.log(properties);
         var THIS = this;
         var tableDiv = $('<div>')
         if (properties) {
@@ -272,6 +296,7 @@ BuildQuotas.prototype = {
             };
             geo.properties = prop;
             fc.features.push(geo);
+            //console.log(fc);
         }
         return new L.geoJson(fc, {
                 pointToLayer:THIS.tadPointToLayer(),
@@ -311,6 +336,7 @@ BuildTads.prototype = {
         return function(e) {
             var layer = e.target;
             var tad = layer.feature.properties.tad;
+            console.log(layer, tad);
             MAP_THIS.manager.curView.triggerEvent(layer, tad);
         }
     },
@@ -371,6 +397,7 @@ BuildOffs.prototype = {
                     prop.tad = off_tad.tad;
                     prop.offs = off_tad.offs;
                     prop.pct = off_tad.offs / on_tad.ons;
+                    //console.log("prop: ", prop);
                     centroid.properties = prop;
                     newFc.features.push(centroid);
                 }
@@ -517,13 +544,13 @@ Map.prototype = {
             attribution: '<a href="https://www.mapbox.com/about/maps/" target="_blank">&copy; Mapbox &copy; OpenStreetMap</a>',
             id: 'mapbox.light',
             maxZoom: 20,
-            minZoom: 9
+            minZoom: 10
         });
     },
     osmTiles:function() {
         var url='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
         return new L.TileLayer(url, {
-            minZoom: 8,
+            minZoom: 9,
             maxZoom: 20,
             attribution: 'Map data © '+
             '<a href="http://openstreetmap.org">OpenStreetMap</a>contributors'
@@ -570,11 +597,31 @@ Map.prototype = {
         this.map.addControl(sidebar);
         this.sidebar = $('#'+sidebarID);
     },
+    addGeoJson:function(geojson, map) {
+        var path = base + 'static/geojson/rte/';
+
+        $.getJSON(path + geojson, function(data) {
+            console.log(data);
+            //console.log(data.features[0].properties.rte);
+            tmJson = L.geoJson(data, {
+                style: function (feature) {
+                    return {
+                            color: getRteColor(feature.properties.rte),
+                            weight: 2.5,
+                            opacity: 0.80
+                        }
+                },
+                onEachFeature: onEachFeature,
+            });
+            tmJson.addTo(map);
+            console.log(geojson + " added to mymap!");
+        })
+    },
     addBoundary:function(geojson, map) {
         var path = base + 'static/geojson/';
 
         $.getJSON(path + geojson, function(data) {
-            console.log(data);
+            //console.log(data);
             boundary = L.geoJson(data, {
                 style: styles.tmLayer
             });
@@ -582,6 +629,14 @@ Map.prototype = {
             console.log(geojson + " added to mymap!");
         })
     },
+    clearLayers:function(map) {
+        map.eachLayer(function (layer) {
+            if (layer instanceof L.TileLayer == false) {
+                map.removeLayer(layer);
+            }
+        })
+    },
+
     buildData:function(data) {
         var THIS = this;
         var viewArgs = {
@@ -629,6 +684,7 @@ Map.prototype = {
             );
             //tad display layer
             viewOffs[dir].addDisplayLayer(tadLayers[dir]);
+            console.log("viewOffs[dir]: ", viewOffs[dir]);
             viewQuotas[dir].addDisplayLayer(tadLayers[dir]);
             //route and terminus layers
             $(["route", "end", "start"]).each(function(index, layer) {
@@ -639,6 +695,7 @@ Map.prototype = {
             $([offLayer, offLabelLayer]).each(function(index, layer) {
                 for(var key in layer) {
                     viewOffs[dir].addEventLayer(layer[key], key);
+                    console.log(layer, " ", key);
                 }
             });
             viewQuotas[dir].addDisplayLayer(quotasLayer);
@@ -651,6 +708,7 @@ Map.prototype = {
                 viewQuotas[dir].addEventCallback(key, {
                     activate:function(feature, key) {
                         //add html table to map sidebar
+                        console.log(feature, key);
                         console.log("active callback hello");
                         $('#map-sidebar').show().append(quotasTables[key]);
                         //$('#map-sidebar').css('display', '').empty()

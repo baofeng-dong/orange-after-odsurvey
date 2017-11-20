@@ -97,6 +97,7 @@ var tagID = {
 
 var dirLookup = {};
 var directions = {{ directions|tojson|safe }};
+var rtelist = {{rtelist|tojson|safe}};
 var base = '{{url_for('index')}}';
 console.log(base);
 //create boundary geojson layergroup
@@ -172,6 +173,11 @@ map.map.addControl(viewControl);
 //add trimet boundary layer
 map.addBoundary(tmLayer, map.map);
 
+for (var i=0; i<rtelist.length; i++) {
+        //console.log("rtejsonlist: " +rtelist[i])
+        map.addBoundary(rtelist[i], map.map);
+    }
+
 function activateDir(activeSelector) {
     $('#dir-menu button.active').removeClass('active').removeClass('active-dir');
     $(activeSelector).addClass('active').addClass('active-dir');
@@ -192,6 +198,7 @@ $('#rte-menu a').on('click', function() {
     }
     active.rte = $(this).attr("rte");
     console.log("rte: " + active.rte);
+    //map.clearLayers(map.map);
     map.activateRoute({
         active:active,
         rteDesc:this.text,

@@ -20,6 +20,7 @@ INBOUND = '1'
 OUTBOUND = '0'
 DIRECTION = {'1':'Inbound', '0':'Outbound'}
 TRAINS = ['190','193','194','195','200','290']
+DIRPATH = os.path.dirname(os.path.realpath(__file__))
 
 
 class Helper(object):
@@ -267,6 +268,11 @@ class Helper(object):
         web_session.close()
 
         return ret_val
+
+    @staticmethod
+    def getrtejson():
+        d = os.path.join(DIRPATH, '..','static/geojson/rte')
+        return [f for f in os.listdir(d)]
 
     @staticmethod
     def query_routes_summary():

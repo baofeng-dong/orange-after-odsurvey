@@ -145,12 +145,15 @@ def surveyor_summary_query():
 
 @mod_onoff.route('/map')
 def map():
+    scroutes = ['193', '194', '195']
     routes = [ {
         'rte':route['rte'], 'rte_desc':route['rte_desc']
-        } for route in h.get_routes() ]
+        } for route in h.get_routes() if route['rte'] not in scroutes]
     directions = h.get_directions()
+    rtelist = Helper.getrtejson()
+    debug(rtelist)
     return render_template('onoff/map.html',
-        routes=routes, directions=directions
+        routes=routes, directions=directions, rtelist=rtelist
     )
 
 @mod_onoff.route('/map/_details', methods=['GET'])

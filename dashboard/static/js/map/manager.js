@@ -16,6 +16,7 @@ function EventHandler(map, sidebar, defaultStyle, eventStyle) {
 //   }
 //*/
 EventHandler.prototype.addEventCallback = function(key, callbacks) {
+    console.log(key, " ", callbacks);
     console.log("add event callback");
     var newCallbacks = {activate:null, close:null};
     if(!this.eventTriggers.hasOwnProperty(key)) {
@@ -31,6 +32,7 @@ EventHandler.prototype.addEventCallback = function(key, callbacks) {
     }
     if(newCallbacks.activate == null || newCallbacks.close == null) return false;
     this.eventTriggers[key].push(newCallbacks);
+    console.log(this.eventTriggers);
     return true;
 }
 
@@ -70,6 +72,7 @@ EventHandler.prototype.activate = function(feature, key) {
     feature.setStyle(this.eventStyle);
     if(this.displayLayers.hasOwnProperty(key)) {
         this.map.addLayer(this.displayLayers[key]);
+        console.log(this.displayLayers[key], " ", key);
     }
     if(this.eventTriggers.hasOwnProperty(key)) {
         var THIS = this;
@@ -103,6 +106,8 @@ function View(map, args) {
 }
 
 View.prototype.triggerEvent = function(feature, key) {
+    console.log(this.eventHandler);
+    console.log(this.eventHandler.activate(feature,key));
     return this.eventHandler.activate(feature, key);
 }
 

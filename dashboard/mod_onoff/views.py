@@ -145,12 +145,15 @@ def surveyor_summary_query():
 
 @mod_onoff.route('/map')
 def map():
+    scroutes = ['193', '194', '195']
     routes = [ {
         'rte':route['rte'], 'rte_desc':route['rte_desc']
-        } for route in h.get_routes() ]
+        } for route in h.get_routes() if route['rte'] not in scroutes]
     directions = h.get_directions()
+    rtelist = Helper.getrtejson()
+    debug(rtelist)
     return render_template('onoff/map.html',
-        routes=routes, directions=directions
+        routes=routes, directions=directions, rtelist=rtelist
     )
 
 @mod_onoff.route('/map/_details', methods=['GET'])
@@ -167,7 +170,7 @@ def map_offs_details():
             WHERE rte = :rte;""", {'rte':rte})
         query_markers = session.execute("""
             SELECT dir, tad, centroid, stops, ons, count
-            FROM long.tad_stats
+            FROM tad_stats
             WHERE rte = :rte;""", {'rte':rte})
         query_tads = session.execute("""
             SELECT
@@ -185,7 +188,7 @@ def map_offs_details():
                 dir,
                 on_tad,
                 sum(count) AS ons
-            FROM long.tad_onoff
+            FROM tad_onoff
             WHERE rte = :rte
             GROUP BY dir, on_tad;""", {'rte':rte})
         query_data = session.execute("""
@@ -194,7 +197,7 @@ def map_offs_details():
                 on_tad,
                 off_tad,
                 count
-            FROM long.tad_onoff
+            FROM tad_onoff
             WHERE rte = :rte;""", {'rte':rte})
         query_routes = session.execute("""
             SELECT dir, ST_AsGeoJson(ST_Transform(ST_Union(geom), 4326))
@@ -203,7 +206,7 @@ def map_offs_details():
             GROUP BY dir;""", {'rte':rte})
         query_minmax = session.execute("""
             SELECT dir, label, stop_name, ST_AsGeoJson(ST_Transform(geom, 4326))
-            FROM long.stop_minmax
+            FROM stop_minmax
             WHERE rte = :rte;""", {'rte':rte})
         
         def build_data(record):

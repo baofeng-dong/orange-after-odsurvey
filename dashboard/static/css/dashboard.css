@@ -121,31 +121,6 @@ table {
     height: 100%;
 }
 
-#map-button-header {
-    float:right;
-}
-
-#map-select {
-    height: 100px;
-    width: 100%;
-    max-width: 920px;
-}
-
-#map-intro {
-    width: 40%;
-    margin-right: 20px;
-    float: left;
-}
-
-#map-view {
-    width: 25%;
-    padding-left: 50px;
-    margin-top: 10px;
-    margin-left: 25px;
-    margin-right: 20px;
-    float: left;
-}
-
 #summary-view {
     width: 20%;
     margin-top: 10px;
@@ -338,6 +313,77 @@ display: none;
 
 .tbl-row-header {
     background-color:rgba(201,213,219,0.6);
+
+.off-label {  
+    background-color:rgba(0,0,0,0.2);
+    width:30px;
+    height:30px;
+    border-radius: 10px;
+}
+
+.off-label table {  
+    border-collapse:collapse;
+    width:100%;
+    height:100%;
+}
+
+.active-dir {
+    background-color:rgba(0,0,0,0.2);
+}
+
+
+.off-label td {
+    line-height:0;
+    text-align: center;
+    font-size:10;
+    color:#D2D4EF;
+    font-weight:bold;
+    text-shadow: 0 0 3px black;
+}
+
+.quotas-table {  
+
+}
+
+#my-layers-toolbar button {
+    height: 40px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+.quotas-table th{  
+    padding:5px;
+    border:1;
+}
+
+.quotas-table td{  
+    padding:5px;
+}
+
+.map-sidebar {
+    display:none;
+    background-color:rgba(34,34,34,0.8);
+    padding:6px;
+    border-radius:3px;
+}
+
+#map-sidebar {
+    display:none;
+    background-color:rgba(34,34,34,0.8);
+    padding:6px;
+    border-radius:3px;
+}
+
+.map-sidebar div {
+    background-color:rgba(255,255,255,0.6);
+}
+
+.map-sidebar table {
+    margin:0px;
+}
+
+.pie-marker {   
+}
 
 .off-label {  
     background-color:rgba(0,0,0,0.2);

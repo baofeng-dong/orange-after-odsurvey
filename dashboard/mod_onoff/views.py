@@ -140,7 +140,7 @@ def surveyor_summary_query():
         date = request.args['date'].strip()
 
     response = Helper.current_users(date)
-    debug(response)
+    #debug(response)
     return jsonify(users=response)
 
 @mod_onoff.route('/map')
@@ -151,7 +151,7 @@ def map():
         } for route in h.get_routes() if route['rte'] not in scroutes]
     directions = h.get_directions()
     rtelist = Helper.getrtejson()
-    debug(rtelist)
+    #debug(rtelist)
     return render_template('onoff/map.html',
         routes=routes, directions=directions, rtelist=rtelist
     )
@@ -159,9 +159,11 @@ def map():
 @mod_onoff.route('/map/_details', methods=['GET'])
 def map_offs_details():
     response = {'success':False}
-    if 'rte_desc' in request.args.keys():
-        rte_desc = request.args['rte_desc'].strip()
-        rte = h.rte_lookup(rte_desc)
+    if 'rte' in request.args.keys():
+        rte = int(request.args['rte'].strip())
+        debug(rte)
+        #debug(type(rte))
+        #rte = h.rte_lookup(rte_desc)
         session = Session()
         fields = ['dir', 'tad', 'centroid', 'stops', 'ons', 'count']
         query_time = session.execute("""
@@ -284,7 +286,7 @@ def map_offs_details():
 
         # time of day buckets
         for record in query_time:
-            debug(record)
+            #debug(record)
             tad = record[1]
             if tad not in time_data[record[0]]:
                 time_data[record[0]][tad] = []

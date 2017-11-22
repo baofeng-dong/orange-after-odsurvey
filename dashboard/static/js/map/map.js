@@ -573,14 +573,14 @@ Map.prototype = {
         $(THIS.cog).hide();
         $(THIS.dirTabs).show();
     },
-    activateRoute:function(args) { //cur, rteDesc, activateView) {
+    activateRoute:function(args) { //cur, line, activateView) {
         var THIS = this;
-        THIS.currentRte = args.active.rte;
-        if(!THIS.manager.routeDownloaded(args.active.rte)) {
+        THIS.currentRte = args.line;
+        if(!THIS.manager.routeDownloaded(args.line)) {
             THIS.downloadStatusOn();
             THIS.manager.turnOff();
-            $.getJSON(this.url, {rte_desc:args.rteDesc}, function(data) {
-                console.log(args.rteDesc);
+            $.getJSON(this.url, {rte:args.line}, function(data) {
+                console.log(args.line);
                 console.log(data);
                 THIS.manager.addRoute(THIS.currentRte)
                 THIS.buildData(data);

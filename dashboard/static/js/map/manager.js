@@ -32,6 +32,7 @@ EventHandler.prototype.addEventCallback = function(key, callbacks) {
     }
     if(newCallbacks.activate == null || newCallbacks.close == null) return false;
     this.eventTriggers[key].push(newCallbacks);
+    console.log("new callbacks: ", newCallbacks);
     console.log(this.eventTriggers);
     return true;
 }
@@ -41,6 +42,8 @@ EventHandler.prototype.clear = function() {
     if(this.eventFeature) {
         if(this.displayLayers.hasOwnProperty(this.eventKey)) {
             this.map.removeLayer(this.displayLayers[this.eventKey]);
+            console.log("remove layer!");
+            console.log(this.displayLayers[this.eventKey]);
         }
         if(this.eventTriggers.hasOwnProperty(this.eventKey)) {
             $(THIS.eventTriggers[THIS.eventKey]).each(function(index, callbacks) {
@@ -66,6 +69,7 @@ EventHandler.prototype.activate = function(feature, key) {
             var THIS = this;
             $(THIS.eventTriggers[THIS.eventKey]).each(function(index, callbacks) {
                 callbacks.close(THIS.eventFeature, THIS.eventKey);
+                console.log(index, " ", callbacks);
             });
         }
     }

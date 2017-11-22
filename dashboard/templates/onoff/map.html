@@ -171,7 +171,7 @@ console.log(map.map);
 map.map.addControl(viewControl);
 
 //add trimet boundary layer
-map.addBoundary(tmLayer, map.map);
+//map.addBoundary(tmLayer, map.map);
 
 for (var i=0; i<rtelist.length; i++) {
         //console.log("rtejsonlist: " +rtelist[i])
@@ -199,9 +199,10 @@ $('#rte-menu a').on('click', function() {
     active.rte = $(this).attr("rte");
     console.log("rte: " + active.rte);
     //map.clearLayers(map.map);
+    console.log(active.rte);
     map.activateRoute({
         active:active,
-        rteDesc:this.text,
+        line:active.rte,
         activateView:function(active) {
             var defaultDir = 1;
             var defaultView = 'Quotas';

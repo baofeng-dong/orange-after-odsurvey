@@ -12,6 +12,7 @@
 
 <div id="status-onoff-intro">
     <h4><b>Boarding Alighting Map Dashboard</b></h4>
+    <p>Note: select route to view quotas and alightings summary for each direction</p>
 </div>
 
 <style>
@@ -171,7 +172,7 @@ console.log(map.map);
 map.map.addControl(viewControl);
 
 //add trimet boundary layer
-//map.addBoundary(tmLayer, map.map);
+map.addBoundary(tmLayer, map.map);
 
 for (var i=0; i<rtelist.length; i++) {
         //console.log("rtejsonlist: " +rtelist[i])

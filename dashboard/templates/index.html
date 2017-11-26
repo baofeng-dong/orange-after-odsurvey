@@ -9,11 +9,18 @@
 <div id="index-content">
 <h4><strong>Boarding and Alighting</strong></h4>
 <ul style="list-style-type: none; font-size: medium;">
-  <!--<li style="margin-top: 20px;"><a href="{{ url_for('index') }}introduction"><b>Introduction</b></a></li>-->
   <li style="margin-top: 20px;"><a href="{{ url_for('index') }}onoff/data"><b>Data</b></a></li>
   <li style="margin-top: 20px;"><a href="{{ url_for('index') }}onoff/surveyors"><b>Surveyor</b></a></li>
   <li style="margin-top: 20px;"><a href="{{ url_for('index') }}onoff/status"><b>Status</b></a></li>
   <li style="margin-top: 20px;"><a href="{{ url_for('index') }}onoff/map"><b>Map</b></a></li>
+</ul>
+
+<h4 style="margin-top: 60px"><strong>Long Intercept Survey</strong></h4>
+<ul style="list-style-type: none; font-size: medium;">
+  <li style="margin-top: 20px;"><a href="{{ url_for('index') }}long/data"><b>Data</b></a></li>
+  <!--<li style="margin-top: 20px;"><a href="{{ url_for('index') }}long/surveyors"><b>Surveyor</b></a></li>-->
+  <li style="margin-top: 20px;"><a href="{{ url_for('index') }}long/status"><b>Status</b></a></li>
+  <!--<li style="margin-top: 20px;"><a href="{{ url_for('index') }}long/map"><b>Map</b></a></li>-->
 </ul>
 </div>
 {% endblock %}

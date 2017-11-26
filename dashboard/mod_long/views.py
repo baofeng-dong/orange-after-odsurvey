@@ -12,10 +12,11 @@ from sqlalchemy import func
 from sqlalchemy.orm import aliased
 from geoalchemy2 import functions as geofunc
 
-#from dashboard import SessionODK as Session
+from dashboard import Session as Session
 from dashboard import debug, error
 from ..shared.models import Stops, SurveysCore, CallbackFlag as CFlag
-from ..shared.helper import Helper
+from ..shared.helper import Helper as h
+from .helper import Helper
 from .auth import Auth
 
 from dashboard.mod_long import fields as F
@@ -30,6 +31,79 @@ def static(html, static=STATIC_DIR):
 @mod_long.route('/')
 def index():
     return render_template('long/index.html')
+
+@mod_long.route('/data')
+def data():
+    """Sets up table headers and dropdowns in template"""
+    headers = ['Date', 'Time', 'Surveyor', 'Route', 'Direction', 'On Stop', 'Off Stop', 'Hop']
+    routes = [ route['rte_desc'] for route in Helper.get_routes() ]
+    directions = h.get_directions()
+    users = Helper.get_users()
+
+    return render_template('long/data.html',
+            routes=routes, directions=directions, headers=headers,
+            users=users)
+
+
+@mod_long.route('/data/_query', methods=['GET'])
+def data_query():
+    response = []
+    user = ""
+    rte_desc = ""
+    dir_desc = ""
+    csv = False
+
+    if 'rte_desc' in request.args.keys():
+        rte_desc = request.args['rte_desc'].strip()
+        debug(rte_desc)
+    if 'dir_desc' in request.args.keys():
+        dir_desc = request.args['dir_desc'].strip()
+        debug(dir_desc)
+    if 'user' in request.args.keys():
+        user = request.args['user'].strip()
+        debug(user)
+    if 'csv' in request.args.keys():
+        csv = request.args['csv']
+        debug(csv)
+
+    if csv:
+        data = Helper.query_route_data(
+            user=user, rte_desc=rte_desc, dir_desc=dir_desc,csv=csv
+        )
+        response = ""
+        # build csv string
+        for record in data:
+            response += ','.join(record) + '\n'
+    else:
+        response = Helper.query_route_data(
+            user=user, rte_desc=rte_desc, dir_desc=dir_desc
+        )
+
+    return jsonify(data=response)
+
+@mod_long.route('/status')
+def status():
+    routes = [ route['rte_desc'] for route in Helper.get_routes() ]
+    data = Helper.query_route_status()
+    web_session = Session()
+    query = web_session.execute("""
+        SELECT s.rte_desc, sum(s.count) AS count
+        FROM odk.records_long s
+        WHERE s.rte_desc LIKE 'Portland Streetcar%'
+        GROUP BY s.rte_desc;""")
+    #hardcode streetcar targets, then populate the count
+    streetcar = {
+            "Portland Streetcar - NS Line":{'target':869, 'count':0},
+            "Portland Streetcar - A Loop":{'target':331, 'count':0},
+            "Portland Streetcar - B Loop":{'target':343, 'count':0}
+    }
+    for record in query:
+        debug(record)
+        streetcar[record[0]]['count'] = int(record[1])
+    web_session.close()
+    summary = Helper.query_routes_summary()
+    return render_template('long/status.html', 
+            streetcar=streetcar, routes=routes, data=data, summary=summary)
 
 """
 def query_locations(uri):
@@ -94,57 +168,6 @@ def geo_query():
     return jsonify({'data':data})
     #return jsonify({'points':points, 'lines':lines})
 
-
-
-@mod_long.route('/callback')
-@Auth.requires_auth
-def callback():
-    callbacks = []
-    headers = [
-        "Save", "Status", "Date", "Time", "Route", "Direction",
-        "Name", "Number", "Call Time", "Spanish", "Comment"]
-    session = Session()
-    fields = session.execute("""
-        SELECT ordinal_position, column_name
-        FROM information_schema.columns
-        WHERE table_schema = 'web' AND table_name   = 'calls'
-        ORDER BY ordinal_position;""")
-    fields = [ f[1] for f in fields ]
-    query = session.execute("SELECT * FROM web.calls;")
-    for record in query:
-        data = {}
-        for index, field in enumerate(fields):
-            data[field] = record[index]
-        callbacks.append(data) 
-    session.close()
-    return render_template(
-        static('callback.html'),
-        headers=headers,
-        callbacks=callbacks)
-
-def convert_val(i, val):
-    if i in [11, 17] and val:
-        val = F.LOC_TYPE[val]
-    elif i == 13 and val:
-        val = F.ACCESS[val]
-    elif i == 20 and val:
-        val = F.EGRESS[val]
-    elif i == 35 and val:
-        val = val.strftime("%I:%M %p")
-    elif i == 36 and val:
-        val = F.STCAR_FARE[val]
-    elif i == 38 and val:
-        val = F.CHURN[val]
-    elif i == 40 and val:
-        val = F.REASON[val]
-    elif i == 45 and val:
-        val = F.RACE[val]
-    elif i == 47 and val:
-        val = F.INCOME[val]
-    elif i == 50 and val:
-        val = F.ENGL_PROF[val]
-    if not val and val != 0: val = ''
-    return val
 
 @mod_long.route('/viewer')
 def viewer():
@@ -233,33 +256,6 @@ def update_callback():
         session.close()
     return jsonify(res=response)
 
-
-@mod_long.route('/status')
-def status():
-    # TODO return routes list dynamically
-    session = Session()
-    routes = session.execute("""
-        SELECT rte::varchar, rte_desc
-        FROM web.rtedesc_lookup
-        ORDER BY rte::integer""")
-
-    routes = [ (route[0],route[1]) for route in routes ]
-    status = session.execute("""
-        SELECT * 
-        FROM web.summary_status""")
-    summary = []
-    for s in status:
-        summary.append({
-            'bucket':str(s[0]),
-            'in_target':int(s[2]),
-            'in_complete':int(s[3]) if s[3] else 0,
-            'in_pct':float(s[4]) if s[4] else 0,
-            'out_target':int(s[5]),
-            'out_complete':int(s[6]) if s[6] else 0,
-            'out_pct':float(s[7]) if s[7] else 0
-        })
-    session.close()
-    return render_template(static('status.html'), routes=routes, summary=summary)
 
 @mod_long.route('/status/_data', methods=['GET'])
 def status_data():

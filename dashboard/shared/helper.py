@@ -4,7 +4,7 @@ import csv, os
 from sqlalchemy import func, desc, distinct, cast, Integer
 from flask import current_app
 
-from dashboard import SessionONOFF as Session, debug
+from dashboard import Session as Session, debug
 
 app = current_app
 

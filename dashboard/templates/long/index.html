@@ -3,37 +3,23 @@
 # Please see the file COPYING in the source
 # distribution of this software for license terms. -->
 
-{% extends "dashboard_base.html" %}
+{% extends "base.html" %}
 
-{% block nav_links %}
-<li><a href="{{ url_for('onoff.index') }}">On and Off</a></li>
-<li><a href="{{ url_for('long.index') }}">Intercept</a></li>
-{% endblock %}
+{% block content %}
 
+<div id='message-onoff'>
+<h3><b>Intercept Long Survey Dashboard</b></h3>
+</div>
 
-{% block dashboard %}
-<h3 class="page-header">Intercept Dashboard</h3>
-
-<!--ul class="nav nav-pills nav-justified">
-  <li role="presentation">
-    <a class="pull-left" href="{{ url_for('long.viewer') }}">Data Viewer</a>
-  </li>
-</ul-->
-
-<ul class="nav nav-pills nav-justified">
-  <li role="presentation">
-    <a class="pull-left" href="{{ url_for('long.status') }}">Status</a>
-</li>
+<div id="index-content-onoff">
+<ul style="list-style-type: none; font-size: medium;">
+  <!--<li style="margin-top: 20px;"><a href="{{ url_for('index') }}introduction"><b>Introduction</b></a></li>-->
+  <li style="margin-top: 20px;"><a href="{{ url_for('index') }}long/data"><b>Data</b></a></li>
+  <!--<li style="margin-top: 20px;"><a href="{{ url_for('index') }}long/surveyors"><b>Surveyor</b></a></li>-->
+  <li style="margin-top: 20px;"><a href="{{ url_for('index') }}long/status"><b>Status</b></a></li>
+  <!--<li style="margin-top: 20px;"><a href="{{ url_for('index') }}long/map"><b>Map</b></a></li>-->
 </ul>
-
-<ul class="nav nav-pills nav-justified">
-  <li role="presentation">
-    <a class="pull-left" href="{{ url_for('long.callback') }}">Callbacks</a>
-  </li>
-</ul>
-
-
-
+</div>
 {% endblock %}
 
 

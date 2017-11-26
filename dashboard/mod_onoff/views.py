@@ -12,7 +12,7 @@ from sqlalchemy import func
 from .models import Scans, OnOffPairs_Scans, OnOffPairs_Stops
 from .helper import Helper
 from dashboard import debug, error
-from dashboard import SessionONOFF as Session
+from dashboard import Session as Session
 from ..shared.helper import Helper as h
 
 STATIC_DIR = '/onoff'

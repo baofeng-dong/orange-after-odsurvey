@@ -5,6 +5,7 @@
 
 
 import os, sys, json
+import time
 from decimal import Decimal
 
 from flask import Blueprint, redirect, url_for,render_template, jsonify, request
@@ -105,6 +106,23 @@ def status():
     return render_template('long/status.html', 
             streetcar=streetcar, routes=routes, data=data, summary=summary)
 
+@mod_long.route('/surveyors')
+def surveyor_status():
+    return render_template('long/surveyors.html')
+
+
+@mod_long.route('/surveyors/_summary', methods=['GET'])
+def surveyor_summary_query():
+    response = []
+    date = time.strftime("%d-%m-%Y")
+
+    if 'date' in request.args.keys():
+        date = request.args['date'].strip()
+
+    response = Helper.current_users(date)
+    #debug(response)
+    return jsonify(users=response)
+
 """
 def query_locations(uri):
     ret_val = {}
@@ -167,151 +185,3 @@ def geo_query():
         debug(data)
     return jsonify({'data':data})
     #return jsonify({'points':points, 'lines':lines})
-
-
-@mod_long.route('/viewer')
-def viewer():
-    error("test")
-    Auth.check_auth("blah", "pw")
-    data = []
-    headers = [
-        "Save", "Option", "Date", "Time", "User", "Route", "Direction"
-    ]
-    session = Session()
-    query = session.query(
-        SurveysCore.uri,
-        SurveysCore.srv_date,
-        SurveysCore.start_time,
-        SurveysCore.user_id,
-        SurveysCore.rte,
-        SurveysCore.dir
-    ).order_by(SurveysCore.srv_date, SurveysCore.start_time)\
-    .filter(SurveysCore.call_number == None)\
-    .limit(5)
-    
-    callbacks = []
-    for record in query:
-        #debug(record)
-        time = None
-        if record.start_time: time = record.start_time.strftime("%I:%M %p")
-        callbacks.append({
-            "uri":record.uri,
-            "date":record.srv_date,
-            "time":time,
-            "user":record.user_id,
-            "rte":record.rte,
-            "dir":record.dir
-        })
-    session.close()
-    return render_template(
-        static('viewer.html'),
-        headers=headers,
-        callbacks=callbacks)
-
-@mod_long.route('/_survey', methods=['GET'])
-def survey_data():
-    data = []
-    if 'uri' in request.args:
-        uri = request.args.get('uri')
-        session = Session()
-        fields = session.execute("""
-            SELECT ordinal_position, column_name
-            FROM information_schema.columns
-            WHERE table_schema = 'web' AND table_name   = 'callback'
-            ORDER BY ordinal_position;""")
-        survey = session.execute("""
-            SELECT * FROM web.callback
-            WHERE uri = :uri;""", {"uri":uri}).first()
-        lng = session.execute("""
-            SELECT choice FROM odk.lng
-            WHERE survey_uri = :uri;""", {"uri":uri})
-        
-        if survey:
-            fields = [ f[1] for f in fields ]
-            for index, field in enumerate(fields):
-                value = convert_val(index, survey[index])
-                data.append({"field":field, "value":value})
-            lngsData = {"field":"other_lngs", "value":""}
-            lngs = []
-            if lng:
-                for record in lng:
-                    if record[0]: lngs.append(F.LNG[record[0]])
-            lngsData["value"] = ", ".join(lngs)
-            data.insert(-2, lngsData)
-        session.close()
-    return jsonify({'data':data})
-
-
-@mod_long.route('/_update_callback', methods=['POST'])
-def update_callback():
-    response = {}
-    if 'uri' in request.form and 'flag' in request.form:
-        uri = request.form['uri']
-        flag = request.form['flag']
-        debug(uri)
-        debug(flag)
-        session = Session()
-        session.query(CFlag).filter_by(uri = uri).update({"flag":flag})
-        session.commit()
-        session.close()
-    return jsonify(res=response)
-
-
-@mod_long.route('/status/_data', methods=['GET'])
-def status_data():
-    data = {}
-    if 'rte_desc' not in request.args: return jsonify({'data':data})
-    rte_desc = request.args.get('rte_desc')
-    session = Session()
-    routes = session.execute("""
-        SELECT
-            rte,
-            rte_desc,
-            in_dir,
-            in_dir_desc,
-            out_dir,
-            out_dir_desc
-        FROM
-            web.rtedesc_lookup
-        WHERE rte_desc = :rte_desc""", {'rte_desc':rte_desc}).first()
-    if not routes: return jsonify({'data':data})
-    data = {
-        'rte':routes[0],
-        'in_dir':routes[3],
-        'out_dir':routes[5],
-        'status':[]
-    }
-    status = session.execute("""
-        SELECT *
-        FROM web.rte_status
-        WHERE rte = :rte
-        ORDER BY bucket""", {'rte':routes[0]})
-    for s in status:
-        data['status'].append({
-            'bucket':str(s[1]),
-            'in_target':int(s[2]),
-            'in_complete':int(s[3]) if s[3] else 0,
-            'in_pct':float(s[4]) if s[4] else 0,
-            'out_target':int(s[5]),
-            'out_complete':int(s[6]) if s[6] else 0,
-            'out_pct':float(s[7]) if s[7] else 0
-        })
-    session.close()
-    return jsonify({'data':data})
-
-
-"""
-    rtes = []
-    geom = db.session.query(
-        func.ST_AsGeoJSON(func.ST_Transform(func.ST_Union(Routes.geom), 4326))
-        .label('geom')).filter(Routes.rte == before_rte[0]).first()
-    for g in geom:
-        rtes.append(json.loads(g.geom))
-"""
-
-
-
-
-
-
-

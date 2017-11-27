@@ -353,11 +353,8 @@ class Helper(object):
         
         web_session = Session()
         results = web_session.execute("""
-            SELECT u.rte_desc, u.time_period, u.user_id, u.rte
-            FROM
-            (SELECT * from users_tod_ts
-            UNION
-            SELECT * from users_tod) u
+            SELECT u.rte_desc, u.time_period, u.surveyors, u.rte
+            FROM odk.users_tod_long u
             WHERE u.date = :date
             ORDER BY
                     CASE u.time_period

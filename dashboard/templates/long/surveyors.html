@@ -1,0 +1,45 @@
+<!-- Copyright (C) 2017 Baofeng Dong
+# This program is released under the "MIT License".
+# Please see the file COPYING in the source
+# distribution of this software for license terms. -->
+
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<div id="surveyors-onoff">
+<h4><strong>Long Survey Summary by Time of Day</strong></h4>
+<table style="margin-left: 5px; margin-top: 20px">
+  <tr>
+    <td style="padding-right:1em">
+      <strong>Select Date:</strong>
+    </td>
+    <td>      
+      <div class="input-group date">
+        <!--span class="input-group-addon"><i class="glyphicon glyphicon-th"></i></span-->
+        <input id="date-select" type="text" class="form-control">
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+<div style="margin:2px; margin-top:10px">
+<div id="workers-table" class="table-responsive panel panel-default">
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Time</th>
+        <th class="text-center">Route</th>
+        <th class="text-center">Surveyors</th>
+    </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
+</div>
+
+<script type="text/javascript" src="{{ url_for('index') }}static/js/surveyors.js"></script>
+
+{% endblock %}
+

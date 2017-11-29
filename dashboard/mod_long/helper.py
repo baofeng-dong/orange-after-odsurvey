@@ -127,6 +127,8 @@ class Helper(object):
             rte_desc = record[1]
             count = int(record[2])
             target = int(record[3])
+            if count > target*2:
+                count = target*2
             ret_val[rte_desc] = {"count":count, "target":target}
         debug(ret_val)
 
@@ -145,6 +147,8 @@ class Helper(object):
             time = record[4]
             count = int(record[5])
             target = int(record[6])
+            if count > target*2:
+                count = target*2
 
             data = {}
             data['target'] = target
@@ -179,7 +183,8 @@ class Helper(object):
             time = record[4]
             count = int(record[5])
             target = int(record[6])
-            
+            if count > target*2:
+                count = target*2
             data = {}
             data['target'] = target
             data['count'] = count

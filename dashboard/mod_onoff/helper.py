@@ -301,6 +301,8 @@ class Helper(object):
             rte_desc = record[1]
             count = int(record[2])
             target = int(record[3])
+            if count >= target*2:
+                count = target*1.5
             ret_val[rte_desc] = {"count":count, "target":target}
         debug(ret_val)
 
@@ -369,7 +371,7 @@ class Helper(object):
                     END;""")
             ret_val = Helper.build_response_summary_status(query)
         web_session.close()
-        debug(ret_val)
+        #debug(ret_val)
         return ret_val
 
     @staticmethod
@@ -396,6 +398,8 @@ class Helper(object):
             time = record[4]
             count = int(record[5])
             target = int(record[6])
+            if count > target*2:
+                count = target*2
 
             data = {}
             data['target'] = target

@@ -138,7 +138,7 @@ class Helper(object):
             FROM survey_routes
             ORDER BY route_sort_order;""")
         ret_val = [ {'rte':str(route[0]), 'rte_desc':route[1]} for route in routes ]
-        debug(ret_val)
+        #debug(ret_val)
         session.close()
         return ret_val
 
@@ -183,7 +183,7 @@ class Helper(object):
                 return string + filt
       
         # build where clause
-        debug(where)
+        #debug(where)
         for param in [(user, 'user'),(rte_desc, 'rte_desc'),(dir_desc, 'dir_desc')]:
             where = construct_where(where, param[0], param[1])
             debug(where)
@@ -208,7 +208,7 @@ class Helper(object):
         query_string += " ORDER BY date DESC, time DESC "
         query_string += limit
 
-        debug(query_string)
+        #debug(query_string)
 
         web_session = Session()
         query = web_session.execute(query_string, query_args)
@@ -440,7 +440,7 @@ class Helper(object):
             data = {'rte_desc':rte_desc, 'user':user}
             ret_val[time_period].append(data)
         web_session.close() 
-        debug(ret_val)
+        #debug(ret_val)
         return ret_val
 
     @staticmethod

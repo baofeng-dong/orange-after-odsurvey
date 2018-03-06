@@ -135,7 +135,7 @@ class Helper(object):
         session = Session()
         routes = session.execute("""
             SELECT rte, rte_desc
-            FROM orange_route_direction
+            FROM survey_routes
             ORDER BY route_sort_order;""")
         ret_val = [ {'rte':str(route[0]), 'rte_desc':route[1]} for route in routes ]
         debug(ret_val)
@@ -148,7 +148,7 @@ class Helper(object):
         session = Session()
         directions = session.execute("""
             SELECT rte, rte_desc, dir, dir_desc
-            FROM lookup_dir
+            FROM route_directions
             ORDER BY rte, dir;""")
         ret_val = [{
             'rte':str(direction[0]),

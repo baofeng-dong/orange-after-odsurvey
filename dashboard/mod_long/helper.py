@@ -224,7 +224,7 @@ class Helper(object):
         web_session = Session()
         routes = web_session.execute("""
             SELECT rte, rte_desc
-            FROM survey_routes
+            FROM orange_route_direction
             ORDER BY route_sort_order;""")
 
         RTE = 0
@@ -241,7 +241,7 @@ class Helper(object):
         web_session = Session()
         directions = web_session.execute("""
             SELECT rte, rte_desc, dir, dir_desc
-            FROM route_directions
+            FROM lookup_dir
             ORDER BY rte, dir;""")
 
         RTE = 0

@@ -106,7 +106,7 @@ class Helper(object):
                     END;""")
             ret_val = Helper.build_response_summary_status(query)
         web_session.close()
-        debug(ret_val)
+        #debug(ret_val)
         return ret_val
 
     @staticmethod
@@ -130,7 +130,7 @@ class Helper(object):
             if count > target*2:
                 count = target*2
             ret_val[rte_desc] = {"count":count, "target":target}
-        debug(ret_val)
+        #debug(ret_val)
 
         return ret_val
 
@@ -166,7 +166,7 @@ class Helper(object):
                 data = {}
 
             ret_val[rte_desc][str(dir)][time] = data
-            debug(ret_val)
+            #debug(ret_val)
         return ret_val
 
     @staticmethod
@@ -283,10 +283,10 @@ class Helper(object):
                 return string + filt
       
         # build where clause
-        debug(where)
+        #debug(where)
         for param in [(user, 'user'),(rte_desc, 'rte_desc'),(dir_desc, 'dir_desc')]:
             where = construct_where(where, param[0], param[1])
-            debug(where)
+            #debug(where)
             query_args[param[1]] = param[0]
         if where:
             where = " WHERE " + where
@@ -308,7 +308,7 @@ class Helper(object):
         query_string += " ORDER BY date DESC, time DESC "
         query_string += limit
 
-        debug(query_string)
+        #debug(query_string)
 
         web_session = Session()
         query = web_session.execute(query_string, query_args)
@@ -394,7 +394,7 @@ class Helper(object):
             data = {'rte_desc':rte_desc, 'user':user}
             ret_val[time_period].append(data)
         web_session.close() 
-        debug(ret_val)
+        #debug(ret_val)
         return ret_val
 
     @staticmethod

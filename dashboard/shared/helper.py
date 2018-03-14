@@ -32,7 +32,7 @@ class Helper(object):
                 rte_desc,
                 sum(count) AS count,
                 sum(target) AS target
-            FROM v.summary
+            FROM summary
             GROUP BY rte, rte_desc
             ORDER BY rte;""")
         
@@ -138,7 +138,7 @@ class Helper(object):
             FROM orange_route_direction
             ORDER BY route_sort_order;""")
         ret_val = [ {'rte':str(route[0]), 'rte_desc':route[1]} for route in routes ]
-        debug(ret_val)
+        #debug(ret_val)
         session.close()
         return ret_val
 
@@ -148,7 +148,7 @@ class Helper(object):
         session = Session()
         directions = session.execute("""
             SELECT rte, rte_desc, dir, dir_desc
-            FROM lookup_dir
+            FROM route_directions
             ORDER BY rte, dir;""")
         ret_val = [{
             'rte':str(direction[0]),
@@ -284,7 +284,7 @@ class Helper(object):
             query = web_session.execute("""
                 SELECT rte, rte_desc, dir, dir_desc,
                     time_period, count, target * .2
-                FROM v.summary
+                FROM summary
                 WHERE rte_desc = :rte_desc
                 ORDER BY rte, dir,
                     CASE time_period
@@ -303,7 +303,7 @@ class Helper(object):
             query = web_session.execute("""
                 SELECT rte, rte_desc, dir, dir_desc,
                     time_period, count, target * .2
-                FROM v.summary
+                FROM summary
                 ORDER BY rte, dir,
                     CASE time_period
                         WHEN 'AM Peak' THEN 1

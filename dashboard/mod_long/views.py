@@ -56,16 +56,16 @@ def data_query():
 
     if 'rte_desc' in request.args.keys():
         rte_desc = request.args['rte_desc'].strip()
-        debug(rte_desc)
+        #debug(rte_desc)
     if 'dir_desc' in request.args.keys():
         dir_desc = request.args['dir_desc'].strip()
-        debug(dir_desc)
+        #debug(dir_desc)
     if 'user' in request.args.keys():
         user = request.args['user'].strip()
-        debug(user)
+        #debug(user)
     if 'csv' in request.args.keys():
         csv = request.args['csv']
-        debug(csv)
+        #debug(csv)
 
     if csv:
         data = Helper.query_route_data(
@@ -84,7 +84,7 @@ def data_query():
 
 @mod_long.route('/status')
 def status():
-    routes = [ route['rte_desc'] for route in Helper.get_routes() ]
+    routes = [ route['rte_desc'] for route in h.get_routes() ]
     data = Helper.query_route_status()
     web_session = Session()
     query = web_session.execute("""
@@ -99,10 +99,11 @@ def status():
             "Portland Streetcar - B Loop":{'target':343, 'count':0}
     }
     for record in query:
-        debug(record)
         streetcar[record[0]]['count'] = int(record[1])
     web_session.close()
+    
     summary = Helper.query_routes_summary()
+    
     return render_template('long/status.html', 
             streetcar=streetcar, routes=routes, data=data, summary=summary)
 

@@ -166,7 +166,7 @@ class Helper(object):
                 data = {}
 
             ret_val[rte_desc][str(dir)][time] = data
-            #debug(ret_val)
+        #debug(ret_val)
         return ret_val
 
     @staticmethod
@@ -204,7 +204,7 @@ class Helper(object):
                 data = {}
             
             ret_val[str(dir)][time] = data
-        
+        debug(ret_val)
         return ret_val
 
     @staticmethod
@@ -224,7 +224,7 @@ class Helper(object):
         web_session = Session()
         routes = web_session.execute("""
             SELECT rte, rte_desc
-            FROM orange_route_direction
+            FROM survey_routes
             ORDER BY route_sort_order;""")
 
         RTE = 0

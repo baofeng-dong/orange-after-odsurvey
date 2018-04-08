@@ -18,8 +18,8 @@ from dashboard import debug, error
 from ..shared.models import Stops, SurveysCore, CallbackFlag as CFlag
 from ..shared.helper import Helper as h
 from .helper import Helper
-from .auth import Auth
-
+#from .auth import Auth
+from dashboard.auth import Auth
 from dashboard.mod_long import fields as F
 
 STATIC_DIR = '/long'
@@ -30,10 +30,12 @@ def static(html, static=STATIC_DIR):
     return os.path.join(static, html)
 
 @mod_long.route('/')
+@Auth.requires_auth
 def index():
     return render_template('long/index.html')
 
 @mod_long.route('/data')
+@Auth.requires_auth
 def data():
     """Sets up table headers and dropdowns in template"""
     headers = ['Date', 'Time', 'Surveyor', 'Route', 'Direction', 'On Stop', 'Off Stop', 'Hop']
@@ -83,6 +85,7 @@ def data_query():
     return jsonify(data=response)
 
 @mod_long.route('/status')
+@Auth.requires_auth
 def status():
     routes = [ route['rte_desc'] for route in h.get_routes() ]
     data = Helper.query_route_status()
@@ -108,6 +111,7 @@ def status():
             streetcar=streetcar, routes=routes, data=data, summary=summary)
 
 @mod_long.route('/surveyors')
+@Auth.requires_auth
 def surveyor_status():
     return render_template('long/surveyors.html')
 

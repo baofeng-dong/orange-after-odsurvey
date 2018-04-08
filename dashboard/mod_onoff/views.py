@@ -14,6 +14,7 @@ from .helper import Helper
 from dashboard import debug, error
 from dashboard import Session as Session
 from ..shared.helper import Helper as h
+from dashboard.auth import Auth
 
 STATIC_DIR = '/onoff'
 mod_onoff = Blueprint('onoff', __name__, url_prefix='/onoff', static_folder='static')
@@ -24,6 +25,7 @@ def static(html, static=STATIC_DIR):
     return os.path.join(static, html)
 
 @mod_onoff.route('/')
+@Auth.requires_auth
 def index():
     return render_template('onoff/index.html')
 
@@ -32,6 +34,7 @@ def index():
 #    return render_template(static('base.html'))
 
 @mod_onoff.route('/status')
+@Auth.requires_auth
 def status():
     routes = [ route['rte_desc'] for route in Helper.get_routes() ]
     data = Helper.query_route_status()
@@ -74,6 +77,7 @@ def status_details():
 
 
 @mod_onoff.route('/data')
+@Auth.requires_auth
 def data():
     """Sets up table headers and dropdowns in template"""
     headers = ['Date', 'Time', 'Surveyor', 'Route', 'Direction', 'On Stop', 'Off Stop']
@@ -127,6 +131,7 @@ def data_query():
 
 
 @mod_onoff.route('/surveyors')
+@Auth.requires_auth
 def surveyor_status():
     return render_template('onoff/surveyors.html')
 
@@ -144,6 +149,7 @@ def surveyor_summary_query():
     return jsonify(users=response)
 
 @mod_onoff.route('/map')
+@Auth.requires_auth
 def map():
     scroutes = ['193', '194', '195']
     routes = [ {

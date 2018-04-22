@@ -1,0 +1,1691 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 9580,
+                "stop_name": "Beavercreek & Hwy 213",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57665676085223,
+                    45.332340247082044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 9578,
+                "stop_name": "1700 Block Beavercreek Rd",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5831503369439,
+                    45.33314453586577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 1343,
+                "stop_name": "Division & Morton",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58830465107137,
+                    45.35272169285222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 6837,
+                "stop_name": "16th & Jackson",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59316027728623,
+                    45.36033477191616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 8098,
+                "stop_name": "9th & Monroe",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59994874506278,
+                    45.35611845873754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 121,
+                "stop_name": "W Arlington & Barton",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59882272257357,
+                    45.376435527418145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 136,
+                "stop_name": "W Arlington & Portland Ave",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59341834857521,
+                    45.37822062501249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 133,
+                "stop_name": "E Arlington & Harvard",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59008932206243,
+                    45.37932479198921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 4145,
+                "stop_name": "Oatfield & Stone Oaks Ct",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58843236658576,
+                    45.39022666714521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3250,
+                "stop_id": 4182,
+                "stop_name": "Oatfield & Oakridge",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59617002670585,
+                    45.39503713238454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3400,
+                "stop_id": 4174,
+                "stop_name": "SE Oatfield & McNary",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6058477387759,
+                    45.400491950936946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3500,
+                "stop_id": 4195,
+                "stop_name": "SE Oatfield & Roethe",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6108334985441,
+                    45.40350278084892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3650,
+                "stop_id": 4143,
+                "stop_name": "SE Oatfield & Allan",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6157123648273,
+                    45.40713517381832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3750,
+                "stop_id": 4190,
+                "stop_name": "SE Oatfield & Raymond",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61910259299586,
+                    45.409387526511345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 1351,
+                "stop_name": "Division & Selma",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5912134022987,
+                    45.3515927184752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 1404,
+                "stop_name": "Division & 15th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58827621866459,
+                    45.356195846897016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 6841,
+                "stop_name": "16th & Taylor",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58994829322069,
+                    45.35872095004537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 6835,
+                "stop_name": "16th & Harrison",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59144423151055,
+                    45.35946664877299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 3024,
+                "stop_name": "Jackson & 15th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59409069920262,
+                    45.359676143445874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 3020,
+                "stop_name": "Jackson & 12th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59630362250428,
+                    45.35746883326315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1425,
+                "stop_id": 8509,
+                "stop_name": "Jackson & 9th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5983741304528,
+                    45.355370454283594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 8094,
+                "stop_name": "9th & Jefferson",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60169042598339,
+                    45.35699979261181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 1068,
+                "stop_name": "Clackamas Community College",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57528594222735,
+                    45.32275755013603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 9579,
+                "stop_name": "1600 Block Beavercreek Rd",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58654327656949,
+                    45.33388885189877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 2865,
+                "stop_name": "1100 Block Molalla",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59113119054237,
+                    45.33737572180818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 3983,
+                "stop_name": "Molalla & Hilda",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59511787905451,
+                    45.34258146333686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 3990,
+                "stop_name": "Molalla & Pearl",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59655877917739,
+                    45.34873448029522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 3994,
+                "stop_name": "Molalla & Willamette",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59660375724391,
+                    45.350731043769485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 1323,
+                "stop_name": "Division & Buchanan",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59425811926168,
+                    45.3516315170022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 3842,
+                "stop_name": "McLoughlin & Oregon City Shopping Center",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60090119040717,
+                    45.36884478145592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 123,
+                "stop_name": "W Arlington & Beatrice",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59696466114018,
+                    45.37706081919686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 125,
+                "stop_name": "W Arlington & Bellevue",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59505711719598,
+                    45.37769965961321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 131,
+                "stop_name": "E Arlington & Cornell",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5868476237638,
+                    45.380388242371176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 8100,
+                "stop_name": "9th & Washington",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60340101676086,
+                    45.357853106623615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 140,
+                "stop_name": "E Arlington & 82nd Dr",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58381188044716,
+                    45.38139365737164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 4191,
+                "stop_name": "Oatfield & Ridgegate",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59076341212563,
+                    45.39222331730236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3200,
+                "stop_id": 4187,
+                "stop_name": "Oatfield & Park Way",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59425691384504,
+                    45.3938984904594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3300,
+                "stop_id": 4169,
+                "stop_name": "SE Oatfield & Jennings",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6003519017769,
+                    45.39716435082903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3350,
+                "stop_id": 4147,
+                "stop_name": "SE Oatfield & Clayson",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60332994240035,
+                    45.39910526809764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3450,
+                "stop_id": 4139,
+                "stop_name": "16800 Block SE Oatfield",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60837374599771,
+                    45.40188282254935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3550,
+                "stop_id": 4180,
+                "stop_name": "SE Oatfield & Oakland",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61301211081796,
+                    45.405161568917435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3600,
+                "stop_id": 4177,
+                "stop_name": "SE Oatfield & Naef",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61445868680913,
+                    45.406282768420155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3700,
+                "stop_id": 4200,
+                "stop_name": "SE Oatfield & Thiessen",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61719482248503,
+                    45.40815852658629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3800,
+                "stop_id": 4150,
+                "stop_name": "SE Oatfield & Concord",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62117853220867,
+                    45.411288100937206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4000,
+                "stop_id": 4137,
+                "stop_name": "SE Oatfield & Oak Grove",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6278664201954,
+                    45.41744785576656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4050,
+                "stop_id": 4166,
+                "stop_name": "SE Oatfield & Hill",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6290122583603,
+                    45.41925334210759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4250,
+                "stop_id": 4173,
+                "stop_name": "SE Oatfield & Loeffelman Rd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63121507238858,
+                    45.42570810191527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4400,
+                "stop_id": 4142,
+                "stop_name": "SE Oatfield & Aldercrest",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63039025858819,
+                    45.43151135601081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4450,
+                "stop_id": 4161,
+                "stop_name": "SE Oatfield & Guilford",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62969151009659,
+                    45.43484346571403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4600,
+                "stop_id": 3350,
+                "stop_name": "SE Lake & 31st Pl",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63181119477916,
+                    45.437312124424615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3900,
+                "stop_id": 4184,
+                "stop_name": "SE Oatfield & Oatfield Ct",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62549032716845,
+                    45.41517696277129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4100,
+                "stop_id": 4188,
+                "stop_name": "SE Oatfield & Pinehurst",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62967268210693,
+                    45.42129939745397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4350,
+                "stop_id": 4186,
+                "stop_name": "SE Oatfield & Park",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63261385713626,
+                    45.4301163880741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4650,
+                "stop_id": 3347,
+                "stop_name": "SE Lake & 28th",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63414079256528,
+                    45.43833952654089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 3984,
+                "stop_name": "Molalla & Hillcrest",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59228277248067,
+                    45.33889670484036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 1385,
+                "stop_name": "Division & 13th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58830516560481,
+                    45.35452002071769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 8759,
+                "stop_name": "Oregon City Transit Center",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6043943111484,
+                    45.36014340158901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4750,
+                "stop_id": 3345,
+                "stop_name": "SE Lake & 23rd",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63808879574925,
+                    45.44007693435964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3850,
+                "stop_id": 4193,
+                "stop_name": "SE Oatfield & Risley",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62409357279711,
+                    45.41392614969485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 9755,
+                "stop_name": "Beavercreek & Fir",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57870211260465,
+                    45.33264206567596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 11473,
+                "stop_name": "1400 Block Molalla",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58945180377492,
+                    45.33525698046593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 11482,
+                "stop_name": "500 Block Molalla",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59655479924298,
+                    45.34673818210692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 11932,
+                "stop_name": "Molalla & Mountain View",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5960851409136,
+                    45.34383999690281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4300,
+                "stop_id": 4199,
+                "stop_name": "SE Oatfield & Silver Springs",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63194997400062,
+                    45.42785606211281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 10700,
+                "stop_name": "Oatfield & E Exeter",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58390586136662,
+                    45.38433197097321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4550,
+                "stop_id": 3321,
+                "stop_name": "SE Lake & 33rd Pl",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63004417143965,
+                    45.43653598870343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4175,
+                "stop_id": 13186,
+                "stop_name": "13800 Block SE Oatfield",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63025593509599,
+                    45.42298433269194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 13187,
+                "stop_name": "Molalla & Harris",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59376348273227,
+                    45.34080107428725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4850,
+                "stop_id": 8225,
+                "stop_name": "SE Jackson & 21st",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64049050567836,
+                    45.444826836377764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3025,
+                "stop_id": 13252,
+                "stop_name": "Oatfield & E Hereford",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58495944768522,
+                    45.386471097173846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 13739,
+                "stop_name": "Oregon City Transit Center",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60424025503234,
+                    45.359997442773114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3075,
+                "stop_id": 13458,
+                "stop_name": "Oatfield & Webster",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58623484640523,
+                    45.38816866323001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4800,
+                "stop_id": 13776,
+                "stop_name": "SE 21st & Adams",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63948698676697,
+                    45.44157789474108
+                ]
+            }
+        }
+    ]
+}

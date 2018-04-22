@@ -1,0 +1,1093 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 955,
+                "stop_name": "SW Capitol & Sunset",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69321930207245,
+                    45.47889611121873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 363,
+                "stop_name": "SW Beaverton-Hillsdale & 18th Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69742108779879,
+                    45.478208148705555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 365,
+                "stop_name": "SW Beaverton-Hillsdale & 25th",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70226554129397,
+                    45.48008767081883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 370,
+                "stop_name": "SW Beaverton-Hillsdale & 35th",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71265714940405,
+                    45.48289666505227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 372,
+                "stop_name": "SW Beaverton-Hillsdale & 39th Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71645117706204,
+                    45.48458437430422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 374,
+                "stop_name": "SW Beaverton-Hillsdale & 42nd",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72010019272392,
+                    45.48559619616664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 378,
+                "stop_name": "SW Beaverton-Hillsdale & 50th",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72842826469432,
+                    45.487106795300726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 384,
+                "stop_name": "SW Beaverton-Hillsdale & 65th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74395043101171,
+                    45.48721714284252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 5152,
+                "stop_name": "4900 Block SW Scholls Ferry",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75276786578435,
+                    45.484467849830054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 5192,
+                "stop_name": "5200 Block SW Scholls Ferry",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7580695537492,
+                    45.48199168902835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 5155,
+                "stop_name": "5900 Block SW Scholls Ferry (Crosswalk)",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76364483128323,
+                    45.47751733345301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 5202,
+                "stop_name": "SW Scholls Ferry & 88th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76776086374424,
+                    45.47297930810491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 5157,
+                "stop_name": "6700 Block SW Scholls Ferry",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77492968626713,
+                    45.47124042900356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 5159,
+                "stop_name": "7700 Block SW Scholls Ferry",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77883380886576,
+                    45.46384547339241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 5169,
+                "stop_name": "SW Scholls Ferry & Crystal",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77968447506501,
+                    45.46221655380605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 5161,
+                "stop_name": "8600 Block SW Scholls Ferry",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78193579637667,
+                    45.45802699001343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 155,
+                "stop_name": "4900 Block SW Barbur",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68275676679825,
+                    45.487059214323075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 381,
+                "stop_name": "SW Beaverton-Hillsdale & 59th",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73768075634533,
+                    45.487172720392735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 5207,
+                "stop_name": "SW Scholls Ferry & 92nd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77200481186883,
+                    45.472650041719874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 173,
+                "stop_name": "SW Barbur & Hamilton",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67856572713241,
+                    45.49103721631115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 957,
+                "stop_name": "SW Capitol & Terwilliger",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68733659927162,
+                    45.480276157838624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 340,
+                "stop_name": "SW Beaverton-Hillsdale & Dosch",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7075066990492,
+                    45.481628566875095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 327,
+                "stop_name": "3600 Block SW Beaverton-Hillsdale",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71482062804972,
+                    45.483850975929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 376,
+                "stop_name": "SW Beaverton-Hillsdale & 45th",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72302252513897,
+                    45.48587170606781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 352,
+                "stop_name": "SW Beaverton-Hillsdale & Shattuck",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73197745844378,
+                    45.48718365162361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 329,
+                "stop_name": "6100 Block SW Beaverton-Hillsdale",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74034022840075,
+                    45.48718668071212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 5184,
+                "stop_name": "SW Scholls Ferry & BH Hwy",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75029613634574,
+                    45.48562407362763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 5153,
+                "stop_name": "5000 Block SW Scholls Ferry",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75576008605641,
+                    45.483100323329246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 5205,
+                "stop_name": "SW Scholls Ferry & 90th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77003167974493,
+                    45.472591886091905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 5171,
+                "stop_name": "SW Scholls Ferry & Merry",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77565338511887,
+                    45.46996902003601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 5180,
+                "stop_name": "SW Scholls Ferry & Marjorie",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77806648022867,
+                    45.46521361329685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 5167,
+                "stop_name": "SW Scholls Ferry & Crestwood",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78044107831266,
+                    45.460721453347595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 366,
+                "stop_name": "2600 Block SW Beaverton-Hillsdale",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70416647397626,
+                    45.48045302680156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 380,
+                "stop_name": "SW Beaverton-Hillsdale & 56th",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73536142108628,
+                    45.48714746949745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 5176,
+                "stop_name": "SW Scholls Ferry & Heather",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77690911656896,
+                    45.46743971163957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 3050,
+                "stop_id": 9649,
+                "stop_name": "Washington Square Transit Center",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77880878710533,
+                    45.45254305190195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 775,
+                "stop_id": 8770,
+                "stop_name": "SW Naito Parkway & Sheridan",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6776732174757,
+                    45.506096781945786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 5200,
+                "stop_name": "SW Scholls Ferry & 86th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76557041983544,
+                    45.474182955307704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 5188,
+                "stop_name": "SW Scholls Ferry & Nicol",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76154582447491,
+                    45.48029398137218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 13170,
+                "stop_name": "SW Broadway & W Burnside",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67723157892466,
+                    45.52289741395974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 13171,
+                "stop_name": "W Burnside & SW 5th",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6755822472393,
+                    45.522970053343215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 7586,
+                "stop_name": "SW 5th & Alder",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6772070403278,
+                    45.519601923194415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 7614,
+                "stop_name": "SW 5th & Main",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6790159382719,
+                    45.51626940153299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 13167,
+                "stop_name": "SW 5th & Clay",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68049937692004,
+                    45.51359718532566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 2580,
+                "stop_name": "SW Harrison & 4th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68109478942257,
+                    45.510523655329635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 2566,
+                "stop_name": "200 Block SW Harrison",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67903167489769,
+                    45.50998157550464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 0,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 6125,
+                "stop_name": "SW Eliander & One Embassy Centre",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78049580456096,
+                    45.45511634633488
+                ]
+            }
+        }
+    ]
+}

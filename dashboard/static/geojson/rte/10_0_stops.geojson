@@ -1,0 +1,1806 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 3635,
+                "stop_name": "SW Madison & 1st",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67583887422083,
+                    45.51445522332509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 2594,
+                "stop_name": "SE Hawthorne & 6th",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65989377955114,
+                    45.512167711525166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 2597,
+                "stop_name": "SE Hawthorne & 9th",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65687765024411,
+                    45.51215611906168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 3309,
+                "stop_name": "SE Ladd & Palm St",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65153194715424,
+                    45.51026344149589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 3304,
+                "stop_name": "SE Ladd & Ladd Circle",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64996065769651,
+                    45.50892348459491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 3311,
+                "stop_name": "SE Ladd & 16th",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64945585495829,
+                    45.50808402696259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 3308,
+                "stop_name": "SE Ladd & Lavender",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64760332695182,
+                    45.50690584207574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 1093,
+                "stop_name": "SE Clinton & 23rd",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6427109879234,
+                    45.50333135449116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 1095,
+                "stop_name": "SE Clinton & 26th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63989942758354,
+                    45.50331335727582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 7233,
+                "stop_name": "SE 26th & Woodward",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63972558251913,
+                    45.50203937166073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 7228,
+                "stop_name": "SE 26th & Powell",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63970618358645,
+                    45.498272703853324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 7230,
+                "stop_name": "SE 26th & Rhone",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63969038925129,
+                    45.496115849225866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 7224,
+                "stop_name": "SE 26th & Gladstone",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63965937218522,
+                    45.493461954245255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 1991,
+                "stop_name": "SE Gladstone & 28th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63775301081684,
+                    45.49329978073415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 7288,
+                "stop_name": "SE 28th & Raymond",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63761736446523,
+                    45.487248009263126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 7293,
+                "stop_name": "SE 28th & Steele",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6375621092406,
+                    45.48487469591928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 5515,
+                "stop_name": "SE Steele & 30th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63469946332908,
+                    45.484641388503185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 5519,
+                "stop_name": "SE Steele & 33rd",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63054802514563,
+                    45.484645958138934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 5520,
+                "stop_name": "SE Steele & 35th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6284134205775,
+                    45.48466122549953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 5522,
+                "stop_name": "SE Steele & 36th Pl",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62560248395357,
+                    45.484674357155406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 5526,
+                "stop_name": "SE Steele & 41st",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62074538062053,
+                    45.48465066618661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 5529,
+                "stop_name": "SE Steele & 44th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61762818328044,
+                    45.48462927634086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 2544,
+                "stop_name": "SE Harold & 57th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60484583963455,
+                    45.48298148059804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 2550,
+                "stop_name": "SE Harold & 65th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5971335293296,
+                    45.482986356551834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 2552,
+                "stop_name": "SE Harold & 69th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59198774146166,
+                    45.48299164590847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 2557,
+                "stop_name": "SE Harold & 74th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58678095021169,
+                    45.48300225771344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 1604,
+                "stop_name": "SE Ellis & 92nd",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56877134244358,
+                    45.48215377470038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 2564,
+                "stop_name": "SE Harold & 97th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56356172628804,
+                    45.48260835952911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 2518,
+                "stop_name": "SE Harold & 103rd",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55729958606365,
+                    45.482537683929614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3300,
+                "stop_id": 2524,
+                "stop_name": "SE Harold & 111th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54933420067852,
+                    45.482772528427724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3400,
+                "stop_id": 2528,
+                "stop_name": "SE Harold & 115th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54506199074748,
+                    45.48291562954645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3450,
+                "stop_id": 2530,
+                "stop_name": "SE Harold & 118th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54194130335789,
+                    45.48301469821805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3550,
+                "stop_id": 2534,
+                "stop_name": "SE Harold & 122nd",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53817785555412,
+                    45.48313774723203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 7108,
+                "stop_name": "SE 21st & Clinton",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64472220380709,
+                    45.5035184128191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 7281,
+                "stop_name": "SE 28th & Holgate",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63767412863386,
+                    45.48989403163427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 5531,
+                "stop_name": "SE Steele & 47th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61393373619951,
+                    45.484614328491375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2775,
+                "stop_id": 1600,
+                "stop_name": "SE Ellis & 86th Ct",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57422312024248,
+                    45.48223682220821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2075,
+                "stop_id": 5534,
+                "stop_name": "SE Steele & 52nd",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60886807843836,
+                    45.484608929165326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 1597,
+                "stop_name": "SE Ellis & Foster",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5764031440402,
+                    45.482202874212824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 2641,
+                "stop_name": "Hawthorne Bridge",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6651117795379,
+                    45.51215700840745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 2599,
+                "stop_name": "SE Hawthorne & 12th",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.653870659348,
+                    45.51213591464838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3700,
+                "stop_id": 13244,
+                "stop_name": "SE Harold & 130th",
+                "jurisdic": "Portland",
+                "zipcode": "97236",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52927833930794,
+                    45.48343348088503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3900,
+                "stop_id": 13245,
+                "stop_name": "SE 136th & Foster",
+                "jurisdic": "Portland",
+                "zipcode": "97236",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5236691043392,
+                    45.47710053492897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 4150,
+                "stop_id": 13032,
+                "stop_name": "SE Foster & 120th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53964794565344,
+                    45.476610103234506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 4200,
+                "stop_id": 1774,
+                "stop_name": "11600 Block SE Foster",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54454325862582,
+                    45.47655463215003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 4250,
+                "stop_id": 1785,
+                "stop_name": "SE Foster & 111th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54916016385914,
+                    45.476199372246164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 4300,
+                "stop_id": 1783,
+                "stop_name": "SE Foster & 107th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55354863053289,
+                    45.47620045110877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 4350,
+                "stop_id": 1781,
+                "stop_name": "SE Foster & 103rd",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55730115837274,
+                    45.476883846751214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 4400,
+                "stop_id": 1780,
+                "stop_name": "SE Foster & 101st",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55967927284786,
+                    45.477350764571966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 4450,
+                "stop_id": 1832,
+                "stop_name": "SE Foster & 97th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56309408735989,
+                    45.47838982888402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 4500,
+                "stop_id": 1831,
+                "stop_name": "SE Foster & 94th (I-205 Overpass)",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56624631178269,
+                    45.479259380523075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 5532,
+                "stop_name": "SE Steele & 50th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61095490107186,
+                    45.48462770388897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 2546,
+                "stop_name": "SE Harold & 60th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60224598464696,
+                    45.48300298149688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 2551,
+                "stop_name": "SE Harold & 67th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5945353808376,
+                    45.483007669803904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 2555,
+                "stop_name": "SE Harold & 72nd",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58884311644253,
+                    45.48299583346868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 2561,
+                "stop_name": "SE Harold & 79th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58255040205876,
+                    45.48300857650172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 1602,
+                "stop_name": "SE Ellis & 89th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57106637517492,
+                    45.4822106267425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 2512,
+                "stop_name": "SE Harold & 92nd",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56767350312802,
+                    45.48271630532689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 2517,
+                "stop_name": "SE Harold & 101st",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5593011157994,
+                    45.48249596208587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3250,
+                "stop_id": 2522,
+                "stop_name": "SE Harold & 109th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55119695232814,
+                    45.48271745078242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 7226,
+                "stop_name": "SE 26th & Kelly",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63970117278178,
+                    45.49989302020744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 5524,
+                "stop_name": "SE Steele & Cesar Chavez Blvd",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62280199053478,
+                    45.48465143518519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 2548,
+                "stop_name": "SE Harold & 62nd",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.599688701707,
+                    45.48298367065532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2640,
+                "stop_id": 8664,
+                "stop_name": "SE Harold & Foster",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57990173930418,
+                    45.48301056021937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3200,
+                "stop_id": 2520,
+                "stop_name": "SE Harold & 105th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55440555816894,
+                    45.482624780802944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3650,
+                "stop_id": 2537,
+                "stop_name": "SE Harold & 128th",
+                "jurisdic": "Portland",
+                "zipcode": "97236",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53231225199093,
+                    45.48330458511302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 2542,
+                "stop_name": "SE Harold & 54th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60744684020996,
+                    45.482983092731516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3350,
+                "stop_id": 2526,
+                "stop_name": "SE Harold & 113th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54723412386663,
+                    45.482847947633445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 3639,
+                "stop_name": "SW Madison & 4th",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67857274754658,
+                    45.51518918104962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3750,
+                "stop_id": 11029,
+                "stop_name": "SE Harold & 133rd",
+                "jurisdic": "Portland",
+                "zipcode": "97236",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52639428518548,
+                    45.483413813035256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3800,
+                "stop_id": 2539,
+                "stop_name": "SE Harold & 136th",
+                "jurisdic": "Portland",
+                "zipcode": "97236",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5238499792615,
+                    45.48338677957987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3600,
+                "stop_id": 2505,
+                "stop_name": "12400 Block SE Harold",
+                "jurisdic": "Portland",
+                "zipcode": "97236",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53549217664863,
+                    45.48330559208225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3950,
+                "stop_id": 1791,
+                "stop_name": "SE Foster & 134th",
+                "jurisdic": "Portland",
+                "zipcode": "97236",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52649117480972,
+                    45.476944897858175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 4000,
+                "stop_id": 1769,
+                "stop_name": "13100 Block SE Foster",
+                "jurisdic": "Portland",
+                "zipcode": "97236",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52870387072086,
+                    45.47688506230856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 4050,
+                "stop_id": 1789,
+                "stop_name": "SE Foster & 128th",
+                "jurisdic": "Portland",
+                "zipcode": "97236",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5325311226025,
+                    45.47676771414077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 4100,
+                "stop_id": 1787,
+                "stop_name": "SE Foster & 122nd",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53762589784009,
+                    45.47663951903069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 3850,
+                "stop_id": 6730,
+                "stop_name": "SE 136th & Ramona",
+                "jurisdic": "Portland",
+                "zipcode": "97236",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5236392483219,
+                    45.4801394815349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 10,
+                "dir": 0,
+                "rte_desc": "10-Harold St",
+                "dir_desc": "To Foster & 94th",
+                "type": "BUS",
+                "stop_seq": 875,
+                "stop_id": 7111,
+                "stop_name": "SE 21st & Division",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64465945095166,
+                    45.5044709883991
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,610 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 11766,
+                "stop_name": "Willamette Falls Dr & 11th St",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65287276790272,
+                    45.344802157283844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 9276,
+                "stop_name": "Blankenship & 19th St",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6629094237559,
+                    45.35156361368959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 9270,
+                "stop_name": "Blankenship & Virginia Lane",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6567454415229,
+                    45.35143079273433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 11765,
+                "stop_name": "Willamette Falls Dr & 6th St",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64425747160887,
+                    45.34731588350933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 11762,
+                "stop_name": "Willamette Falls Dr & West A",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61255151264461,
+                    45.36030068175165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 9297,
+                "stop_name": "Blankenship & Tannler Dr",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65380885400498,
+                    45.350057526510135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 9277,
+                "stop_name": "Blankenship & Ostman",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66663002536752,
+                    45.35139380210051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 9279,
+                "stop_name": "Ostman & Dollar",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6670562700604,
+                    45.3478181346575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 9284,
+                "stop_name": "Willamette Falls Dr & 19th St",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66327724157583,
+                    45.34342300963712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 9285,
+                "stop_name": "Willamette Falls Dr & 16th St",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65921056371607,
+                    45.343013087562746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 9269,
+                "stop_name": "Willamette Falls Dr & 12th St",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65427879668073,
+                    45.344394460531966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 10548,
+                "stop_name": "Blankenship & Debok",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65831282833554,
+                    45.35204136167659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 10523,
+                "stop_name": "Ostman & Willamette Falls",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.667035055597,
+                    45.34444049268261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 9286,
+                "stop_name": "Willamette Falls Dr & 14th St",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6568926631112,
+                    45.343651957634656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 13108,
+                "stop_name": "3500 Block Willamette Falls Dr",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63575593705343,
+                    45.34857498243968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 10447,
+                "stop_name": "Oregon City Transit Center",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6042853734863,
+                    45.360146182401266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 3690,
+                "stop_name": "Main & 13th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60219034210986,
+                    45.3616531481028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 8309,
+                "stop_name": "Washington & 16th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59848585203675,
+                    45.36277383667431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 8,
+                "stop_name": "900 Block Abernethy",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59388563258429,
+                    45.363512467613305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 8447,
+                "stop_name": "Abernethy & Redland Rd",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58728320661845,
+                    45.36434875947942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 2674,
+                "stop_name": "Holcomb & Apperson",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58328785357835,
+                    45.36445310913833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 8310,
+                "stop_name": "S Holcomb & Front Ave",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57972736626999,
+                    45.36613148160031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 8311,
+                "stop_name": "S Holcomb & Hunter Ave",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57528211383726,
+                    45.36824703647113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 2681,
+                "stop_name": "S Holcomb & Swan Ave",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57287557892029,
+                    45.369558695545116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 8312,
+                "stop_name": "Longview & Holcomb",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56767586835687,
+                    45.372895384486405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 1,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Clackamas Heights",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 3588,
+                "stop_name": "Longview & Holcomb",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57079817774991,
+                    45.371574732325314
+                ]
+            }
+        }
+    ]
+}

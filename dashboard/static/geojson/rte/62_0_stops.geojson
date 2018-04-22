@@ -1,0 +1,1277 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 9625,
+                "stop_name": "Sunset Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78193847008652,
+                    45.51014944006409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 234,
+                "stop_name": "12400 Block NW Barnes",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80471793037266,
+                    45.52202952570361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 1182,
+                "stop_name": "NW Cornell & Saltzman",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80718436033679,
+                    45.52537272860788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 1172,
+                "stop_name": "NW Cornell & Dale",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81206891731424,
+                    45.52552145347733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 4086,
+                "stop_name": "NW Murray & Science Park Dr",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8150442886857,
+                    45.525080949994944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 4067,
+                "stop_name": "SW Murray & Butner",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81935464621671,
+                    45.51379001892352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 4091,
+                "stop_name": "SW Murray & Walker",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82200294964046,
+                    45.51092182159678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 4057,
+                "stop_name": "3600 Block SW Murray",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8263706559208,
+                    45.49387707744329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 8316,
+                "stop_name": "3900 Block SW Murray",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82629420742134,
+                    45.4912577796218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 4088,
+                "stop_name": "SW Murray & Tualatin Valley Hwy",
+                "jurisdic": "Beaverton",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82633054764209,
+                    45.48904304244043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 4061,
+                "stop_name": "4800 Block SW Murray",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82629821419759,
+                    45.48453084523185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 4062,
+                "stop_name": "5300 Block SW Murray",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8262663952637,
+                    45.48090898839226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 4064,
+                "stop_name": "SW Murray & Bonnie Brae",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82630374926873,
+                    45.47863733639948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 8604,
+                "stop_name": "SW Murray & Allen",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8262724495161,
+                    45.47567129228186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 8605,
+                "stop_name": "SW Murray & Davis",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82627040887628,
+                    45.473759283639374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 11012,
+                "stop_name": "SW Barnes & 117th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79556338425797,
+                    45.51724078055701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 9628,
+                "stop_name": "SW Barnes & Cedar Hills Blvd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78969112515566,
+                    45.51553910588999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 10133,
+                "stop_name": "SW Murray & Nike",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82494578885817,
+                    45.50712217924433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 4068,
+                "stop_name": "SW Murray & Farmington",
+                "jurisdic": "Beaverton",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82629142826985,
+                    45.48604851813893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 8607,
+                "stop_name": "SW Murray & Hart",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82629715543634,
+                    45.46527951189427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 8615,
+                "stop_name": "SW Scholls Ferry & 130th",
+                "jurisdic": "Tigard",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80995893558601,
+                    45.44287620052875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 9808,
+                "stop_name": "SW Barnes & Cedar Hills Blvd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79275630335724,
+                    45.5166015958474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 228,
+                "stop_name": "NW Barnes & Saltzman",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80553451175714,
+                    45.522884766049415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 1162,
+                "stop_name": "12900 Block NW Cornell",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81020663763329,
+                    45.52502322499159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 4080,
+                "stop_name": "NW Murray & Milburn",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8161287567039,
+                    45.52009486344941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 8618,
+                "stop_name": "SW Scholls Ferry & Murray",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82502250663511,
+                    45.43847910179614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 8616,
+                "stop_name": "SW Scholls Ferry & North Dakota",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80566394905534,
+                    45.44353838309325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 5197,
+                "stop_name": "SW Scholls Ferry & Springwood",
+                "jurisdic": "Tigard",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79306762806966,
+                    45.44581546053851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 8606,
+                "stop_name": "SW Murray & Kilchis",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82633571679752,
+                    45.47183661440106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 9323,
+                "stop_name": "SW Murray & Barlow",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82629389105912,
+                    45.46955466546489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 8636,
+                "stop_name": "SW Murray & Hargis",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8261663932128,
+                    45.46209580689711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 8608,
+                "stop_name": "SW Murray & Sexton Mtn Dr",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82624394274538,
+                    45.459857300907764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 8609,
+                "stop_name": "SW Murray & Maverick Terr",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82630735891945,
+                    45.45536890339475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 8611,
+                "stop_name": "SW Murray & Weir Rd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82614676113263,
+                    45.44730004192646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 8612,
+                "stop_name": "SW Murray & Osprey Dr",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82614532941963,
+                    45.44303871117758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 8613,
+                "stop_name": "SW Murray & Teal Blvd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82615735306183,
+                    45.440966909958675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 8665,
+                "stop_name": "SW Scholls Ferry & Davies",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82004706331492,
+                    45.44002358121588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 8614,
+                "stop_name": "SW Scholls Ferry & 135th",
+                "jurisdic": "Tigard",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8158922279611,
+                    45.44129171355489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 8617,
+                "stop_name": "SW Scholls Ferry & 121st",
+                "jurisdic": "Tigard",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79978095177754,
+                    45.44419665894239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 5165,
+                "stop_name": "SW Scholls Ferry & Conestoga",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7960065034388,
+                    45.44505266457837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 5190,
+                "stop_name": "SW Scholls Ferry & Nimbus",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78902865884963,
+                    45.44745977797231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 6133,
+                "stop_name": "9000 Block SW Washington Square Rd",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7830536532581,
+                    45.45395550535062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1080,
+                "stop_id": 3064,
+                "stop_name": "SW Jenkins & Karl Braun",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82160712354249,
+                    45.50244693895892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1120,
+                "stop_id": 3069,
+                "stop_name": "SW Jenkins & Ecole",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8179900071393,
+                    45.501513697669274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1160,
+                "stop_id": 3067,
+                "stop_name": "SW Jenkins & Hocken",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81356563371854,
+                    45.50039972334527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 9651,
+                "stop_name": "Washington Square Transit Center",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77880525165648,
+                    45.45238860416461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 9531,
+                "stop_name": "SW Barnes & NW 118th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80077377891865,
+                    45.51979703670477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 9958,
+                "stop_name": "Millikan Way MAX Station/Park and Ride",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82143372011845,
+                    45.49506582106999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 8610,
+                "stop_name": "SW Murray & Beard",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82619440452602,
+                    45.452736834295365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 4078,
+                "stop_name": "SW Murray & Linda",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81735752378947,
+                    45.51774118799496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 11852,
+                "stop_name": "SW Hocken & Cedar Hills Xing Entrance",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81261487813677,
+                    45.49594726566083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 9462,
+                "stop_name": "SW Hocken & Millikan",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81479140398429,
+                    45.49179125349506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 9463,
+                "stop_name": "13500 Block SW Millikan",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81728077257951,
+                    45.49221254337714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 9464,
+                "stop_name": "13900 Block SW Millikan",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81982489584308,
+                    45.4928759987902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 0,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Washington Square Transit Center",
+                "type": "BUS",
+                "stop_seq": 1040,
+                "stop_id": 3056,
+                "stop_name": "Jenkins & Bardeen",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82527351932207,
+                    45.50340280259423
+                ]
+            }
+        }
+    ]
+}

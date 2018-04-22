@@ -1,0 +1,2059 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 13477,
+                "stop_name": "SE Jackson & Main",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64071315915206,
+                    45.44478633018245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 8225,
+                "stop_name": "SE Jackson & 21st",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64049050567836,
+                    45.444826836377764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 6871,
+                "stop_name": "SE 17th & Lava",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64346270751452,
+                    45.447960578935955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 6901,
+                "stop_name": "SE 17th & Waverly",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64592834127744,
+                    45.452990934187234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 6885,
+                "stop_name": "SE 17th & Ochoco St",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64676973381455,
+                    45.45840503677308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 3421,
+                "stop_name": "SE Linn & 16th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64890624116975,
+                    45.4593824529053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 3419,
+                "stop_name": "SE Linn & 13th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65251482212719,
+                    45.45937744174022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 6688,
+                "stop_name": "SE 13th & Clatsop",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65289670668119,
+                    45.46070226754568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 6711,
+                "stop_name": "SE 13th & Umatilla",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65291642400962,
+                    45.462806922274936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 6708,
+                "stop_name": "SE 13th & Tacoma",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65291032044384,
+                    45.46420122243865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 6699,
+                "stop_name": "SE 13th & Nehalem",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.652943157126,
+                    45.46561499298227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 6693,
+                "stop_name": "SE 13th & Lambert",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65290563534725,
+                    45.46848447326577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 6691,
+                "stop_name": "SE 13th & Knapp",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65290411963636,
+                    45.471388022335404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 844,
+                "stop_name": "SE Bybee & 14th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65142213205456,
+                    45.47362683466843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 839,
+                "stop_name": "SE Bybee & Milwaukie",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6489156690924,
+                    45.47365033893291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 6853,
+                "stop_name": "SE 17th & Marion",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64696495314121,
+                    45.459985361848815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 6860,
+                "stop_name": "SE 17th & Harney",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64693231853177,
+                    45.462100172701135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 6897,
+                "stop_name": "SE 17th & Tenino",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64696318735966,
+                    45.4634669121521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 10302,
+                "stop_name": "SE 17th & Spokane",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64693712223236,
+                    45.46495099532712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 6873,
+                "stop_name": "SE 17th & Lexington",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64695659420174,
+                    45.466994863169305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 6889,
+                "stop_name": "SE 17th & Rex",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64718561245564,
+                    45.470093402844974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 6848,
+                "stop_name": "SE 17th & Bybee",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64765221428219,
+                    45.473667449758516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 6856,
+                "stop_name": "SE 17th & Claybourne",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6478658918781,
+                    45.47551106371595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 6898,
+                "stop_name": "SE 17th & Tolman",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64806585532803,
+                    45.477265841828455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 6867,
+                "stop_name": "SE 17th & Knight",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64832784596956,
+                    45.47995454153523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 6861,
+                "stop_name": "SE 17th & Harold",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64832420429124,
+                    45.4830553450735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 6882,
+                "stop_name": "SE 17th & McLoughlin",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.648258204541,
+                    45.48583751004987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 6893,
+                "stop_name": "SE 17th & Schiller",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64827738637287,
+                    45.48790596289041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 6876,
+                "stop_name": "SE 17th & Mall",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64826877995239,
+                    45.49173406815919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 6578,
+                "stop_name": "SE 12th & Division",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65365162281638,
+                    45.504752452358446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 6581,
+                "stop_name": "SE 12th & Harrison",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65363500506585,
+                    45.50842053966533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 6576,
+                "stop_name": "SE 12th & Clay",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65359526361549,
+                    45.511316377818105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 6585,
+                "stop_name": "SE 12th & Madison",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65362510805389,
+                    45.51311817475625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 6588,
+                "stop_name": "SE 12th & Morrison",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65358022438967,
+                    45.517059218155275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 6594,
+                "stop_name": "SE 12th & Stark",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6535459877079,
+                    45.51922945281927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 6592,
+                "stop_name": "NE 12th & Sandy",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6534862686231,
+                    45.523191924337816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 6582,
+                "stop_name": "NE 12th & Irving",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65346192848324,
+                    45.52744910877542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 8513,
+                "stop_name": "NE 11th & Holladay",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65446025226206,
+                    45.52989422238869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 8938,
+                "stop_name": "NE 11th & Multnomah",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65449725890791,
+                    45.53134972115531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 4047,
+                "stop_name": "NE Multnomah & 13th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65211167653604,
+                    45.531331022844384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 4048,
+                "stop_name": "NE Multnomah & 16th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6497392005535,
+                    45.531380193815814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 4050,
+                "stop_name": "NE Multnomah & 19th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64682198120278,
+                    45.53136893354973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 7107,
+                "stop_name": "NE 21st & Clackamas",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6447473843371,
+                    45.53280121287802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 7138,
+                "stop_name": "NE 21st & Weidler",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64475328626871,
+                    45.53421564311622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 6237,
+                "stop_name": "NE Weidler & 22nd",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64309995089926,
+                    45.53424684240043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 6239,
+                "stop_name": "NE Weidler & 24th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64128312029722,
+                    45.53426882465852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 636,
+                "stop_name": "NE Broadway & 26th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.638671462695,
+                    45.53507148576589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 638,
+                "stop_name": "NE Broadway & 28th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63637966694807,
+                    45.53507237973749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 642,
+                "stop_name": "NE Broadway & 32nd",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.632699119211,
+                    45.535080160521126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 7392,
+                "stop_name": "NE 33rd & Schuyler",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63055330471605,
+                    45.53570212245516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 7402,
+                "stop_name": "NE 33rd & US Grant Pl",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63059569941534,
+                    45.53817677119391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 7365,
+                "stop_name": "NE 33rd & Brazee",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63062654475462,
+                    45.540000012240995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 7385,
+                "stop_name": "NE 33rd & Knott",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6306082263022,
+                    45.54233542120403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3050,
+                "stop_id": 7399,
+                "stop_name": "NE 33rd & Stanton",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63060288914507,
+                    45.54378006345083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 7395,
+                "stop_name": "NE 33rd & Siskiyou",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63060565889724,
+                    45.545914549933364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 7373,
+                "stop_name": "NE 33rd & Alameda",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63061516531367,
+                    45.548819030547584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3200,
+                "stop_id": 7393,
+                "stop_name": "NE 33rd & Shaver",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6306149510241,
+                    45.55169316329198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3250,
+                "stop_id": 7398,
+                "stop_name": "NE 33rd & Skidmore",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63058658362064,
+                    45.5535537630511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3300,
+                "stop_id": 7390,
+                "stop_name": "NE 33rd & Prescott",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63059221067667,
+                    45.55507856766137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3350,
+                "stop_id": 7375,
+                "stop_name": "NE 33rd & Going",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63061656255677,
+                    45.55663544427439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3400,
+                "stop_id": 7364,
+                "stop_name": "NE 33rd & Alberta Ct",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63059394964353,
+                    45.55819983451703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3450,
+                "stop_id": 7404,
+                "stop_name": "NE 33rd & Webster",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63055393376557,
+                    45.5597257874273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3500,
+                "stop_id": 7371,
+                "stop_name": "NE 33rd & Emerson",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63060669248429,
+                    45.56143306540304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3550,
+                "stop_id": 7383,
+                "stop_name": "NE 33rd & Killingsworth",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63058236912771,
+                    45.562599484824865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3600,
+                "stop_id": 7380,
+                "stop_name": "NE 33rd & Jarrett",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6305828881223,
+                    45.56457129761401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3650,
+                "stop_id": 7362,
+                "stop_name": "NE 33rd & Ainsworth",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6305713961322,
+                    45.566212371291364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3700,
+                "stop_id": 7378,
+                "stop_name": "NE 33rd & Holman",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63056872609268,
+                    45.568167291121256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3750,
+                "stop_id": 7389,
+                "stop_name": "NE 33rd & Rosa Parks Way",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63056272143433,
+                    45.56986395638763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3800,
+                "stop_id": 7369,
+                "stop_name": "NE 33rd & Dekum",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63053540336334,
+                    45.57175655832746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3850,
+                "stop_id": 8508,
+                "stop_name": "NE Columbia Blvd & 29th",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6363202594935,
+                    45.574973261970094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3900,
+                "stop_id": 1115,
+                "stop_name": "NE Columbia Blvd & 27th",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63830249372155,
+                    45.57537485506239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 3950,
+                "stop_id": 8498,
+                "stop_name": "NE Columbia Blvd & 24th",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64167619443175,
+                    45.576142941359606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 4000,
+                "stop_id": 8303,
+                "stop_name": "7500 Block NE 21st",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64385333654029,
+                    45.57718139841248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 4050,
+                "stop_id": 7105,
+                "stop_name": "NE 21st & Argyle",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64383200272987,
+                    45.57925452742816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 4300,
+                "stop_id": 9365,
+                "stop_name": "NE 33rd Dr & Elrod Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6331063130012,
+                    45.58141272464721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 4350,
+                "stop_id": 10452,
+                "stop_name": "8400 Block NE 33rd Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63279446458742,
+                    45.58356727834977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 4400,
+                "stop_id": 9339,
+                "stop_name": "NE 33rd Dr & Sunderland",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63199532452023,
+                    45.5895901157049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 4450,
+                "stop_id": 11171,
+                "stop_name": "NE Sunderland & 33rd Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63586232848542,
+                    45.59500678908119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 4500,
+                "stop_id": 9367,
+                "stop_name": "9600 Block NE Sunderland",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63585383464202,
+                    45.59318214762632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 4550,
+                "stop_id": 13040,
+                "stop_name": "9400 Block NE Sunderland",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6358501173623,
+                    45.59128646259561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 4600,
+                "stop_id": 9368,
+                "stop_name": "NE Sunderland & Columbia River Corr Cntr",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63588817176822,
+                    45.58987503162829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 4100,
+                "stop_id": 8883,
+                "stop_name": "NE 21st & Riverside Way",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64380634303576,
+                    45.58140339999048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 4150,
+                "stop_id": 8854,
+                "stop_name": "2500 Block NE Riverside Way",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63961033801674,
+                    45.580801937133856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 4200,
+                "stop_id": 9550,
+                "stop_name": "2800 Block NE Riverside Way",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63600057395018,
+                    45.58000253705651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 4250,
+                "stop_id": 4912,
+                "stop_name": "N Riverside Way & 33rd Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63366260949074,
+                    45.58000956662684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 6849,
+                "stop_name": "SE 17th & Center",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6482140473902,
+                    45.493849722315524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1625,
+                "stop_id": 13693,
+                "stop_name": "SE 17th & Rhine",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64786398579598,
+                    45.49777906048857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 4539,
+                "stop_name": "SE Powell & Milwaukie",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65400598058967,
+                    45.501399707298276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 0,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To 33rd & Sunderland",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 13633,
+                "stop_name": "NE 9th & Hassalo",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65672654813645,
+                    45.530842940496555
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,1277 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 575,
+                "stop_id": 8673,
+                "stop_name": "SW Scholls Ferry & Davies",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82132035113672,
+                    45.43988218651464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 8625,
+                "stop_name": "SW Murray & Teal Blvd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82575836600661,
+                    45.440381772941116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 9324,
+                "stop_name": "SW Murray & Brockman",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82584239101305,
+                    45.45345431011117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 8633,
+                "stop_name": "SW Murray & Barlow",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82595701642808,
+                    45.469337967834164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 4065,
+                "stop_name": "SW Murray & Bonnie Brae",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82593840729564,
+                    45.47840409553845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 4069,
+                "stop_name": "SW Murray & Farmington",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82596232421058,
+                    45.48564409378279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 9465,
+                "stop_name": "14100 Block SW Millikan",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8223487315165,
+                    45.49340400390988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 4090,
+                "stop_name": "SW Murray & Walker",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82110015529176,
+                    45.5112626190584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 4077,
+                "stop_name": "SW Murray & Linda",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81705298530272,
+                    45.517641137086784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2370,
+                "stop_id": 9623,
+                "stop_name": "SW Murray & NW Milburn",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81585433736295,
+                    45.51983700667163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 5025,
+                "stop_name": "NW Barnes & Saltzman",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8055992826923,
+                    45.522488734847116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 9532,
+                "stop_name": "SW Barnes & 117th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79665383184432,
+                    45.517236256253916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 8620,
+                "stop_name": "SW Scholls Ferry & 125th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8059301017968,
+                    45.443743266260334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2505,
+                "stop_id": 8828,
+                "stop_name": "13000 Block NW Cornell",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81107312199573,
+                    45.524938232186834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 5189,
+                "stop_name": "SW Scholls Ferry & Nimbus",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79035213911497,
+                    45.44720975712408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 8621,
+                "stop_name": "SW Scholls Ferry & 130th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8111256581356,
+                    45.442869294857964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 6126,
+                "stop_name": "9000 Block SW Washington Square Rd",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78280583528972,
+                    45.454405253063044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 260,
+                "stop_id": 9038,
+                "stop_name": "SW Scholls Ferry & Springwood",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79400725508818,
+                    45.445760022980814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 8619,
+                "stop_name": "SW Scholls Ferry & Boones Bend Dr",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80080402026748,
+                    45.44422873510977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 8622,
+                "stop_name": "SW Scholls Ferry & 135th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81616336411469,
+                    45.4415020634777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 8626,
+                "stop_name": "SW Murray & Osprey Dr",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82579910981688,
+                    45.44318695702583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 8627,
+                "stop_name": "SW Murray & Weir Rd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82583606978281,
+                    45.44790422042878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 8629,
+                "stop_name": "SW Murray & Maverick Terr",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82595005131222,
+                    45.45594720145821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 8630,
+                "stop_name": "SW Murray & Sexton Mtn Dr",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82583457402829,
+                    45.460451692656065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 8632,
+                "stop_name": "SW Murray & Hart",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82590987001849,
+                    45.46601415043497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 8635,
+                "stop_name": "SW Murray & Allen",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82587174616373,
+                    45.47524313836649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 4095,
+                "stop_name": "SW Murray & 6th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82595562385346,
+                    45.481648474506656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 4060,
+                "stop_name": "3900 Block SW Murray",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82596290714524,
+                    45.49175178046301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1780,
+                "stop_id": 9957,
+                "stop_name": "Millikan Way MAX Station/Park and Ride",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82167512562133,
+                    45.495156014085644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2130,
+                "stop_id": 10132,
+                "stop_name": "SW Murray & Nike",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82445391654048,
+                    45.5071833619791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 4066,
+                "stop_name": "SW Murray & Butner",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81801385526634,
+                    45.51538337490342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 4085,
+                "stop_name": "NW Murray & Science Park Dr",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81442941688512,
+                    45.52540403658876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2510,
+                "stop_id": 1171,
+                "stop_name": "NW Cornell & Barnes",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80857061298859,
+                    45.52486174797721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 227,
+                "stop_name": "12200 Block NW Barnes",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80430093377461,
+                    45.521375500263396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 9627,
+                "stop_name": "SW Barnes & Cedar Hills Blvd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78972453266759,
+                    45.51522009932467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 9625,
+                "stop_name": "Sunset Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78193847008652,
+                    45.51014944006409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2625,
+                "stop_id": 247,
+                "stop_name": "SW Barnes & W Stark",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80120558834598,
+                    45.51969545288914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1975,
+                "stop_id": 3062,
+                "stop_name": "SW Jenkins & Ecole",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8175643853428,
+                    45.501616322572566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 3063,
+                "stop_name": "SW Jenkins & Briggs",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82101514865728,
+                    45.50250997105238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2025,
+                "stop_id": 8443,
+                "stop_name": "SW Jenkins & Meridian",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82337994547188,
+                    45.50311226990586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 11521,
+                "stop_name": "SW Scholls Ferry & Murray",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82546845008414,
+                    45.4386320081721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 9651,
+                "stop_name": "Washington Square Transit Center",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77880525165648,
+                    45.45238860416461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 10599,
+                "stop_name": "SW Murray & Millikan Way",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82601403804959,
+                    45.49408581465858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2525,
+                "stop_id": 1183,
+                "stop_name": "NW Cornell & Saltzman",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8067834982008,
+                    45.52522227803125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 8631,
+                "stop_name": "SW Murray & Hargis",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82584150791189,
+                    45.46238147900038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 1163,
+                "stop_name": "NW Cornell & Dale",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8127854320145,
+                    45.52568010124027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 5166,
+                "stop_name": "SW Scholls Ferry & Conestoga",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79613430642799,
+                    45.44529607495544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 4087,
+                "stop_name": "SW Murray & Tualatin Valley Hwy",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8259897719001,
+                    45.489183309950825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 8634,
+                "stop_name": "SW Murray & 22nd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82596185548158,
+                    45.472405842695046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 5164,
+                "stop_name": "SW Scholls Ferry & Cascade",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78651520963291,
+                    45.44951659258883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 13325,
+                "stop_name": "2800 Block SW Hocken",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81369202542577,
+                    45.499299246281865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 13640,
+                "stop_name": "SW Jenkins & Murray",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.826179570781,
+                    45.503874641270954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 9466,
+                "stop_name": "13900 Block SW Millikan",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81988035673811,
+                    45.492754371029314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 3892,
+                "stop_name": "13500 Block SW Millikan",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81756612737956,
+                    45.49213804608408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 62,
+                "dir": 1,
+                "rte_desc": "62-Murray Blvd",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 11851,
+                "stop_name": "SW Hocken & Cedar Hills Xing Entrance",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.812391122039,
+                    45.496030461483045
+                ]
+            }
+        }
+    ]
+}

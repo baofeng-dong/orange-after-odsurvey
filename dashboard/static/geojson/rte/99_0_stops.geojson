@@ -1,0 +1,702 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 7616,
+                "stop_name": "SW 5th & Market",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68083702132532,
+                    45.51295381630082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 2580,
+                "stop_name": "SW Harrison & 4th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68109478942257,
+                    45.510523655329635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 2566,
+                "stop_name": "200 Block SW Harrison",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67903167489769,
+                    45.50998157550464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 9397,
+                "stop_name": "SW 1st & Arthur",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67873011808162,
+                    45.503926873947705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 5664,
+                "stop_name": "SE Tacoma & 13th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65262044626638,
+                    45.46426352091682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 5668,
+                "stop_name": "SE Tacoma & 17th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64662939695005,
+                    45.464250200871135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 3834,
+                "stop_name": "SE McLoughlin & Courtney",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6336829443465,
+                    45.42303710655895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 3843,
+                "stop_name": "SE McLoughlin & Oak Grove",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63155103025645,
+                    45.41531235679894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 3851,
+                "stop_name": "SE McLoughlin & Roethe",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61846557063832,
+                    45.39823893754231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 2838,
+                "stop_name": "Molalla & Clairmont",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58605391273565,
+                    45.330718447106214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 1068,
+                "stop_name": "Clackamas Community College",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57528594222735,
+                    45.32275755013603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 8761,
+                "stop_name": "Oregon City Transit Center",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60451874022398,
+                    45.360003302680035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 3989,
+                "stop_name": "Molalla & Pearl",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5967479064726,
+                    45.349149481626554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 3833,
+                "stop_name": "SE McLoughlin & Concord",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62638333080875,
+                    45.4085761307594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 3839,
+                "stop_name": "SE McLoughlin & Jennings",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61261082310935,
+                    45.39059959404498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 3661,
+                "stop_name": "SE Main & Milport",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64087970652648,
+                    45.45227300764754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 7631,
+                "stop_name": "SW 5th & Pine",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6758265758323,
+                    45.52224017989126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 7642,
+                "stop_name": "SW 5th & Washington",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67685502185402,
+                    45.520269953521336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 7634,
+                "stop_name": "SW 5th & Salmon",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67865107999346,
+                    45.51693981225401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 8225,
+                "stop_name": "SE Jackson & 21st",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64049050567836,
+                    45.444826836377764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 13770,
+                "stop_name": "SE Tacoma Park & Ride",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63715564042992,
+                    45.46274053276143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 3846,
+                "stop_name": "SE Frontage Rd & Ochoco St",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64026520750285,
+                    45.45838609066113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 3848,
+                "stop_name": "SE McLoughlin & Park Ave",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6350378086364,
+                    45.43126281520607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 13815,
+                "stop_name": "SW Kelly & Gibbs",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67490234488044,
+                    45.49913799917228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 3604,
+                "stop_name": "SW Macadam & Boundary",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67533424890527,
+                    45.48512864484852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 3620,
+                "stop_name": "SW Macadam & Nevada",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67159926177327,
+                    45.47303964213282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 5676,
+                "stop_name": "SE Tacoma & 7th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6587348671287,
+                    45.46426328638689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 13816,
+                "stop_name": "SW Macadam & Sellwood Bridge",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66925822707677,
+                    45.464573216980845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 10323,
+                "stop_name": "SE McLoughlin & Glen Echo",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60806131401138,
+                    45.38469418498491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 99,
+                "dir": 0,
+                "rte_desc": "99-Macadam/McLoughlin",
+                "dir_desc": "To Clackamas Community College via Sellwood",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 10325,
+                "stop_name": "McLoughlin & River Rd",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6020018263875,
+                    45.37586027008336
+                ]
+            }
+        }
+    ]
+}

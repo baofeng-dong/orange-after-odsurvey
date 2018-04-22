@@ -1,0 +1,1921 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 10855,
+                "stop_name": "Parkrose/ Sumner Transit Center",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56479649064283,
+                    45.55849853852668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 5145,
+                "stop_name": "NE Sandy & 91st",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.568680712241,
+                    45.55659948442973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 5052,
+                "stop_name": "NE Sandy & Prescott",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57118878175636,
+                    45.55558291916504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 5144,
+                "stop_name": "NE Sandy & 88th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57266289176104,
+                    45.55497665535793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 5140,
+                "stop_name": "NE Sandy & 86th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57523509841862,
+                    45.553923908155774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 5139,
+                "stop_name": "NE Sandy & 82nd",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57843169936979,
+                    45.55261848182889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 5136,
+                "stop_name": "NE Sandy & 79th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58197174332882,
+                    45.55118198406176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 5133,
+                "stop_name": "NE Sandy & 77th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58364721187326,
+                    45.5504641268243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 5127,
+                "stop_name": "NE Sandy & 74th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58669854152305,
+                    45.54928882397635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 5125,
+                "stop_name": "NE Sandy & Fremont",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5900640353212,
+                    45.54798819854481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 5122,
+                "stop_name": "NE Sandy & 69th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59212713228663,
+                    45.54718568995098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 5119,
+                "stop_name": "NE Sandy & 67th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59418865652677,
+                    45.54635910666963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 5113,
+                "stop_name": "NE Sandy & 62nd",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59927267748624,
+                    45.54439078446198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 5107,
+                "stop_name": "NE Sandy & 59th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60235729695718,
+                    45.54319500669501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 5105,
+                "stop_name": "NE Sandy & 57th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60438486529355,
+                    45.542404791654235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 5103,
+                "stop_name": "NE Sandy & 54th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6073465734199,
+                    45.54124651115751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 5100,
+                "stop_name": "NE Sandy & 52nd",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61041808158284,
+                    45.54006393938837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 5098,
+                "stop_name": "NE Sandy & 50th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61221689216771,
+                    45.539436328036246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 5093,
+                "stop_name": "NE Sandy & 47th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6148063975517,
+                    45.538533893163034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 10834,
+                "stop_name": "NE Sandy & 44th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61822979825713,
+                    45.536979543435486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 9756,
+                "stop_name": "NE Sandy & 42nd",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62021390377737,
+                    45.536053691713825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 11313,
+                "stop_name": "NE Sandy & Cesar Chavez Blvd",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62275418803648,
+                    45.53503859579179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 5081,
+                "stop_name": "NE Sandy & 35th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62843623580683,
+                    45.53269455666617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 5080,
+                "stop_name": "NE Sandy & 33rd",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6304498228264,
+                    45.53187498947801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 5077,
+                "stop_name": "NE Sandy & 31st",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63324021067629,
+                    45.530785334240846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 5069,
+                "stop_name": "NE Sandy & 28th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6368603760707,
+                    45.52937992120593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 5068,
+                "stop_name": "NE Sandy & 26th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63980035438924,
+                    45.52823248077267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 5067,
+                "stop_name": "NE Sandy & 24th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64120874059076,
+                    45.5276948130906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 5063,
+                "stop_name": "NE Sandy & 20th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64508938177296,
+                    45.52615896340769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 5062,
+                "stop_name": "NE Sandy & 18th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64792606108277,
+                    45.525109657189454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 5060,
+                "stop_name": "NE Sandy & 16th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64936718867233,
+                    45.5245809276325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 5058,
+                "stop_name": "NE Sandy & 14th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65142847153217,
+                    45.52376684461608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 13328,
+                "stop_name": "NE Couch & 12th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6533914379408,
+                    45.52366100895446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 13329,
+                "stop_name": "NE Couch & 7th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65854936345006,
+                    45.5236910742134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 13330,
+                "stop_name": "NE Couch & M L King",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66152442834489,
+                    45.52370256250534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 689,
+                "stop_name": "W Burnside & Burnside Bridge",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67100747650082,
+                    45.523250494982065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 7631,
+                "stop_name": "SW 5th & Pine",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6758265758323,
+                    45.52224017989126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 7625,
+                "stop_name": "SW 5th & Morrison",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67757117318233,
+                    45.51893591035738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 7612,
+                "stop_name": "SW 5th & Madison",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67935201651181,
+                    45.51568228864137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 7616,
+                "stop_name": "SW 5th & Market",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68083702132532,
+                    45.51295381630082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 10491,
+                "stop_name": "SW 5th & Hall",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6822861967767,
+                    45.51027717609481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 7588,
+                "stop_name": "SW 5th & Broadway",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68385035369091,
+                    45.50708320964193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 7591,
+                "stop_name": "SW 5th & Caruthers",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68328988914021,
+                    45.505565893595595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 198,
+                "stop_name": "SW Barbur & Woods",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6811484639452,
+                    45.500984874845315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 196,
+                "stop_name": "SW Barbur & Whitaker",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6798121648597,
+                    45.49860155624013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 185,
+                "stop_name": "SW Barbur & Pennoyer",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67911949604606,
+                    45.49734773033283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 176,
+                "stop_name": "SW Barbur & Lane",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67836731311236,
+                    45.49599440112267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 173,
+                "stop_name": "SW Barbur & Hamilton",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67856572713241,
+                    45.49103721631115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 155,
+                "stop_name": "4900 Block SW Barbur",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68275676679825,
+                    45.487059214323075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 188,
+                "stop_name": "SW Barbur & Capitol Hwy",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68031960641457,
+                    45.48023082309977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 207,
+                "stop_name": "SW Barbur & 3rd",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68091092180182,
+                    45.47156742822914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 191,
+                "stop_name": "SW Barbur & Terwilliger",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68613191992442,
+                    45.47121484162411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 199,
+                "stop_name": "SW Barbur & Bertha",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68960176149498,
+                    45.4704682270221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 200,
+                "stop_name": "SW Barbur & 13th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69238057667249,
+                    45.46885359105327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3950,
+                "stop_id": 4305,
+                "stop_name": "SW Pacific Hwy & 78th",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75671925812539,
+                    45.43730062012042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 625,
+                "stop_id": 5114,
+                "stop_name": "NE Sandy & 64th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5972515041573,
+                    45.545199918367615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 201,
+                "stop_name": "SW Barbur & Evans",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69548368797336,
+                    45.467082951739975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 170,
+                "stop_name": "SW Barbur & Capitol Hill",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69788825522141,
+                    45.46570978933924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3050,
+                "stop_id": 10844,
+                "stop_name": "SW Barbur & Spring Garden",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70129949040268,
+                    45.46375188199003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 165,
+                "stop_name": "SW Barbur & Barbur Ct",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70367512856542,
+                    45.46240938789227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 194,
+                "stop_name": "8900 Block SW Barbur",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7062986241298,
+                    45.46085368712894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3200,
+                "stop_id": 187,
+                "stop_name": "SW Barbur & Primrose",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70844776875101,
+                    45.4596180427877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3250,
+                "stop_id": 163,
+                "stop_name": "SW Barbur & Alice",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71049284783774,
+                    45.458449223844944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3300,
+                "stop_id": 164,
+                "stop_name": "SW Barbur & Taylors Ferry",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71353199928747,
+                    45.456755133597234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3350,
+                "stop_id": 8213,
+                "stop_name": "Barbur Transit Center",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71767304040976,
+                    45.45446802053932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3400,
+                "stop_id": 10845,
+                "stop_name": "SW Barbur & Huber",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72305273514199,
+                    45.45294616833006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3450,
+                "stop_id": 178,
+                "stop_name": "SW Barbur & Luradel",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72730151989875,
+                    45.45104013544466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3500,
+                "stop_id": 152,
+                "stop_name": "10700 Block SW Barbur",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72936825541417,
+                    45.44768542569094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3550,
+                "stop_id": 209,
+                "stop_name": "SW Barbur & 53rd",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7309088502287,
+                    45.446005686275356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3600,
+                "stop_id": 153,
+                "stop_name": "11100 Block SW Barbur",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73364506389343,
+                    45.445117491875486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3650,
+                "stop_id": 184,
+                "stop_name": "11200 Block SW Barbur",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73689101665273,
+                    45.44432871736411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3700,
+                "stop_id": 4326,
+                "stop_name": "SW Pacific Hwy & 65th",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7448248092001,
+                    45.442845655019326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3750,
+                "stop_id": 4328,
+                "stop_name": "SW Pacific Hwy & 69th",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74720687336982,
+                    45.442067407847446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3800,
+                "stop_id": 4329,
+                "stop_name": "SW Pacific Hwy & 71st",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74967034197435,
+                    45.44089837234201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3850,
+                "stop_id": 4249,
+                "stop_name": "SW Pacific Hwy & 72nd",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75182011997819,
+                    45.43978641150096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 3900,
+                "stop_id": 10639,
+                "stop_name": "11600 Block SW Pacific Hwy",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75340429247368,
+                    45.438954710391855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 4000,
+                "stop_id": 4253,
+                "stop_name": "11700 Block SW Pacific Hwy",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7595406286539,
+                    45.43611691939929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 4050,
+                "stop_id": 4319,
+                "stop_name": "SW Pacific Hwy & Warner",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76347232994159,
+                    45.4346683231044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 4100,
+                "stop_id": 3673,
+                "stop_name": "SW Main & Scoffins",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76822689782733,
+                    45.43256910232385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 181,
+                "stop_name": "SW Barbur & Parkhill Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67979737520534,
+                    45.476746868418964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 4150,
+                "stop_id": 5846,
+                "stop_name": "Tigard Transit Center",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76934039216748,
+                    45.43006480797381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 7807,
+                "stop_name": "SW 6th & Yamhill",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67897457786847,
+                    45.51819928098686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 12,
+                "dir": 0,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 175,
+                "stop_name": "SW Barbur & Hooker",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68203987881239,
+                    45.502494441849066
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,1829 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 5050,
+                "stop_id": 10323,
+                "stop_name": "SE McLoughlin & Glen Echo",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97027",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60806131401138,
+                    45.38469418498491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 5900,
+                "stop_id": 3831,
+                "stop_name": "McLoughlin & Clackamette Dr",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6013374444764,
+                    45.36844368625518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 5950,
+                "stop_id": 8761,
+                "stop_name": "Oregon City Transit Center",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60451874022398,
+                    45.360003302680035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6000,
+                "stop_id": 3727,
+                "stop_name": "Main & 8th St",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6073382108317,
+                    45.3584408237734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6100,
+                "stop_id": 11331,
+                "stop_name": "2nd & Tumwater",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61360060413287,
+                    45.3513316397854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6200,
+                "stop_id": 2662,
+                "stop_name": "S High & 1st",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61127939998643,
+                    45.35262895895385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6250,
+                "stop_id": 2664,
+                "stop_name": "High & 3rd",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60978997493824,
+                    45.35411263369802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6300,
+                "stop_id": 2666,
+                "stop_name": "High & 5th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6084284591521,
+                    45.35546217227521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6350,
+                "stop_id": 7643,
+                "stop_name": "5th & Washington (Oregon City)",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60678824682913,
+                    45.3549175245404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6400,
+                "stop_id": 7609,
+                "stop_name": "5th & Jefferson",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60501450499265,
+                    45.3540241100757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6450,
+                "stop_id": 7620,
+                "stop_name": "5th & Monroe",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60334275290349,
+                    45.35316299662655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6500,
+                "stop_id": 3422,
+                "stop_name": "Linn & 4th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60093398965547,
+                    45.35100143873764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6550,
+                "stop_id": 3414,
+                "stop_name": "Linn & Oak",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60148557812708,
+                    45.34932819548392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6600,
+                "stop_id": 3408,
+                "stop_name": "Linn & Charman",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60366236031687,
+                    45.34690917173936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6650,
+                "stop_id": 3415,
+                "stop_name": "Linn & Park",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60511111995926,
+                    45.34416735885777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6700,
+                "stop_id": 3411,
+                "stop_name": "Linn & Holmes",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60508097416098,
+                    45.34203492549548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6750,
+                "stop_id": 3407,
+                "stop_name": "Linn & A V Davis",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6050589070759,
+                    45.340262316927586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6800,
+                "stop_id": 9559,
+                "stop_name": "Linn & Williams",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60510794257053,
+                    45.3373202564566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6850,
+                "stop_id": 6120,
+                "stop_name": "Warner - Milne & Linn",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60436936164272,
+                    45.33634653397213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6900,
+                "stop_id": 6113,
+                "stop_name": "100 Block Warner - Milne",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60133449643557,
+                    45.33636682623244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 6950,
+                "stop_id": 6118,
+                "stop_name": "Warner - Milne & Beavercreek",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59866632077117,
+                    45.3363728688642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 7000,
+                "stop_id": 6117,
+                "stop_name": "Beavercreek & Library Ct",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59848458469415,
+                    45.33435427318618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 7050,
+                "stop_id": 6122,
+                "stop_name": "Beavercreek & Red Soils Ct",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59532261082406,
+                    45.333412726615045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 7100,
+                "stop_id": 10469,
+                "stop_name": "400 Block Beavercreek Rd",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59188111415396,
+                    45.3335653773723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 7150,
+                "stop_id": 9516,
+                "stop_name": "Beavercreek & Molalla",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58909654486142,
+                    45.333572409668115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 7200,
+                "stop_id": 2838,
+                "stop_name": "Molalla & Clairmont",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58605391273565,
+                    45.330718447106214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 7250,
+                "stop_id": 2842,
+                "stop_name": "Molalla & Gaffney Ln",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5848860957365,
+                    45.32939257039025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 7300,
+                "stop_id": 11846,
+                "stop_name": "Molalla & Garden Meadow",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58344819425783,
+                    45.32760014831723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 7350,
+                "stop_id": 2827,
+                "stop_name": "Molalla & Char Diaz Dr",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58160601671055,
+                    45.325348292546785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 7400,
+                "stop_id": 2830,
+                "stop_name": "Molalla & Sebastian Way",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58055209110739,
+                    45.324088121553395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 7450,
+                "stop_id": 1068,
+                "stop_name": "Clackamas Community College",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57528594222735,
+                    45.32275755013603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4050,
+                "stop_id": 3850,
+                "stop_name": "SE McLoughlin & River Rd",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63963344388526,
+                    45.43695276790902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4100,
+                "stop_id": 3860,
+                "stop_name": "SE McLoughlin & Lakewood",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63647934834749,
+                    45.43436628802216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4150,
+                "stop_id": 3848,
+                "stop_name": "SE McLoughlin & Park Ave",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6350378086364,
+                    45.43126281520607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4200,
+                "stop_id": 3852,
+                "stop_name": "SE McLoughlin & Silver Springs",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63440739893353,
+                    45.427681359022216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4250,
+                "stop_id": 3827,
+                "stop_name": "13700 Block SE McLoughlin",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63393927273671,
+                    45.424648953792314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4300,
+                "stop_id": 3834,
+                "stop_name": "SE McLoughlin & Courtney",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6336829443465,
+                    45.42303710655895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4350,
+                "stop_id": 3830,
+                "stop_name": "SE McLoughlin & Chestnut",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63314828840497,
+                    45.41989600227168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4400,
+                "stop_id": 3840,
+                "stop_name": "SE McLoughlin & Maple",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63296216880374,
+                    45.41846120332037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4450,
+                "stop_id": 3843,
+                "stop_name": "SE McLoughlin & Oak Grove",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63155103025645,
+                    45.41531235679894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4500,
+                "stop_id": 3853,
+                "stop_name": "SE McLoughlin & Silverleaf",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62993684188024,
+                    45.41319604784016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4550,
+                "stop_id": 3849,
+                "stop_name": "SE McLoughlin & Risley",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62838743306614,
+                    45.41116682739025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4600,
+                "stop_id": 3833,
+                "stop_name": "SE McLoughlin & Concord",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62638333080875,
+                    45.4085761307594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4650,
+                "stop_id": 3832,
+                "stop_name": "16000 Block SE McLoughlin",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62469472976538,
+                    45.406356611037715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4700,
+                "stop_id": 3857,
+                "stop_name": "SE McLoughlin & Vineyard",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62312458785888,
+                    45.404310265869746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4750,
+                "stop_id": 8494,
+                "stop_name": "SE McLoughlin & Naef",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62120380380489,
+                    45.40177837672572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4800,
+                "stop_id": 3851,
+                "stop_name": "SE McLoughlin & Roethe",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61846557063832,
+                    45.39823893754231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4850,
+                "stop_id": 3829,
+                "stop_name": "SE McLoughlin & Boardman",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61569704456174,
+                    45.39462399741023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4900,
+                "stop_id": 3839,
+                "stop_name": "SE McLoughlin & Jennings",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61261082310935,
+                    45.39059959404498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4950,
+                "stop_id": 3838,
+                "stop_name": "SE McLoughlin & Hull Ave",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6111959598743,
+                    45.38875185932838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 5000,
+                "stop_id": 3841,
+                "stop_name": "SE McLoughlin & Meldrum",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60987947506646,
+                    45.387070140644575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 5250,
+                "stop_id": 10422,
+                "stop_name": "19300 Block McLoughlin",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6055816331599,
+                    45.38148093955058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 5450,
+                "stop_id": 10324,
+                "stop_name": "McLoughlin & Gloucester",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60364922157808,
+                    45.3789229285087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 5650,
+                "stop_id": 10325,
+                "stop_name": "McLoughlin & River Rd",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6020018263875,
+                    45.37586027008336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4000,
+                "stop_id": 8225,
+                "stop_name": "SE Jackson & 21st",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64049050567836,
+                    45.444826836377764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 2577,
+                "stop_name": "SE Harrison & 34th",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62736095371231,
+                    45.44669667085039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 2574,
+                "stop_name": "SE Harrison & 31st",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6302700976519,
+                    45.4466590606335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 2573,
+                "stop_name": "SE Harrison & 29th",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63335358017628,
+                    45.44659236769552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 2571,
+                "stop_name": "2700 Block SE Harrison",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63570942703352,
+                    45.44651539657455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 2570,
+                "stop_name": "SE Harrison & 24th",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6380447434825,
+                    45.44646906247199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 13248,
+                "stop_name": "Clackamas Town Center Transit Center",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56870745294735,
+                    45.43566941948304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 12922,
+                "stop_name": "Clackamas Town Center Mall",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57400318580463,
+                    45.43750659455936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 7941,
+                "stop_name": "SE 82nd & Causey",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57873625928909,
+                    45.44112253100646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 7920,
+                "stop_name": "SE 82nd & Boyer Drive",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57869167935678,
+                    45.44364794717618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 3228,
+                "stop_name": "SE King & Fuller",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58006468593555,
+                    45.44710967789784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 3254,
+                "stop_name": "SE King & 77th",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58408136871923,
+                    45.44713000524955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 12956,
+                "stop_name": "SE King & Cook Ct",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58861799503372,
+                    45.44718359976331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 3229,
+                "stop_name": "SE King & Bell",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59256617552664,
+                    45.44792260668507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 3249,
+                "stop_name": "SE King & 66th",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59504956972621,
+                    45.448016203902824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 3235,
+                "stop_name": "SE King & Linwood",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59872916737217,
+                    45.44802082858536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 3232,
+                "stop_name": "SE King & Hollywood",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6026842951696,
+                    45.448042308694326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 3237,
+                "stop_name": "SE King & Stanley",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60436816850788,
+                    45.44805168951266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 3246,
+                "stop_name": "SE King & 52nd",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60905119659792,
+                    45.44807523638655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 10303,
+                "stop_name": "SE King & Home",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6120425701484,
+                    45.44808630462756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 3243,
+                "stop_name": "SE King & 47th",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61435419150509,
+                    45.44809969693966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 7524,
+                "stop_name": "SE 42nd & Llewellyn",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61962869346003,
+                    45.44748492051653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 2583,
+                "stop_name": "SE Harrison & 40th",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62196919542936,
+                    45.44668514277769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 2579,
+                "stop_name": "SE Harrison & 37th",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62444779560835,
+                    45.44670404949395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 33,
+                "dir": 0,
+                "rte_desc": "33-McLoughlin/King Rd",
+                "dir_desc": "To Oregon City TC and Clackamas Community College",
+                "type": "BUS",
+                "stop_seq": 4025,
+                "stop_id": 7136,
+                "stop_name": "SE 21st & Washington",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63991111612494,
+                    45.44271305290572
+                ]
+            }
+        }
+    ]
+}

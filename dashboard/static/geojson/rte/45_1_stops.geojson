@@ -1,0 +1,1691 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 6103,
+                "stop_name": "SW Walnut & Brookside",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78256570017744,
+                    45.428899838205034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 6108,
+                "stop_name": "SW Walnut & 112th",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79142893184913,
+                    45.430665576743074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 6112,
+                "stop_name": "SW Walnut & 121st",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79936031181798,
+                    45.4298062469151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 6599,
+                "stop_name": "SW 121st & Lynn",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79954530624644,
+                    45.4322606255837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 6601,
+                "stop_name": "SW 121st & Merestone",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80013350684033,
+                    45.4348686505279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 6597,
+                "stop_name": "SW 121st & North Dakota",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80018945738695,
+                    45.43852928513478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 6607,
+                "stop_name": "SW 121st & Springwood",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.800185965668,
+                    45.4415029052525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 5165,
+                "stop_name": "SW Scholls Ferry & Conestoga",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7960065034388,
+                    45.44505266457837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 5190,
+                "stop_name": "SW Scholls Ferry & Nimbus",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78902865884963,
+                    45.44745977797231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 6133,
+                "stop_name": "9000 Block SW Washington Square Rd",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7830536532581,
+                    45.45395550535062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 9221,
+                "stop_name": "SW Palmblad & Hall Blvd",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77627739997612,
+                    45.45369468367605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 4206,
+                "stop_name": "SW Oleson & Garden Home",
+                "jurisdic": "Beaverton",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75372592963366,
+                    45.4654158301386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 1983,
+                "stop_name": "SW Garden Home & 71st",
+                "jurisdic": "Portland",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75025527115855,
+                    45.465636012969554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 1980,
+                "stop_name": "SW Garden Home & 67th",
+                "jurisdic": "Portland",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.746318003981,
+                    45.4656369918664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 1976,
+                "stop_name": "SW Garden Home & 64th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74288595520383,
+                    45.46552095775969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 1974,
+                "stop_name": "SW Garden Home & 62nd Pl",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74114574672635,
+                    45.46532231751589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 1970,
+                "stop_name": "SW Garden Home & 57th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73606948526117,
+                    45.46506158784802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 1968,
+                "stop_name": "SW Garden Home & 56th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73434894996488,
+                    45.46493703136905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 1964,
+                "stop_name": "SW Garden Home & 52nd",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73100378397864,
+                    45.46436241744542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 1959,
+                "stop_name": "SW Garden Home & 47th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72504301594215,
+                    45.46534772141985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 1954,
+                "stop_name": "SW Garden Home & 40th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71810724061714,
+                    45.46673917208327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 7417,
+                "stop_name": "SW 35th & Canby",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71279754868506,
+                    45.46885952890312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 7413,
+                "stop_name": "SW 35th & Caldew",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7128031544842,
+                    45.47160622182659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3250,
+                "stop_id": 7415,
+                "stop_name": "SW 35th & California",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7128114760746,
+                    45.47479860743637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3400,
+                "stop_id": 6036,
+                "stop_name": "SW Vermont & 30th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70788217772932,
+                    45.47601899714257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3550,
+                "stop_id": 942,
+                "stop_name": "SW Capitol & Idaho",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70159997950674,
+                    45.476685043838486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3650,
+                "stop_id": 925,
+                "stop_name": "SW Capitol & Bertha Ct",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69636752797885,
+                    45.478080071921895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3750,
+                "stop_id": 956,
+                "stop_name": "SW Capitol & Terwilliger",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68728093043626,
+                    45.480041116149245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3800,
+                "stop_id": 156,
+                "stop_name": "4900 Block SW Barbur",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68251463988021,
+                    45.48767712840083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 6110,
+                "stop_name": "SW Walnut & 116th",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79685661640941,
+                    45.43016718348273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 5197,
+                "stop_name": "SW Scholls Ferry & Springwood",
+                "jurisdic": "Tigard",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79306762806966,
+                    45.44581546053851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 1958,
+                "stop_name": "SW Garden Home & 45th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72333866486159,
+                    45.465360715036276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3500,
+                "stop_id": 965,
+                "stop_name": "SW Capitol & 26th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70348116558583,
+                    45.47599572033402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 9653,
+                "stop_name": "Washington Square Transit Center",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7787916777249,
+                    45.4526032304752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 4208,
+                "stop_name": "SW Oleson & Hall",
+                "jurisdic": "Beaverton",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77334096618108,
+                    45.453715967861264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 4219,
+                "stop_name": "SW Oleson & 91st",
+                "jurisdic": "Beaverton",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77088994857185,
+                    45.45500130124651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 4214,
+                "stop_name": "SW Oleson & Rustling Leaves Pl",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7642710395854,
+                    45.45795744159629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 4216,
+                "stop_name": "SW Oleson & 80th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75956498704988,
+                    45.46077480058523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 1981,
+                "stop_name": "SW Garden Home & 69th/Multnomah",
+                "jurisdic": "Portland",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.747507641988,
+                    45.46563653027907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 1978,
+                "stop_name": "SW Garden Home & 66th",
+                "jurisdic": "Portland",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74421919162614,
+                    45.46562687435067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 1972,
+                "stop_name": "SW Garden Home & 61st",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73895595904062,
+                    45.46507296313081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 1966,
+                "stop_name": "SW Garden Home & 54th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73242436212247,
+                    45.46448990413747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 1962,
+                "stop_name": "SW Garden Home & 50th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72789831233622,
+                    45.46365530502071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 1956,
+                "stop_name": "SW Garden Home & 42nd",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72047309350285,
+                    45.466248170230195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 972,
+                "stop_name": "SW Capitol & 35th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71297330013273,
+                    45.46798861012662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3050,
+                "stop_id": 7423,
+                "stop_name": "SW 35th & Logan",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71280363560611,
+                    45.47043260337376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3200,
+                "stop_id": 7430,
+                "stop_name": "SW 35th & Texas",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7128040159925,
+                    45.474142998482115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3450,
+                "stop_id": 6023,
+                "stop_name": "SW Capitol & Vermont",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70594353075718,
+                    45.47599675219317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3600,
+                "stop_id": 963,
+                "stop_name": "SW Capitol & Nebraska",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6992521478952,
+                    45.47765114455706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3700,
+                "stop_id": 929,
+                "stop_name": "SW Capitol & Sunset",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69285640366002,
+                    45.47879137447434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3851,
+                "stop_id": 172,
+                "stop_name": "SW Barbur & Hamilton",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67772473005715,
+                    45.49118599251002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 11973,
+                "stop_name": "SW Walnut & 114th",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7946110330788,
+                    45.430489346590576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3950,
+                "stop_id": 1930,
+                "stop_name": "SW Naito Parkway & Hooker",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67762997014245,
+                    45.502166097086864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 4000,
+                "stop_id": 1926,
+                "stop_name": "SW Naito Parkway & Harrison",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67685768854669,
+                    45.50930503788475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 4050,
+                "stop_id": 12789,
+                "stop_name": "SW Jefferson & 1st",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67603289684867,
+                    45.513872333565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 4100,
+                "stop_id": 12791,
+                "stop_name": "SW Jefferson & 5th",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67953486850418,
+                    45.51480993189083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 4150,
+                "stop_id": 3039,
+                "stop_name": "SW Jefferson & Broadway",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68159251203015,
+                    45.51536586842799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 4200,
+                "stop_id": 3049,
+                "stop_name": "SW Jefferson & 10th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68376350724294,
+                    45.51594444595191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 4250,
+                "stop_id": 3051,
+                "stop_name": "SW Jefferson & 13th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68715357056003,
+                    45.51685238997435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 4300,
+                "stop_id": 3052,
+                "stop_name": "SW Jefferson & 16th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6901109710378,
+                    45.51763636230343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 4350,
+                "stop_id": 12792,
+                "stop_name": "SW Columbia & 16th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69069228901353,
+                    45.5169227616327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 8617,
+                "stop_name": "SW Scholls Ferry & 121st",
+                "jurisdic": "Tigard",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79978095177754,
+                    45.44419665894239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 12963,
+                "stop_name": "SW Oleson & Skyhar Dr",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75787093271289,
+                    45.46217355902572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1975,
+                "stop_id": 12964,
+                "stop_name": "SW Oleson & Obrien",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75587565685893,
+                    45.4636780522558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 6105,
+                "stop_name": "SW Walnut & Tiedeman",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7877464129316,
+                    45.43073421321408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 7426,
+                "stop_name": "SW 35th & Nevada",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71280729712309,
+                    45.47246245037363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 3653,
+                "stop_name": "SW Main & Burnham",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77216323225774,
+                    45.4301451375473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 9570,
+                "stop_name": "8800 Block SW Oleson",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76757508028328,
+                    45.45662896258705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 4318,
+                "stop_name": "SW Pacific Hwy & Walnut",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77829219648325,
+                    45.42709416104984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 13034,
+                "stop_name": "SW Walnut & Grant",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78038787209488,
+                    45.42791809077602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2925,
+                "stop_id": 8888,
+                "stop_name": "SW Garden Home & Capitol Hwy",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71695020491454,
+                    45.46700066165204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 8210,
+                "stop_name": "Tigard Transit Center",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76908852235198,
+                    45.43010217055557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3325,
+                "stop_id": 13769,
+                "stop_name": "SW Vermont & 34th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71125292495432,
+                    45.47606673806154
+                ]
+            }
+        }
+    ]
+}

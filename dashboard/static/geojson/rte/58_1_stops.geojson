@@ -1,0 +1,541 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 920,
+                "stop_name": "SW Canyon & 96th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77542577954112,
+                    45.49403148713531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 918,
+                "stop_name": "SW Canyon & 93rd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7725228324505,
+                    45.4951137619028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 892,
+                "stop_name": "SW Canyon & Jade",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75335456535977,
+                    45.50032138611343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 912,
+                "stop_name": "SW Canyon & 73rd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75227653242283,
+                    45.501477405577596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3800,
+                "stop_id": 1108,
+                "stop_name": "SW Columbia & Park Ave",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6832475228893,
+                    45.514918924833495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 915,
+                "stop_name": "SW Canyon & 91st",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.770704816575,
+                    45.49602875482634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 906,
+                "stop_name": "SW Canyon & 107th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78702752199234,
+                    45.491825678941005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 9338,
+                "stop_name": "SW Canyon & Camelot Ct",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74713389536859,
+                    45.50467412325167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 899,
+                "stop_name": "SW Canyon & Walker",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77941393169931,
+                    45.49333852184942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 893,
+                "stop_name": "SW Canyon & Linden",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75566832837949,
+                    45.497832490609284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3780,
+                "stop_id": 9044,
+                "stop_name": "SW Columbia & 10th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68481811884172,
+                    45.51532626200588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 908,
+                "stop_name": "SW Canyon & 110th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7899299618385,
+                    45.49116512680291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 10168,
+                "stop_name": "SW Columbia & 18th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69277151696795,
+                    45.517472182194545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3750,
+                "stop_id": 1111,
+                "stop_name": "SW Columbia & 12th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68684774184148,
+                    45.515871103482496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 12405,
+                "stop_name": "SW Canyon & 103rd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78294870898385,
+                    45.49265492389763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3850,
+                "stop_id": 12793,
+                "stop_name": "SW Columbia between 6th & 5th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68065456271042,
+                    45.51421356794494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3900,
+                "stop_id": 12791,
+                "stop_name": "SW Jefferson & 5th",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67953486850418,
+                    45.51480993189083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 10634,
+                "stop_name": "SW Canyon & Canyon Crest",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74919754079846,
+                    45.50323248982914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 13042,
+                "stop_name": "SW Canyon & 115th Ave",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7949734188231,
+                    45.489875499609695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 9976,
+                "stop_name": "Beaverton Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80126466434386,
+                    45.49082390652568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 894,
+                "stop_name": "Hwy 26 On Ramp & SW Skyline",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73556801582063,
+                    45.508205501660875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 913,
+                "stop_name": "SW Canyon & 87th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7662147862072,
+                    45.49810829915635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 58,
+                "dir": 1,
+                "rte_desc": "58-Canyon Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 8271,
+                "stop_name": "SW Canyon & Broadway",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79794370942628,
+                    45.4892915101956
+                ]
+            }
+        }
+    ]
+}

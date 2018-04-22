@@ -1,0 +1,1415 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 3612,
+                "stop_name": "SW Macadam & Hamilton Ct",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67382962798398,
+                    45.48995947538592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 3620,
+                "stop_name": "SW Macadam & Nevada",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67159926177327,
+                    45.47303964213282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 4909,
+                "stop_name": "SW Riverside & Riverwood",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6573595313171,
+                    45.44714885515463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 4900,
+                "stop_name": "SW Riverside & Military",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65503902195081,
+                    45.44168930672948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 4898,
+                "stop_name": "SW Riverside & Breyman",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65351917240861,
+                    45.435883788563224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 5506,
+                "stop_name": "N State & B Ave",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66268255107336,
+                    45.42076988254088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 147,
+                "stop_name": "B Ave & Second St",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66511312642291,
+                    45.42084450252145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 5510,
+                "stop_name": "N State & Foothills",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66342260590528,
+                    45.41755034510095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 5511,
+                "stop_name": "S State & Middlecrest",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66441028445684,
+                    45.413168993112485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 3816,
+                "stop_name": "McVey & Lakefront",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66898513779239,
+                    45.40976231978335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 3813,
+                "stop_name": "McVey & Cornell",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67206573998085,
+                    45.40880515976023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 5309,
+                "stop_name": "South Shore & Patton",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67807735042764,
+                    45.40689602711049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 5301,
+                "stop_name": "South Shore & Greentree",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6834487567153,
+                    45.40689642276547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 5298,
+                "stop_name": "South Shore & Edgecliff",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69275913638144,
+                    45.40754725351836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 5285,
+                "stop_name": "1700 Block South Shore",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69467687135625,
+                    45.40591147300058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 5295,
+                "stop_name": "South Shore & Cedar Ct",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69598094210534,
+                    45.404972969953555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 5296,
+                "stop_name": "South Shore & Fernwood",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69871305229088,
+                    45.40498623676641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 5288,
+                "stop_name": "2500 Block South Shore",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70314177655952,
+                    45.404765322793224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 5300,
+                "stop_name": "South Shore & Greenbrier",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70827085005723,
+                    45.40300745637865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 5297,
+                "stop_name": "South Shore & Cedar Rd",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7106411539429,
+                    45.402373245118014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3350,
+                "stop_id": 3031,
+                "stop_name": "Jean Rd & Bryant",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72361576135475,
+                    45.39705138304389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3450,
+                "stop_id": 3036,
+                "stop_name": "Jean Rd & Schalit",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72788123429066,
+                    45.397088288956084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3500,
+                "stop_id": 3033,
+                "stop_name": "SW Jean Rd & Tualata",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7306083685014,
+                    45.39711739364875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 4350,
+                "stop_id": 7879,
+                "stop_name": "Tualatin Park & Ride",
+                "jurisdic": "Tualatin",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74882076841624,
+                    45.39469654986714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 3615,
+                "stop_name": "SW Macadam & Julia",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67552110905447,
+                    45.487658809001154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 3624,
+                "stop_name": "SW Macadam & Pendleton",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67357111252683,
+                    45.48126072398042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 3614,
+                "stop_name": "SW Macadam & Nebraska",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67226383732768,
+                    45.47734655838672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 4905,
+                "stop_name": "SW Riverside & Radcliffe",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65989360355553,
+                    45.452119219459235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 4902,
+                "stop_name": "SW Riverside & Palatine Hill",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65691361297861,
+                    45.445620723074754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 4899,
+                "stop_name": "SW Riverside & Midvale",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65595599339674,
+                    45.43095388914943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 8208,
+                "stop_name": "Lake Oswego Transit Center",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6678797461085,
+                    45.420631062684826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 5513,
+                "stop_name": "N State & North Shore",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66381258035241,
+                    45.415758983854495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 3812,
+                "stop_name": "600 Block McVey",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6661684270287,
+                    45.41080351345928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 3817,
+                "stop_name": "McVey & Oak",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67492507240291,
+                    45.408046125485384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 3604,
+                "stop_name": "SW Macadam & Boundary",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67533424890527,
+                    45.48512864484852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 5286,
+                "stop_name": "1800 Block South Shore (Park & Ride)",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68048111113211,
+                    45.4068696658479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 5306,
+                "stop_name": "South Shore & Maple",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71334712443999,
+                    45.402822557431996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 5289,
+                "stop_name": "3800 Block South Shore",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7168110995944,
+                    45.40335181002563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3050,
+                "stop_id": 5290,
+                "stop_name": "4100 Block South Shore",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71848751825476,
+                    45.40451185494482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 5292,
+                "stop_name": "4300 Block South Shore",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.718033350196,
+                    45.40598023306714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 3364,
+                "stop_name": "4400 Block Lakeview",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72231197942298,
+                    45.40452236828741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3250,
+                "stop_id": 669,
+                "stop_name": "Bryant & Wildwood",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72318692962376,
+                    45.39998977157412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3300,
+                "stop_id": 667,
+                "stop_name": "17500 Block Bryant",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72316103232042,
+                    45.39887529793517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3200,
+                "stop_id": 13044,
+                "stop_name": "Bryant & Lamont Way",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72320606372371,
+                    45.402881437168105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 7586,
+                "stop_name": "SW 5th & Alder",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6772070403278,
+                    45.519601923194415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 7614,
+                "stop_name": "SW 5th & Main",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6790159382719,
+                    45.51626940153299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 13167,
+                "stop_name": "SW 5th & Clay",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68049937692004,
+                    45.51359718532566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 2580,
+                "stop_name": "SW Harrison & 4th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68109478942257,
+                    45.510523655329635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 2566,
+                "stop_name": "200 Block SW Harrison",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67903167489769,
+                    45.50998157550464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 4906,
+                "stop_name": "SW Riverside & Riverdale",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65909315446034,
+                    45.45068314978108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 4894,
+                "stop_name": "SW Riverside & Briarwood",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65831167640306,
+                    45.42838918716767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 5507,
+                "stop_name": "N State & D Ave",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66198954841083,
+                    45.422667775988494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 7631,
+                "stop_name": "SW 5th & Pine",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6758265758323,
+                    45.52224017989126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 13180,
+                "stop_name": "SW River Pkwy & River Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67454422178685,
+                    45.50714773267976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 12880,
+                "stop_name": "SW Moody & Gaines",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67194204426225,
+                    45.496186156224816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 13183,
+                "stop_name": "SW Moody & Thomas",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67204199738083,
+                    45.49438809271778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 13601,
+                "stop_name": "SW Moody & Meade South",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67279257733263,
+                    45.503114772859306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 12760,
+                "stop_name": "SW Moody & Gibbs",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67181484176656,
+                    45.499337006424916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3700,
+                "stop_id": 13854,
+                "stop_name": "Jean Rd & Pilkington",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7337948269625,
+                    45.39712182286359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3900,
+                "stop_id": 13855,
+                "stop_name": "Jean Rd & Jean Way",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73795846547809,
+                    45.39713034418004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 4100,
+                "stop_id": 12852,
+                "stop_name": "SW Lower Boones Ferry & 65th",
+                "jurisdic": "Tualatin",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74347830849646,
+                    45.39675721831592
+                ]
+            }
+        }
+    ]
+}

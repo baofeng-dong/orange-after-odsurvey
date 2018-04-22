@@ -1,0 +1,817 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 9933,
+                "stop_name": "E Main & N 1st",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9895035756805,
+                    45.522756971105615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 12875,
+                "stop_name": "2800 Blk NE Brookwood Pkwy, Library",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.93702689971742,
+                    45.542688397805286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 12884,
+                "stop_name": "NE Brookwood & Airport Rd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.93856202719078,
+                    45.53959464430813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 10063,
+                "stop_name": "Shute Rd & Dawson Creek Dr",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.92632840650951,
+                    45.54439924602146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 9931,
+                "stop_name": "300 Block E Main",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98544596092977,
+                    45.522665300306976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 9936,
+                "stop_name": "N 1st & NE Grant",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98956744160002,
+                    45.52828326267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 9937,
+                "stop_name": "N 1st & NE Tiffany",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98949090983784,
+                    45.53152624675454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 9940,
+                "stop_name": "NW Glencoe & NE Lenox",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.99554554665424,
+                    45.54427660664107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 9941,
+                "stop_name": "NW Glencoe & NE Milne",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9954225028424,
+                    45.54847944420815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 9943,
+                "stop_name": "NE Evergreen & 3rd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98922012941013,
+                    45.54977337331582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 9944,
+                "stop_name": "NE Evergreen & Sunburst",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98643289498253,
+                    45.54981201834261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 9945,
+                "stop_name": "NE Evergreen & Jackson School Rd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97998582855578,
+                    45.549926477116045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 9947,
+                "stop_name": "NE Evergreen & 13th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96959526075602,
+                    45.54994825089431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 10279,
+                "stop_name": "NE 15th & Prahl Pkwy",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96648482787508,
+                    45.54560087425699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 975,
+                "stop_id": 9948,
+                "stop_name": "NE 15th & Jones Farm Pkwy",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9664810007809,
+                    45.54252114179717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 10289,
+                "stop_name": "1200 Block NE 25th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9571047629089,
+                    45.53417774697744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 8558,
+                "stop_name": "NE Cornell & 34th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.94735705583608,
+                    45.532098430370986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 9953,
+                "stop_name": "Fair Complex/Airport Park & Ride",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.94587968615953,
+                    45.527198006062584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1175,
+                "stop_id": 10278,
+                "stop_name": "NE 15th & Edgefield",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96630910423109,
+                    45.548568592106314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 9939,
+                "stop_name": "NW Glencoe & NE Cory",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.99568128854467,
+                    45.53968617865974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 9954,
+                "stop_name": "Hillsboro Transit Center",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98484534915603,
+                    45.52149609201562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 9935,
+                "stop_name": "N 1st & NE Edison",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98961178406158,
+                    45.52619308350706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 10169,
+                "stop_name": "NW Glencoe & Cody Ct",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98981169730486,
+                    45.53511773411426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 525,
+                "stop_id": 9938,
+                "stop_name": "2800 Block NW Glencoe",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.99560613473133,
+                    45.54090891421705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 9942,
+                "stop_name": "NE Evergreen & NW Glencoe",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.99438353187799,
+                    45.549733623697186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 775,
+                "stop_id": 10482,
+                "stop_name": "NE Evergreen & Evergreen Middle School",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98373073278178,
+                    45.54987790958412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 9946,
+                "stop_name": "NE Evergreen & Jackson Road Loop",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9737510352479,
+                    45.54997275478746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 925,
+                "stop_id": 10277,
+                "stop_name": "NE 15th & Edgefield",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96648052845774,
+                    45.548769051820635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 10061,
+                "stop_name": "Dawson Creek & Brookwood",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.93236923167082,
+                    45.54708136754676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 10005,
+                "stop_name": "3100 Block NE Dawson Creek",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.93336319658029,
+                    45.5489751732842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 10004,
+                "stop_name": "NE Evergreen & Brookwood",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.92740579465514,
+                    45.550751149638046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1425,
+                "stop_id": 9962,
+                "stop_name": "NE 34th & Cornell",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9465200945896,
+                    45.53149534602479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1125,
+                "stop_id": 13901,
+                "stop_name": "NE 15th & Griffin Oaks",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96648939098232,
+                    45.54018318155931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 13902,
+                "stop_name": "1500 Block NE 25th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.95712686957626,
+                    45.536011597189656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 10026,
+                "stop_name": "NE Cornell & 25th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.95632178568356,
+                    45.53057506054266
+                ]
+            }
+        }
+    ]
+}

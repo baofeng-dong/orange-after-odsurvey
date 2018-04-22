@@ -1,0 +1,334 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 0,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Willamette",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 9296,
+                "stop_name": "10th St & 8th Court",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65172914717023,
+                    45.3457552437467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 0,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Willamette",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 11763,
+                "stop_name": "Willamette Falls Dr & West A",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61265166212405,
+                    45.36058587835267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 0,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Willamette",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 11764,
+                "stop_name": "Willamette Falls Dr & 6th St",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64451561301769,
+                    45.34739664100031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 0,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Willamette",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 9297,
+                "stop_name": "Blankenship & Tannler Dr",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65380885400498,
+                    45.350057526510135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 0,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Willamette",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 8759,
+                "stop_name": "Oregon City Transit Center",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6043943111484,
+                    45.36014340158901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 0,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Willamette",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 3588,
+                "stop_name": "Longview & Holcomb",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57079817774991,
+                    45.371574732325314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 0,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Willamette",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 2682,
+                "stop_name": "S Holcomb & Swan Ave",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57244443632455,
+                    45.36996377860875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 0,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Willamette",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 2679,
+                "stop_name": "S Holcomb & Hunter Ave",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57502093794375,
+                    45.368498247982494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 0,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Willamette",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 8441,
+                "stop_name": "S Holcomb & Front Ave",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5793904301571,
+                    45.366433190929094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 0,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Willamette",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 2675,
+                "stop_name": "Holcomb & Apperson",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58315079731204,
+                    45.36467853372504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 0,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Willamette",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 8446,
+                "stop_name": "Abernethy & Redland Rd",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58758151204658,
+                    45.36445531072329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 0,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Willamette",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 8313,
+                "stop_name": "900 Block Abernethy",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59395615960848,
+                    45.36365657325834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 0,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Willamette",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 7644,
+                "stop_name": "Washington & 16th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59839272440671,
+                    45.36307915142467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 154,
+                "dir": 0,
+                "rte_desc": "154-Willamette/Clackamas Heights",
+                "dir_desc": "To Willamette",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 11111,
+                "stop_name": "Washington & 14th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59978539912737,
+                    45.361693408431506
+                ]
+            }
+        }
+    ]
+}

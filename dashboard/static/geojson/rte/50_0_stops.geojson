@@ -1,0 +1,1254 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 825,
+                "stop_id": 13586,
+                "stop_name": "NW Cornell & 118th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79743926000641,
+                    45.52690133389242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 2275,
+                "stop_id": 13465,
+                "stop_name": "NW Cornell & 118th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79706627573431,
+                    45.52677611894414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 225,
+                "stop_id": 13311,
+                "stop_name": "SW Taylor & Selba Terrace",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77781578270421,
+                    45.515918397449695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 13260,
+                "stop_name": "SW Valeria View & Barnes",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78751822247904,
+                    45.51441435906687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 13261,
+                "stop_name": "SW Taylor & Windwood Way",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78475751068541,
+                    45.515598423218734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 13262,
+                "stop_name": "SW Taylor & Morrison",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78071769945645,
+                    45.515936847258054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 13263,
+                "stop_name": "9300 Block SW Taylor",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7730964980659,
+                    45.5159197183619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 13264,
+                "stop_name": "SW Taylor & 90th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76970456001995,
+                    45.515893637799124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 8105,
+                "stop_name": "NW 90th & W Stark",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76951143887604,
+                    45.51962346850686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 13265,
+                "stop_name": "NW Leahy & Oak",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76959960921408,
+                    45.52099544575589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 8961,
+                "stop_name": "NW Leahy & Leahy Terrace",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77229346289793,
+                    45.52309194558501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 13266,
+                "stop_name": "NW Leahy & Trillium Hollow",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77625305677073,
+                    45.52324031900157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 3379,
+                "stop_name": "NW Leahy & 101st",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78077338785576,
+                    45.52320371714285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 3376,
+                "stop_name": "NW Leahy & Alpenglow Way",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7846824973722,
+                    45.52321281333142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 6539,
+                "stop_name": "NW 107th & Walters",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78701527171033,
+                    45.52410227502836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 1195,
+                "stop_name": "NW Cornell & 110th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78961318228055,
+                    45.526209432109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 1199,
+                "stop_name": "NW Cornell & 113th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79349786713493,
+                    45.52659971377675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 1201,
+                "stop_name": "NW Cornell & 119th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79952549988498,
+                    45.527061611694165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 1203,
+                "stop_name": "NW Cornell & 123rd",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80455497718444,
+                    45.52597139224186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 13267,
+                "stop_name": "NW Saltzman & Dogwood",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80647157486679,
+                    45.52715354884231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 13268,
+                "stop_name": "NW Saltzman & Westlawn Terrace",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80673998245929,
+                    45.52910458534596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 13269,
+                "stop_name": "NW Saltzman & Marshall",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80670206243343,
+                    45.53091645084327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 13270,
+                "stop_name": "NW Saltzman & Coleman",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80694313827259,
+                    45.5328746947982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 13271,
+                "stop_name": "NW Saltzman & 128th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80896412093873,
+                    45.53421820992965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 13272,
+                "stop_name": "NW Saltzman & Burton",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81194401980058,
+                    45.537400107296904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 13273,
+                "stop_name": "NW Saltzman & Bauer Woods",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81076256389295,
+                    45.53910835710019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 13274,
+                "stop_name": "NW Saltzman & Creekside",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81036310815324,
+                    45.542647448075236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 13276,
+                "stop_name": "NW Thompson & 126th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80716246569104,
+                    45.54856361868939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 13277,
+                "stop_name": "NW Thompson & 120th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80014627709619,
+                    45.548076335908945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 13278,
+                "stop_name": "NW Thompson & Permian",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79449906132712,
+                    45.547669139379174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 13279,
+                "stop_name": "NW Thompson & Gerritz",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78998340388166,
+                    45.54589481963318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 13280,
+                "stop_name": "NW Thompson & McDaniel",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78431059618282,
+                    45.544834324865846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 13281,
+                "stop_name": "NW McDaniel & 111th Ct",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79087849249473,
+                    45.53976784316005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 13282,
+                "stop_name": "NW McDaniel & Blackhawk",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79266722733803,
+                    45.53981234316317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 13283,
+                "stop_name": "11800 Block NW McDaniel",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79823311436168,
+                    45.53865631722903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 13284,
+                "stop_name": "NW 119th & Kathleen Dr",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79961164693994,
+                    45.53724501376684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 13285,
+                "stop_name": "NW 119th & Maple Hill",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79961170813147,
+                    45.535962509663165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 13286,
+                "stop_name": "NW 119th & Old Quarry",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79959122203742,
+                    45.535143667972235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 13287,
+                "stop_name": "NW 119th & Sunningdale",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79961062090611,
+                    45.53439459997488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 13288,
+                "stop_name": "NW 119th & Coleman",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79963740810133,
+                    45.533282278499435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 13289,
+                "stop_name": "NW 119th & Vallevue",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79967110635516,
+                    45.53143721113918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 13290,
+                "stop_name": "NW 119th & Lovejoy",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79972078518028,
+                    45.53023948263825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 13291,
+                "stop_name": "NW 119th & Kearney",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7997258391892,
+                    45.52948080825269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 13292,
+                "stop_name": "NW 119th & Reeves",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79976373358203,
+                    45.52760382806826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 10152,
+                "stop_name": "NW Cedar Hills & Leahy",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79288457675985,
+                    45.52262070938943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 10749,
+                "stop_name": "SW Cedar Hills & Celeste",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79157293687085,
+                    45.5188364914439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 9627,
+                "stop_name": "SW Barnes & Cedar Hills Blvd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78972453266759,
+                    45.51522009932467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 13259,
+                "stop_name": "SW Barnes & Valeria View",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78843225356695,
+                    45.51375775527009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 13275,
+                "stop_name": "NW Saltzman & Hartford",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81040151375625,
+                    45.54447651240503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1675,
+                "stop_id": 13455,
+                "stop_name": "NW McDaniel & Harding Ct",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78941414168588,
+                    45.54017524405764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 6537,
+                "stop_name": "NW 107th & Cornell",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7870585729663,
+                    45.52557411757938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 13243,
+                "stop_name": "NW Saltzman & Thompson",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81049912707836,
+                    45.548174451052304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 9971,
+                "stop_name": "Sunset Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78108426541401,
+                    45.509902999936614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 50,
+                "dir": 0,
+                "rte_desc": "50-Cedar Mill",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 9971,
+                "stop_name": "Sunset Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78108426541401,
+                    45.509902999936614
+                ]
+            }
+        }
+    ]
+}

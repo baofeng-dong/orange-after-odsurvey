@@ -1,0 +1,633 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 6972,
+                "stop_name": "NW 185th & Heritage Pkwy",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86726254573531,
+                    45.521063290671705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 6990,
+                "stop_name": "NW 185th & Holly",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86729947698795,
+                    45.52361110699066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 9150,
+                "stop_name": "NW Walker & 185th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86636477691191,
+                    45.527075606458304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 525,
+                "stop_id": 9210,
+                "stop_name": "18000 Block NW Walker",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86353784252013,
+                    45.525760019160685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 9230,
+                "stop_name": "NW Walker & Cambray",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85939766346198,
+                    45.52416122363776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 9151,
+                "stop_name": "NW Walker & 173rd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85489456274628,
+                    45.52259651571169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 9152,
+                "stop_name": "SW Walker & Schendel",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84412935818158,
+                    45.51814449362829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 8924,
+                "stop_name": "SW Walker & 158th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83991386965614,
+                    45.51672949869701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 8925,
+                "stop_name": "SW Walker & Greystone Ct",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83569163507255,
+                    45.515449290537134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 8926,
+                "stop_name": "SW Walker & Koll Parkway",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8325522804035,
+                    45.51460048294192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 8927,
+                "stop_name": "SW Walker & Meadow Dr",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82895492934082,
+                    45.51361730546424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2075,
+                "stop_id": 8845,
+                "stop_name": "SW Park Way & 135th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8162023876859,
+                    45.50884218687171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 4374,
+                "stop_name": "SW Park Way & Devonshire",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81292002684957,
+                    45.50909367791708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 4386,
+                "stop_name": "SW Park Way & Wynwood",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81142197596581,
+                    45.509132330579064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 4379,
+                "stop_name": "SW Park Way & Huntington",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8063496848283,
+                    45.50870805502211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 4376,
+                "stop_name": "SW Park Way & Hicrest",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80301277534014,
+                    45.50815190146228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 4370,
+                "stop_name": "SW Park Way & Cedar Hills",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79640072263152,
+                    45.5077038530717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 9972,
+                "stop_name": "Sunset Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78133932205041,
+                    45.50992673474825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 8928,
+                "stop_name": "SW Walker & Murray",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82282702404797,
+                    45.510955727834926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 4366,
+                "stop_name": "10200 Block SW Park Way",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78187934786959,
+                    45.50811122839135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 4381,
+                "stop_name": "SW Park Way & Parkwood",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79021584391411,
+                    45.50717723054711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 7020,
+                "stop_name": "700 Block NW 185th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86731048151466,
+                    45.525148646552694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 9153,
+                "stop_name": "NW Walker & SW 167th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84945876867587,
+                    45.520031479885674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 4384,
+                "stop_name": "SW Park Way & Walker",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81927983241542,
+                    45.508523863625705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 4372,
+                "stop_name": "SW Park Way & Dellwood",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80954505859933,
+                    45.50916899295801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 7007,
+                "stop_name": "SW 185th & Salix Terrace",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86726600726428,
+                    45.5180632144606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 1,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 9871,
+                "stop_name": "Willow Creek Transit Center",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86979066619406,
+                    45.517370415717174
+                ]
+            }
+        }
+    ]
+}

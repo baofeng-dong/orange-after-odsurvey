@@ -1,0 +1,2105 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 9216,
+                "stop_name": "Willamette Dr & Lazy River Dr",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64614659953034,
+                    45.39167209158295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 6346,
+                "stop_name": "Willamette Dr & Shady Hollow",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64719811424763,
+                    45.392606431945815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 6301,
+                "stop_name": "Willamette Dr & Arbor",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65023947201877,
+                    45.395398271349976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 6334,
+                "stop_name": "Pacific Hwy & Furman",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65278554070106,
+                    45.397869621141524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 6335,
+                "stop_name": "Pacific Hwy & Holy Names Drive",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6547266686626,
+                    45.39959907608004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 6317,
+                "stop_name": "Pacific Hwy & Glenmorrie",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65770714326636,
+                    45.40221499129549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 6310,
+                "stop_name": "Pacific Hwy & Cherry",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65951519028164,
+                    45.403925021168234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 6327,
+                "stop_name": "Pacific Hwy & Laurel",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6599598686026,
+                    45.40785115571806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 5514,
+                "stop_name": "S State & Wilbur",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66419191190266,
+                    45.41293425472581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 5512,
+                "stop_name": "S State & North Shore",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66364335825361,
+                    45.41548108476152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 5509,
+                "stop_name": "N State & Foothills",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66303359877243,
+                    45.41804623667402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 147,
+                "stop_name": "B Ave & Second St",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66511312642291,
+                    45.42084450252145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 8207,
+                "stop_name": "Lake Oswego Transit Center",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66798327071315,
+                    45.4201779396234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 5505,
+                "stop_name": "N State & B Ave",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6624017805584,
+                    45.42096481223315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 5508,
+                "stop_name": "N State & E Ave",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66122353123718,
+                    45.42343350056406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 4895,
+                "stop_name": "SW Riverside & Briarwood",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65819854429445,
+                    45.428090535042415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 4896,
+                "stop_name": "SW Riverside & Elk Rock",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65540475385536,
+                    45.431455550756034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 4897,
+                "stop_name": "SW Riverside & Greenwood",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65333916702825,
+                    45.43594206597148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 4901,
+                "stop_name": "SW Riverside & Military",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65460732061953,
+                    45.44151637147706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 4904,
+                "stop_name": "SW Riverside & Palatine Hill",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65669379014172,
+                    45.4460279285689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 4910,
+                "stop_name": "SW Riverside & Riverwood",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65697128446803,
+                    45.44697656253936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 4908,
+                "stop_name": "SW Riverside & Riverdale",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6589632122047,
+                    45.45078183972585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 3622,
+                "stop_name": "SW Macadam & Nevada",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6713491277422,
+                    45.4728769660896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 3619,
+                "stop_name": "SW Macadam & Nebraska",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67190248900762,
+                    45.477128369296246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 3623,
+                "stop_name": "SW Macadam & Pendleton",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67317102938658,
+                    45.48091115018936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 3603,
+                "stop_name": "SW Macadam & Boundary",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67489115635182,
+                    45.48487780372265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 3616,
+                "stop_name": "SW Macadam & Julia",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6750468829172,
+                    45.48804934944069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 3613,
+                "stop_name": "SW Macadam & Hamilton Ct",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67359572980872,
+                    45.489820401057166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 3611,
+                "stop_name": "SW Macadam & Gaines",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67280350491775,
+                    45.49638174832458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 3450,
+                "stop_id": 1612,
+                "stop_name": "NW Everett & 2nd",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67259670124606,
+                    45.52522407884581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 3650,
+                "stop_id": 11814,
+                "stop_name": "N Interstate & Rose Quarter TC",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66632233485588,
+                    45.529724332010915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 3700,
+                "stop_id": 3365,
+                "stop_name": "N Interstate & Larrabee",
+                "jurisdic": "Portland",
+                "zipcode": "97227",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67120144070805,
+                    45.53253655620767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 3750,
+                "stop_id": 11840,
+                "stop_name": "N Interstate & Tillamook",
+                "jurisdic": "Portland",
+                "zipcode": "97227",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67442611773053,
+                    45.53811460299447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 3800,
+                "stop_id": 11839,
+                "stop_name": "N Interstate & Albina",
+                "jurisdic": "Portland",
+                "zipcode": "97227",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67523410126826,
+                    45.53954934957814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 3850,
+                "stop_id": 2962,
+                "stop_name": "N Interstate & Graham",
+                "jurisdic": "Portland",
+                "zipcode": "97227",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67706507557486,
+                    45.54311452493154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 3900,
+                "stop_id": 2195,
+                "stop_name": "N Greeley & Going Overpass",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69230792305461,
+                    45.55558867170379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4000,
+                "stop_id": 2226,
+                "stop_name": "N Greeley & Sumner",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69455582858996,
+                    45.56036644564473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4050,
+                "stop_id": 2208,
+                "stop_name": "N Greeley & Killingsworth",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69552209834066,
+                    45.56259813861744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4100,
+                "stop_id": 2206,
+                "stop_name": "N Greeley & Jessup",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69551122828197,
+                    45.56447727458422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4150,
+                "stop_id": 2182,
+                "stop_name": "N Greeley & Ainsworth",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69549822502445,
+                    45.566281555036326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4200,
+                "stop_id": 2197,
+                "stop_name": "N Greeley & Holman",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69547752608655,
+                    45.56809521288175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4250,
+                "stop_id": 2221,
+                "stop_name": "N Greeley & Rosa Parks Way",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69545677564996,
+                    45.57029861906307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4300,
+                "stop_id": 2190,
+                "stop_name": "N Greeley & Dekum",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6954418520402,
+                    45.571643154455685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4350,
+                "stop_id": 2185,
+                "stop_name": "N Greeley & Bryant",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69544083113153,
+                    45.573466181093266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4450,
+                "stop_id": 2212,
+                "stop_name": "N Greeley & Lombard St",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69540279749661,
+                    45.57672872698119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4500,
+                "stop_id": 3535,
+                "stop_name": "N Lombard & Peninsular",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69685796646013,
+                    45.577206898592955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4550,
+                "stop_id": 4432,
+                "stop_name": "N Peninsular & Farragut",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69714439417568,
+                    45.57919997208204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4600,
+                "stop_id": 4438,
+                "stop_name": "N Peninsular & Watts",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69713453209688,
+                    45.58134914235054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4650,
+                "stop_id": 4434,
+                "stop_name": "N Peninsular & Halleck",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6971551967628,
+                    45.58251491574463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4700,
+                "stop_id": 6384,
+                "stop_name": "N Willis & Peninsular",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69764263988982,
+                    45.58406139281334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4750,
+                "stop_id": 6373,
+                "stop_name": "N Willis & Bayard",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70032600631649,
+                    45.58408506772505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4800,
+                "stop_id": 6378,
+                "stop_name": "N Willis & Wabash",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70276182789243,
+                    45.58407098378227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4850,
+                "stop_id": 6387,
+                "stop_name": "N Willis & Washburne",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7055975657814,
+                    45.58407126105576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4900,
+                "stop_id": 10611,
+                "stop_name": "N Willis & Chautauqua",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70765923298103,
+                    45.58410484805403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 4950,
+                "stop_id": 6389,
+                "stop_name": "N Willis & Wayland",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71114402325622,
+                    45.58408925221264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 5000,
+                "stop_id": 6391,
+                "stop_name": "N Willis & Woolsey",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71333752548207,
+                    45.58410548636813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 5050,
+                "stop_id": 6382,
+                "stop_name": "N Willis & Newman",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71563893814282,
+                    45.58415540661675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 5100,
+                "stop_id": 6375,
+                "stop_name": "N Willis & Druid",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71775139659276,
+                    45.584139697786334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 5150,
+                "stop_id": 6379,
+                "stop_name": "N Willis & Hereford",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.720598882024,
+                    45.584110022897235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 5200,
+                "stop_id": 6385,
+                "stop_name": "N Willis & Portsmouth",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72238098272445,
+                    45.58442761950525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 5250,
+                "stop_id": 4494,
+                "stop_name": "N Portsmouth & Lombard St",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72394435920701,
+                    45.58281236408459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 5300,
+                "stop_id": 4496,
+                "stop_name": "N Portsmouth & Oberlin",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7251798420237,
+                    45.581152348678415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 5350,
+                "stop_id": 4498,
+                "stop_name": "N Portsmouth & Syracuse",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7262264577006,
+                    45.579729112943916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 5400,
+                "stop_id": 4491,
+                "stop_name": "N Portsmouth & Amherst",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72727849176158,
+                    45.57827906527607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 2575,
+                "stop_id": 13184,
+                "stop_name": "SW Macadam & Lowell",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67286321394967,
+                    45.49347218886168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 2567,
+                "stop_name": "200 Block SW Harrison",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67892997079143,
+                    45.5101399525243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 3200,
+                "stop_id": 11486,
+                "stop_name": "SW 6th & Columbia",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68109464303541,
+                    45.51426672816955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 3250,
+                "stop_id": 7789,
+                "stop_name": "SW 6th & Salmon",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6796872017895,
+                    45.5169337336621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 3300,
+                "stop_id": 7803,
+                "stop_name": "SW 6th & Washington",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67785941932118,
+                    45.52024400391965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 8762,
+                "stop_name": "Oregon City Transit Center",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60462904123885,
+                    45.35978958315658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 6320,
+                "stop_name": "Willamette Dr & Holly",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61105896381123,
+                    45.364690868191126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 6306,
+                "stop_name": "Willamette Dr & Burns",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61384450522334,
+                    45.36655219895541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 6321,
+                "stop_name": "Willamette Dr & Holmes",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61851291011325,
+                    45.36894533114785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 6312,
+                "stop_name": "Willamette Dr & Elliott",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6235193865937,
+                    45.37108617221866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 6303,
+                "stop_name": "Willamette Dr & Barlow",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62818889829921,
+                    45.37326761471028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 6323,
+                "stop_name": "Willamette Dr & Hughes",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63022873757265,
+                    45.37461208552979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 6344,
+                "stop_name": "Willamette Dr & Pimlico",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63268579342413,
+                    45.37656874807942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 6325,
+                "stop_name": "Willamette Dr & Jolie Pointe",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63394938202156,
+                    45.37766330872823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 6332,
+                "stop_name": "Willamette Dr & Mark Ln",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63544552104746,
+                    45.378966153869804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 6331,
+                "stop_name": "Willamette Dr & Mapleton",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63893753865828,
+                    45.384374793375024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 6309,
+                "stop_name": "Willamette Dr & Cedar Oak",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6415315430833,
+                    45.38744217046856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 6349,
+                "stop_name": "Willamette Dr & Walling Way",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64408820365227,
+                    45.38981268276602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 3400,
+                "stop_id": 8886,
+                "stop_name": "NW Everett & 5th",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6756219227505,
+                    45.525182448494625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 13185,
+                "stop_name": "SW Macadam & Tram Tower",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6727257402535,
+                    45.49918447763751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 13603,
+                "stop_name": "Willamette Dr & Webb",
+                "jurisdic": "West Linn",
+                "zipcode": "97068",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6165125376461,
+                    45.36779117610492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 143,
+                "stop_name": "SW Arthur & 1st",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67845128890312,
+                    45.503811510137524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 6472,
+                "stop_name": "2200 Block SW 1st",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67853678136468,
+                    45.5066871042944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 13305,
+                "stop_name": "SW Harrison & 6th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68264818379633,
+                    45.51105825464803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 3350,
+                "stop_id": 7751,
+                "stop_name": "SW 6th & W Burnside",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67641501100556,
+                    45.5228802354845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 5500,
+                "stop_id": 9635,
+                "stop_name": "N Portsmouth & Willamette",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72875963125276,
+                    45.576353075733635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 13817,
+                "stop_name": "SW Macadam & Sellwood Bridge",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66886795726693,
+                    45.46542109892144
+                ]
+            }
+        }
+    ]
+}

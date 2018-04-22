@@ -1,0 +1,1415 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3200,
+                "stop_id": 7879,
+                "stop_name": "Tualatin Park & Ride",
+                "jurisdic": "Tualatin",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74882076841624,
+                    45.39469654986714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 5794,
+                "stop_name": "9800 Block SW Terwilliger",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68381534621732,
+                    45.45448531715529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 3863,
+                "stop_name": "McNary & Condolea",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7101279206621,
+                    45.433985175652374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 3296,
+                "stop_name": "Kruse Way & Kruse Oaks",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73964256703181,
+                    45.41967565209458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 1927,
+                "stop_name": "SW Naito Parkway & Harrison",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6769557661364,
+                    45.509707544515294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 475,
+                "stop_id": 8770,
+                "stop_name": "SW Naito Parkway & Sheridan",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6776732174757,
+                    45.506096781945786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 207,
+                "stop_name": "SW Barbur & 3rd",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68091092180182,
+                    45.47156742822914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 5816,
+                "stop_name": "SW Terwilliger & Carson",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68384346092434,
+                    45.46405923523239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 5807,
+                "stop_name": "SW Terwilliger & Taylors Ferry",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68507395573108,
+                    45.46272562683172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 5802,
+                "stop_name": "SW Terwilliger & Primrose",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68503578358805,
+                    45.459271399646774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 506,
+                "stop_name": "SW Boones Ferry Rd & Arnold",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68718600940646,
+                    45.44648793119953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1525,
+                "stop_id": 9406,
+                "stop_name": "SW Boones Ferry Rd & 13th Ct",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69245662016324,
+                    45.43788893986421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 581,
+                "stop_name": "SW Boones Ferry Rd & 22nd",
+                "jurisdic": "Portland",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70014235258125,
+                    45.434306937509376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 2250,
+                "stop_name": "Greenridge & Greenridge Ct",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70429463457651,
+                    45.43131791463758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 2247,
+                "stop_name": "200 Block Greenridge",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70570932441589,
+                    45.43068160910925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 3040,
+                "stop_name": "Jefferson & Independence",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71600937646919,
+                    45.43212240181095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 3141,
+                "stop_name": "Kerr & Touchstone",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71514574620988,
+                    45.42801381779959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 3137,
+                "stop_name": "Kerr & The Grotto",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70738995112926,
+                    45.42611443157631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 553,
+                "stop_name": "Boones Ferry Rd & Rainbow",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71089405961627,
+                    45.421270096159155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 568,
+                "stop_name": "Boones Ferry Rd & Twin Fir",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71361355020136,
+                    45.41832265754546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 3297,
+                "stop_name": "Kruse Way & Daniel Way",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71900134862746,
+                    45.41686466185454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 3294,
+                "stop_name": "Kruse Way & Carman",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7238134642539,
+                    45.418485868874875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 7896,
+                "stop_name": "14100 Block SW 72nd",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74915926910778,
+                    45.4175368033917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 7868,
+                "stop_name": "SW 72nd & Bonita",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7492212252616,
+                    45.41577828317135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 7878,
+                "stop_name": "SW 72nd & Kable",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74912663886647,
+                    45.40778207849219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3050,
+                "stop_id": 7866,
+                "stop_name": "16500 Block SW 72nd",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74920303671571,
+                    45.40132565024445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3075,
+                "stop_id": 9047,
+                "stop_name": "SW 72nd & Durham Rd",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7491936749028,
+                    45.39926161672052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 7880,
+                "stop_name": "Tualatin Park & Ride",
+                "jurisdic": "Tualatin",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74875930512175,
+                    45.39476710235202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 173,
+                "stop_name": "SW Barbur & Hamilton",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67856572713241,
+                    45.49103721631115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 188,
+                "stop_name": "SW Barbur & Capitol Hwy",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68031960641457,
+                    45.48023082309977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 5808,
+                "stop_name": "SW Terwilliger & 6th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68465409401094,
+                    45.467282918556805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 5799,
+                "stop_name": "SW Terwilliger & Lobelia",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6850314034829,
+                    45.461285519529646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 5780,
+                "stop_name": "SW Terwilliger & Alice",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68502136550548,
+                    45.45721855655923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 5779,
+                "stop_name": "SW Terwilliger & Maplecrest",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68272815853645,
+                    45.45390263847466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 516,
+                "stop_name": "SW Boones Ferry Rd & Colony Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68627659586514,
+                    45.44891475337203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 520,
+                "stop_name": "SW Boones Ferry Rd & Coronado",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68680272594277,
+                    45.44276630437479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 3995,
+                "stop_name": "Monroe & Boones Ferry Rd",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7030594144764,
+                    45.432333944172896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 2251,
+                "stop_name": "Greenridge & SW Monroe Pkwy",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70718559735447,
+                    45.433587121414554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 3134,
+                "stop_name": "Kerr & Tanglewood",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71155315441408,
+                    45.42780668003931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 3127,
+                "stop_name": "Kerr & Boones Ferry Rd",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70818111412505,
+                    45.42485377760497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 536,
+                "stop_name": "Boones Ferry Rd & Kruse Way Pl",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71534506137024,
+                    45.41660045478807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 3300,
+                "stop_name": "Kruse Way & Westlake Dr",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73238788595637,
+                    45.419072713004205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 7876,
+                "stop_name": "SW 72nd & Hunziker",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75180648414987,
+                    45.4250894149386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2760,
+                "stop_id": 9469,
+                "stop_name": "13900 Block SW 72nd",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75005964182202,
+                    45.41911737304751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 5973,
+                "stop_name": "15800 Block SW 72nd",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.749120533663,
+                    45.40544777810977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 11945,
+                "stop_name": "17000 Block SW 72nd",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74974106612468,
+                    45.397159003402514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 11804,
+                "stop_name": "3400 Block McNary",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.713649595127,
+                    45.43397730023475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 9044,
+                "stop_name": "SW Columbia & 10th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68481811884172,
+                    45.51532626200588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 1108,
+                "stop_name": "SW Columbia & Park Ave",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6832475228893,
+                    45.514918924833495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 12795,
+                "stop_name": "SW Columbia & 1st",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67640236335455,
+                    45.513088397849124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 155,
+                "stop_name": "4900 Block SW Barbur",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68275676679825,
+                    45.487059214323075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 3045,
+                "stop_name": "SW Jefferson & McNary",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71589806203039,
+                    45.43454130233909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 583,
+                "stop_name": "SW Boones Ferry Rd & 4th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68327147891226,
+                    45.451848803956345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 515,
+                "stop_name": "SW Boones Ferry Rd & Clara Ln",
+                "jurisdic": "Portland",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69748956531288,
+                    45.436030227340126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2875,
+                "stop_id": 13583,
+                "stop_name": "72nd & Cardinal",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74915683124836,
+                    45.41128139290792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 181,
+                "stop_name": "SW Barbur & Parkhill Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67979737520534,
+                    45.476746868418964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 566,
+                "stop_name": "SW Boones Ferry Rd & Stephenson",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68665851616176,
+                    45.439680038968895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2730,
+                "stop_id": 13590,
+                "stop_name": "SW 72nd & Cherry Dr",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75185036433733,
+                    45.42195319104335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 12794,
+                "stop_name": "SW Columbia between 5th & 4th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67963438938783,
+                    45.513954211827595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 3049,
+                "stop_name": "SW Jefferson & 10th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68376350724294,
+                    45.51594444595191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 13891,
+                "stop_name": "SW Boones Ferry & Trillium",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68667480009177,
+                    45.44412365578323
+                ]
+            }
+        }
+    ]
+}

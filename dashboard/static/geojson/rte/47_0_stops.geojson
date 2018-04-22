@@ -1,0 +1,1507 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 1159,
+                "stop_name": "NW Evergreen Pkwy & 188th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86990846926146,
+                    45.53828261255312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 8406,
+                "stop_name": "NW Evergreen Pkwy & Tanasbourne Terr",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8730247374381,
+                    45.53921094584348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 10150,
+                "stop_name": "NW Evergreen Pkwy & Stucki",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87457519826862,
+                    45.54103993649992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 10457,
+                "stop_name": "NW Evergreen Pkwy & 196th Terrace",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87851763017393,
+                    45.542602940946395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 8540,
+                "stop_name": "NW Evergreen Pkwy & John Olsen Pl",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88208387825946,
+                    45.543931660100874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 8646,
+                "stop_name": "20500 Block NW Evergreen Pkwy",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88804337160161,
+                    45.54575379070141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 8541,
+                "stop_name": "NW Evergreen Pkwy & Aloclek Pl",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.89214573656918,
+                    45.54583436572856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 9601,
+                "stop_name": "NW Evergreen Pkwy & 215th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.89735460548688,
+                    45.54642666068195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 1158,
+                "stop_name": "NE Evergreen Pkwy & Cornelius Pass Rd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9011320935338,
+                    45.54650924404472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 8648,
+                "stop_name": "NE Evergreen Pkwy & NW Atkeson Ln",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.90618098290014,
+                    45.54739714282627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 10940,
+                "stop_name": "NE Evergreen Pkwy & Imbrie Dr",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9078710548871,
+                    45.548962452554136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 9790,
+                "stop_name": "NE Century (NW 229th) & Evergreen Pkwy",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91048859755126,
+                    45.549737686138094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 9604,
+                "stop_name": "2500 Block NE Century (NW 229th)",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.90997421528229,
+                    45.545900969383126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 13164,
+                "stop_name": "NE Century (NW 229th) & Intel South Drwy",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.90958351395322,
+                    45.54349431312304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 8542,
+                "stop_name": "NE CENTURY (NW 229th) & Butler",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9085935739937,
+                    45.539111071268984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 9851,
+                "stop_name": "NE Century (NW 229th) & Rosebay Dr",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91003839679972,
+                    45.537199613241405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 13529,
+                "stop_name": "NE Century (NW 229th) & Brighton St",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91209331161845,
+                    45.535064829212295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 10041,
+                "stop_name": "NE Century (NW 231st) & Carillion",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91237140613507,
+                    45.5327471090767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 10042,
+                "stop_name": "NE Century (NW 231st) & Orenco Max Stn",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91485294426944,
+                    45.53049399530909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 10043,
+                "stop_name": "NE Century (NW 231st) & Dogwood",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91486263672394,
+                    45.52686304794514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 10153,
+                "stop_name": "NE Century (NW 231st) & Oelrich",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91482508514689,
+                    45.52403930331613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 10044,
+                "stop_name": "NE Century (NW 231st) & Orenco Ridge",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91480915870105,
+                    45.52195586063144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 11771,
+                "stop_name": "E Main (W Baseline) & NE 63rd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.917078813056,
+                    45.520211609578105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3050,
+                "stop_id": 10045,
+                "stop_name": "E Main (W Baseline) & SE 58th Ct",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.92160311040284,
+                    45.520017233671105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 10046,
+                "stop_name": "E Main (W Baseline) & NE 53rd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.92882758405861,
+                    45.52002614438083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 10047,
+                "stop_name": "E Main (W Baseline) & NE 49th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.93205420197752,
+                    45.52000564815192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3200,
+                "stop_id": 260,
+                "stop_name": "E Main & NE Brookwood",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.93726669822756,
+                    45.52003922443302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3250,
+                "stop_id": 305,
+                "stop_name": "E Main & NE 40th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.94059496363877,
+                    45.5200125071228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3300,
+                "stop_id": 301,
+                "stop_name": "E Main & NE 37th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.94431935673468,
+                    45.52001930060353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3350,
+                "stop_id": 288,
+                "stop_name": "E Main & NE 32nd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.94954358157733,
+                    45.52002307502489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3400,
+                "stop_id": 3718,
+                "stop_name": "E Main & SE 26th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.95549907472044,
+                    45.520922547802456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3450,
+                "stop_id": 3716,
+                "stop_name": "E Main & SE 24th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.95784330352828,
+                    45.521086682762395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3500,
+                "stop_id": 3711,
+                "stop_name": "E Main & SE 18th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96358027702713,
+                    45.52148457635767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3550,
+                "stop_id": 8537,
+                "stop_name": "E Main & NE 14th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96812729226262,
+                    45.521805970209876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3600,
+                "stop_id": 3687,
+                "stop_name": "E Main & NE 12th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9705983361199,
+                    45.52197916332979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3650,
+                "stop_id": 13255,
+                "stop_name": "SE 10th & Washington",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9740407882599,
+                    45.52155208875812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3700,
+                "stop_id": 310,
+                "stop_name": "SE Baseline St & 9th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97539034000717,
+                    45.52006093794419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3750,
+                "stop_id": 308,
+                "stop_name": "SE Baseline St & 7th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97867758586554,
+                    45.52008455594461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3800,
+                "stop_id": 307,
+                "stop_name": "SE Baseline St & 5th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98240733875807,
+                    45.520113509395195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3850,
+                "stop_id": 304,
+                "stop_name": "SE Baseline St & 3rd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98603429569782,
+                    45.520142161998486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3900,
+                "stop_id": 280,
+                "stop_name": "SE Baseline St & 2nd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98784707159095,
+                    45.520167559903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 3950,
+                "stop_id": 2672,
+                "stop_name": "Hillsboro Transit Center",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98468273984989,
+                    45.52146052515406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 4429,
+                "stop_name": "PCC Rock Creek Main Stop",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85942626408942,
+                    45.566013935676864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 10103,
+                "stop_name": "NW Springville & 173rd",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85602664247291,
+                    45.562947494225185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 10102,
+                "stop_name": "NW Springville & Samuel Drive",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8518139324917,
+                    45.56302513709622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 10101,
+                "stop_name": "NW Springville & 165th Terrace",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84837331339055,
+                    45.563897836580196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 10100,
+                "stop_name": "NW Springville & Sickle Terrace",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84533876234217,
+                    45.56471017699286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 10099,
+                "stop_name": "NW Springville & Oats Terrace",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84205189183878,
+                    45.565201109318025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 10098,
+                "stop_name": "NW Springville & Kaiser Rd",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83629759916482,
+                    45.56632628226634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 10105,
+                "stop_name": "NW Kaiser & Graf St",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83567570498563,
+                    45.56491952616909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 10104,
+                "stop_name": "NW Kaiser & Westbrook",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8350815082074,
+                    45.56274948955283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 10106,
+                "stop_name": "NW Bethany & Wismer",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83466994060274,
+                    45.5595698871194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 10107,
+                "stop_name": "NW Bethany & Laidlaw",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83689666550148,
+                    45.55603404647399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 13666,
+                "stop_name": "NW Laidlaw & Preakness",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84442873642593,
+                    45.55755103291797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 13667,
+                "stop_name": "NW Laidlaw & 167th Pl",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84862741734173,
+                    45.557740062861214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 13668,
+                "stop_name": "NW Laidlaw & Cove",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85199945178894,
+                    45.55638325407785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 13669,
+                "stop_name": "NW Laidlaw & West Union",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85304131204047,
+                    45.55334648495837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 13670,
+                "stop_name": "NW Laidlaw & Emerald Canyon",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85490968811916,
+                    45.55039635214772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 13671,
+                "stop_name": "NW 174th & Lone Rock",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85608754607942,
+                    45.54596221073555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 13672,
+                "stop_name": "NW 174th & Bethany Elem School",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85607284503654,
+                    45.543444710569574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 13673,
+                "stop_name": "NW 174th & Parkview",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85561709796958,
+                    45.5412253793168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 6905,
+                "stop_name": "NW 174th & Santiam",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85547112234451,
+                    45.53870235394996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 13674,
+                "stop_name": "NW Bronson & 179th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86147755561011,
+                    45.54011322566639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 13675,
+                "stop_name": "3100 Block NW Bronson",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86641851857104,
+                    45.54251843955695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 0,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To Hillsboro Transit Center",
+                "type": "BUS",
+                "stop_seq": 2775,
+                "stop_id": 9923,
+                "stop_name": "NE Orenco Station Loop & MAX Station",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91609839531252,
+                    45.53040056136294
+                ]
+            }
+        }
+    ]
+}

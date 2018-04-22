@@ -1,0 +1,518 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 250,
+                "stop_id": 10752,
+                "stop_name": "NW 13th & Lovejoy",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68461141762984,
+                    45.529997263251126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 550,
+                "stop_id": 9633,
+                "stop_name": "SW 11th & Taylor",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68387331678126,
+                    45.51905892179109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 700,
+                "stop_id": 11011,
+                "stop_name": "SW Park & Market",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68391330818386,
+                    45.513703803772366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 100,
+                "stop_id": 3596,
+                "stop_name": "NW 22nd & Lovejoy",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69669776350229,
+                    45.52979413407594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 1050,
+                "stop_id": 12760,
+                "stop_name": "SW Moody & Gibbs",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67181484176656,
+                    45.499337006424916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 1100,
+                "stop_id": 12880,
+                "stop_name": "SW Moody & Gaines",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67194204426225,
+                    45.496186156224816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 1150,
+                "stop_id": 12881,
+                "stop_name": "SW Lowell & Bond",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67137602038068,
+                    45.49389433689635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 150,
+                "stop_id": 3595,
+                "stop_name": "NW 21st & Lovejoy",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6946760195016,
+                    45.529836849374405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 800,
+                "stop_id": 10763,
+                "stop_name": "SW 5th & Montgomery",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68131460510155,
+                    45.511708076313134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 850,
+                "stop_id": 12375,
+                "stop_name": "SW 3rd & Harrison",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67959772042455,
+                    45.51020676475415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 950,
+                "stop_id": 12377,
+                "stop_name": "SW Harrison Street",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67657362517302,
+                    45.50879545052824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 1000,
+                "stop_id": 12378,
+                "stop_name": "SW River Pkwy & Moody",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67392423801049,
+                    45.50706888637123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 300,
+                "stop_id": 10753,
+                "stop_name": "NW 11th & Johnson",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68237399887482,
+                    45.52874552933895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 750,
+                "stop_id": 10762,
+                "stop_name": "SW 5th & Market",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68104189409954,
+                    45.51292198321975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 50,
+                "stop_id": 8989,
+                "stop_name": "NW 23rd & Marshall",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69868837676805,
+                    45.530615542466236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 200,
+                "stop_id": 10751,
+                "stop_name": "NW 18th & Lovejoy",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.689587149351,
+                    45.529929247102025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 350,
+                "stop_id": 10754,
+                "stop_name": "NW 11th & Glisan",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68229701490202,
+                    45.526608446027915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 450,
+                "stop_id": 10756,
+                "stop_name": "NW 11th & Couch",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68222311522594,
+                    45.52378380026911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 600,
+                "stop_id": 10759,
+                "stop_name": "SW 11th & Jefferson",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68530101215012,
+                    45.51640242540794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 650,
+                "stop_id": 10760,
+                "stop_name": "SW 11th & Clay",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.686081160715,
+                    45.51510591601044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 1025,
+                "stop_id": 13601,
+                "stop_name": "SW Moody & Meade South",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67279257733263,
+                    45.503114772859306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 193,
+                "dir": 1,
+                "rte_desc": "Portland Streetcar - NS Line",
+                "dir_desc": "To South Waterfront",
+                "type": "SC",
+                "stop_seq": 500,
+                "stop_id": 9600,
+                "stop_name": "SW 11th & Alder",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68281890991445,
+                    45.52109396546565
+                ]
+            }
+        }
+    ]
+}

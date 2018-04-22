@@ -1,0 +1,1760 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 8273,
+                "stop_name": "12900 Block SW Canyon",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80965354062866,
+                    45.488384115193575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 5599,
+                "stop_name": "SW Tualatin Valley Hwy & Murray",
+                "jurisdic": "Beaverton",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82677099098609,
+                    45.48977032366627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 5604,
+                "stop_name": "SW Tualatin Valley Hwy & St Marys Home",
+                "jurisdic": "Beaverton",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84707342028233,
+                    45.491903520223644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 5621,
+                "stop_name": "SW Tualatin Valley Hwy & 170th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85240591844058,
+                    45.49246800195142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 5625,
+                "stop_name": "SW Tualatin Valley Hwy & 178th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86084271205165,
+                    45.49331008422412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 5629,
+                "stop_name": "SW Tualatin Valley Hwy & 185th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86765491254714,
+                    45.49418975814045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 3450,
+                "stop_id": 5633,
+                "stop_name": "SW Tualatin Valley Hwy & 192nd",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8758402175134,
+                    45.49485133223717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 3500,
+                "stop_id": 5635,
+                "stop_name": "SW Tualatin Valley Hwy & 198th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88177007312417,
+                    45.49551874901474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 3850,
+                "stop_id": 5586,
+                "stop_name": "SW Tualatin Valley Hwy & 214th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.89654930924404,
+                    45.49719131497734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 3950,
+                "stop_id": 5644,
+                "stop_name": "SE Tualatin Valley Hwy & 75th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.90371593497068,
+                    45.497761558121134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 4150,
+                "stop_id": 5653,
+                "stop_name": "SE Tualatin Valley Hwy & Century",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91699994707585,
+                    45.49913902587916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 4620,
+                "stop_id": 5588,
+                "stop_name": "SE Tualatin Valley Hwy & Sunset Esplnd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.95882716992118,
+                    45.50598062306205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 4750,
+                "stop_id": 5616,
+                "stop_name": "SE Tualatin Valley Hwy & 13th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96870969450029,
+                    45.510032067048336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 4800,
+                "stop_id": 5615,
+                "stop_name": "SE Tualatin Valley Hwy & 11th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97339001665989,
+                    45.51244680980025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6050,
+                "stop_id": 308,
+                "stop_name": "SE Baseline St & 7th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97867758586554,
+                    45.52008455594461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6150,
+                "stop_id": 304,
+                "stop_name": "SE Baseline St & 3rd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98603429569782,
+                    45.520142161998486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6400,
+                "stop_id": 304,
+                "stop_name": "SE Baseline St & 3rd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98603429569782,
+                    45.520142161998486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6550,
+                "stop_id": 9850,
+                "stop_name": "SW Baseline & Dennis",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9950100123072,
+                    45.52020576970131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6650,
+                "stop_id": 10129,
+                "stop_name": "SW Baseline & Main",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.00299824691614,
+                    45.52003606502033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6800,
+                "stop_id": 292,
+                "stop_name": "SW Baseline & NW 334th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.02123853469801,
+                    45.52006552936205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6950,
+                "stop_id": 298,
+                "stop_name": "Baseline St & Valley View",
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.03037060644408,
+                    45.52014882670247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7050,
+                "stop_id": 287,
+                "stop_name": "Baseline St & N 31st",
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.03409039063622,
+                    45.52015387265926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7100,
+                "stop_id": 286,
+                "stop_name": "Baseline St & N 29th/Hobbs",
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.03681640861528,
+                    45.5201607899486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7150,
+                "stop_id": 284,
+                "stop_name": "Baseline St & N 26th",
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.04074641244578,
+                    45.52016749153827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7201,
+                "stop_id": 28,
+                "stop_name": "2200 Block Baseline",
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.04448424898794,
+                    45.520283672463414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7300,
+                "stop_id": 33,
+                "stop_name": "N Adair & 17th",
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.05178138726616,
+                    45.52098827568408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7400,
+                "stop_id": 31,
+                "stop_name": "N Adair & 12th",
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.05683644621669,
+                    45.52096964542767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7450,
+                "stop_id": 30,
+                "stop_name": "N Adair & 10th",
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.05930110390827,
+                    45.52098309473909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7500,
+                "stop_id": 27,
+                "stop_name": "N Adair & 7th",
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.06319555617503,
+                    45.52098619120263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7550,
+                "stop_id": 35,
+                "stop_name": "N Adair & 4th",
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0672342121361,
+                    45.52102574624851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7650,
+                "stop_id": 4322,
+                "stop_name": "N Adair & Yew",
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.07282846996497,
+                    45.52082980516633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7700,
+                "stop_id": 4279,
+                "stop_name": "Pacific Ave & Mountain View Ln",
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.07567320089937,
+                    45.5203648497404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7800,
+                "stop_id": 4307,
+                "stop_name": "Pacific Ave & Quince",
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.08496017899482,
+                    45.520380384935734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7850,
+                "stop_id": 4299,
+                "stop_name": "Pacific Ave & Oak",
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.08850239980147,
+                    45.52024219817671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7950,
+                "stop_id": 4309,
+                "stop_name": "2900 Block Pacific Ave",
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.09500865003892,
+                    45.520247587394145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 8000,
+                "stop_id": 4291,
+                "stop_name": "Pacific Ave & Hawthorne",
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0990745644453,
+                    45.519712831556845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 8700,
+                "stop_id": 4278,
+                "stop_name": "Pacific Ave & College Way",
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.11089966078478,
+                    45.51972056617098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 3750,
+                "stop_id": 5638,
+                "stop_name": "SW Tualatin Valley Hwy & 209th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.889817786381,
+                    45.496318838458215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6500,
+                "stop_id": 259,
+                "stop_name": "SW Baseline & Adams",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9911445268858,
+                    45.52020927764661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 5595,
+                "stop_name": "SW Tualatin Valley Hwy & 141st",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8208748919748,
+                    45.48917250550107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 5619,
+                "stop_name": "SW Tualatin Valley Hwy & Millikan Blvd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84159146785213,
+                    45.49186245733209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 5592,
+                "stop_name": "SW Tualatin Valley Hwy & Aloha Villa",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86303452590522,
+                    45.49350249600999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 3400,
+                "stop_id": 5594,
+                "stop_name": "18882-19040 SW Tualatin Valley Hwy",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87290136551434,
+                    45.49456495851814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 3700,
+                "stop_id": 5601,
+                "stop_name": "SW Tualatin Valley Hwy & Market Centre",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88763071740256,
+                    45.49610726765675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 4100,
+                "stop_id": 5650,
+                "stop_name": "SE Tualatin Valley Hwy & 67th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91284458158371,
+                    45.4987162171701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 4350,
+                "stop_id": 257,
+                "stop_name": "SE Tualatin Valley Hwy & 44th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.93852706519328,
+                    45.501385632225976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 4650,
+                "stop_id": 5639,
+                "stop_name": "SE Tualatin Valley Hwy & Cypress",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96169663177803,
+                    45.5071670275249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 4850,
+                "stop_id": 6495,
+                "stop_name": "SE 10th & Maple",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97383127376015,
+                    45.51479003901155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6000,
+                "stop_id": 310,
+                "stop_name": "SE Baseline St & 9th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97539034000717,
+                    45.52006093794419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6200,
+                "stop_id": 280,
+                "stop_name": "SE Baseline St & 2nd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98784707159095,
+                    45.520167559903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6450,
+                "stop_id": 280,
+                "stop_name": "SE Baseline St & 2nd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98784707159095,
+                    45.520167559903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6600,
+                "stop_id": 268,
+                "stop_name": "1000 Block SW Baseline St",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.000574947283,
+                    45.52002838699858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6700,
+                "stop_id": 264,
+                "stop_name": "SW Baseline St & 17th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.00739387359333,
+                    45.52004241588588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 8750,
+                "stop_id": 4264,
+                "stop_name": "Pacific Ave & A St",
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.11376177432291,
+                    45.519741226177935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6750,
+                "stop_id": 290,
+                "stop_name": "SW Baseline & 331st",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.01707047067232,
+                    45.5201011266834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7250,
+                "stop_id": 34,
+                "stop_name": "N Adair & 20th",
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.04769602500532,
+                    45.520460233201334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 9984,
+                "stop_name": "Beaverton Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80104716229755,
+                    45.49132669952319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 2775,
+                "stop_id": 11003,
+                "stop_name": "SW Tualatin Valley Hwy & 153rd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83242258884756,
+                    45.49042690920257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 4500,
+                "stop_id": 10190,
+                "stop_name": "SE Tualatin Valley Hwy & 30th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.95207613022369,
+                    45.50322535263176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 8600,
+                "stop_id": 4275,
+                "stop_name": "Pacific Ave & Cedar",
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.10644057311589,
+                    45.519706542807825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7900,
+                "stop_id": 4295,
+                "stop_name": "Pacific Ave & Maple",
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.09077971160255,
+                    45.520243316936295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 8800,
+                "stop_id": 146,
+                "stop_name": "19th & B St",
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.115447956493,
+                    45.5185336529482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 4900,
+                "stop_id": 6499,
+                "stop_name": "SE 10th & Walnut",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97375976972997,
+                    45.51734920116006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 4600,
+                "stop_id": 5612,
+                "stop_name": "SE Tualatin Valley Hwy & 24th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.95607535411185,
+                    45.504888768311005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 5622,
+                "stop_name": "SW Tualatin Valley Hwy & 174th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85645230922078,
+                    45.492832744220834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6100,
+                "stop_id": 307,
+                "stop_name": "SE Baseline St & 5th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98240733875807,
+                    45.520113509395195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 4250,
+                "stop_id": 12851,
+                "stop_name": "SE Tualatin Valley Hwy & Brookwood",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.93176556071585,
+                    45.50066065805444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 4200,
+                "stop_id": 5654,
+                "stop_name": "SE Tualatin Valley Hwy & Imlay",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.92265275450289,
+                    45.499734940005574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 8050,
+                "stop_id": 4280,
+                "stop_name": "Pacific Ave & Elm",
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.10278413315757,
+                    45.51967508223793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 2575,
+                "stop_id": 10641,
+                "stop_name": "SW Tualatin Valley Hwy & Hocken",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81539841429093,
+                    45.48855215785373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7750,
+                "stop_id": 4289,
+                "stop_name": "3800 Block Pacific Ave",
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.07949376658821,
+                    45.52035253169615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 8272,
+                "stop_name": "SW Canyon & Hall",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80395114815865,
+                    45.488554966839416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 8950,
+                "stop_name": "SW Canyon & Watson",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80608498230792,
+                    45.48844732279498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 7350,
+                "stop_id": 32,
+                "stop_name": "N Adair & 14th",
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.05420769273508,
+                    45.52099232935881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6350,
+                "stop_id": 8181,
+                "stop_name": "Hillsboro Transit Center",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98506439344347,
+                    45.52149695306027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 0,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Forest Grove",
+                "type": "BUS",
+                "stop_seq": 6875,
+                "stop_id": 296,
+                "stop_name": "Baseline & NW 338th",
+                "jurisdic": "Cornelius",
+                "zipcode": "97123",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.02487452400561,
+                    45.5201037300755
+                ]
+            }
+        }
+    ]
+}

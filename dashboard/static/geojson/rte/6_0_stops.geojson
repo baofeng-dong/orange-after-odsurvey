@@ -1,0 +1,1162 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 10953,
+                "stop_name": "NE Grand & Wasco",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66054859132382,
+                    45.53201062394329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 5906,
+                "stop_name": "NE M L King & Failing",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66146120918249,
+                    45.55101013455706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 2178,
+                "stop_name": "NE Grand & Weidler",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66054091391747,
+                    45.534229300088484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 5896,
+                "stop_name": "NE M L King & Brazee",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66149243587309,
+                    45.5402567065777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 12792,
+                "stop_name": "SW Columbia & 16th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69069228901353,
+                    45.5169227616327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 5910,
+                "stop_name": "NE M L King & Fremont",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66145140881515,
+                    45.54816182297205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 5935,
+                "stop_name": "NE M L King & Mason",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66142135704668,
+                    45.55312062905816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 5962,
+                "stop_name": "NE M L King & Wygant",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66140760974173,
+                    45.557222442140095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 5929,
+                "stop_name": "NE M L King & Killingsworth",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6613112488236,
+                    45.56263676603331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 5903,
+                "stop_name": "NE M L King & Dekum",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6612473291471,
+                    45.57162563394934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 5918,
+                "stop_name": "NE M L King & Holland",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66123838815628,
+                    45.57561211079075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 11483,
+                "stop_name": "SE Grand & Taylor",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66066759725152,
+                    45.51499394568456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 11484,
+                "stop_name": "SE Grand & Belmont",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66062861932058,
+                    45.51685772703682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 5899,
+                "stop_name": "NE M L King & Bryant",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66124483735453,
+                    45.5729715268905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 2641,
+                "stop_name": "Hawthorne Bridge",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6651117795379,
+                    45.51215700840745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 2170,
+                "stop_name": "SE Grand & Main",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66065834684717,
+                    45.51341027616463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 2175,
+                "stop_name": "NE Grand & Holladay",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66058186170196,
+                    45.529727931976936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 5956,
+                "stop_name": "NE M L King & Tillamook",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66151409793338,
+                    45.53775190526856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 5930,
+                "stop_name": "NE M L King & Knott",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66147874153802,
+                    45.5420154907817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 5909,
+                "stop_name": "NE M L King & Fargo",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66149072131249,
+                    45.546259896815826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 5894,
+                "stop_name": "NE M L King & Beech",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66146050434789,
+                    45.54940685028898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 5890,
+                "stop_name": "NE M L King & Alberta",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66135854170497,
+                    45.55957487210704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 5924,
+                "stop_name": "NE M L King & Jarrett",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66128958582533,
+                    45.56465399661415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 5886,
+                "stop_name": "NE M L King & Ainsworth",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66128524926853,
+                    45.56625487105229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 5944,
+                "stop_name": "NE M L King & Rosa Parks Way",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66125016131255,
+                    45.56987995381239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 5937,
+                "stop_name": "NE M L King & Morgan",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6612474848558,
+                    45.57432701352912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 1114,
+                "stop_name": "SW 18th & Goose Hollow MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69309902482142,
+                    45.517581309120864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 1111,
+                "stop_name": "SW Columbia & 12th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68684774184148,
+                    45.515871103482496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 9044,
+                "stop_name": "SW Columbia & 10th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68481811884172,
+                    45.51532626200588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 1108,
+                "stop_name": "SW Columbia & Park Ave",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6832475228893,
+                    45.514918924833495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 3635,
+                "stop_name": "SW Madison & 1st",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67583887422083,
+                    45.51445522332509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 2165,
+                "stop_name": "NE Grand & Broadway",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66053330124346,
+                    45.535414456453594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 2169,
+                "stop_name": "NE Grand & Hoyt",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66059266103083,
+                    45.52751579240658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 5946,
+                "stop_name": "NE M L King & Prescott",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6614016819129,
+                    45.55538432604477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2375,
+                "stop_id": 5932,
+                "stop_name": "NE M L King & Lombard St",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66122541401086,
+                    45.57693439926806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 13150,
+                "stop_name": "NE M L King & Columbia Blvd",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66116279692727,
+                    45.58095629961526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2525,
+                "stop_id": 13497,
+                "stop_name": "50 Block NE Gertz Rd",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66495718759354,
+                    45.59074425933101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 13161,
+                "stop_name": "200 Block NE Gertz Rd",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66362557466604,
+                    45.59030018234414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2675,
+                "stop_id": 13162,
+                "stop_name": "NE Gertz Rd & Vancouver Way",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66232155971204,
+                    45.59014985411836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 9438,
+                "stop_name": "NE Vancouver Way & Freightliner",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66358108629503,
+                    45.592340437264255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2825,
+                "stop_id": 10591,
+                "stop_name": "N Vancouver Way & NE Walker St",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66565565551086,
+                    45.593872539803904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 13635,
+                "stop_name": "N Vancouver Way & Jubitz",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67003810843694,
+                    45.59709681088609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 2167,
+                "stop_name": "SE Grand & E Burnside",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66062095708514,
+                    45.52281035019348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 5920,
+                "stop_name": "M L King & Holman",
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66122848251719,
+                    45.568474137533286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 12793,
+                "stop_name": "SW Columbia between 6th & 5th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68065456271042,
+                    45.51421356794494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 13597,
+                "stop_name": "SE Grand & Stark",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66064420905519,
+                    45.51962647191976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 13629,
+                "stop_name": "N Hayden Island Dr & Tomahawk Island Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6771147271403,
+                    45.61159634524106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 3050,
+                "stop_id": 1026,
+                "stop_name": "Jantzen Beach Main Stop",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68124073814928,
+                    45.61104660242714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 2863,
+                "stop_id": 13648,
+                "stop_name": "N Vancouver Way & NE Middlefield",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66792742310473,
+                    45.595531523701794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 6,
+                "dir": 0,
+                "rte_desc": "6-Martin Luther King Jr Blvd",
+                "dir_desc": "To Jantzen Beach",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 13898,
+                "stop_name": "NE M L King & Stanton",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66148047906901,
+                    45.54402449889616
+                ]
+            }
+        }
+    ]
+}

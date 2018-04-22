@@ -1,0 +1,1024 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 2075,
+                "stop_id": 6525,
+                "stop_name": "NE 102nd & Pacific",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55824280460072,
+                    45.529679597278125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 10,
+                "stop_id": 6748,
+                "stop_name": "NE 141st & Failing",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51936682331652,
+                    45.55117519534263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 30,
+                "stop_id": 6749,
+                "stop_name": "NE 141st & Fremont",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5178578300514,
+                    45.547928021809724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 1853,
+                "stop_name": "NE Fremont & 138th",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52115782942816,
+                    45.54790275470964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 4958,
+                "stop_name": "NE Rose Parkway & 141st",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51774606481578,
+                    45.54457611395652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 6755,
+                "stop_name": "NE 143rd & Fremont Ct",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51543942208748,
+                    45.546736121180274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 6765,
+                "stop_name": "NE 145th & Fremont",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51335267145512,
+                    45.547505491426165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 6750,
+                "stop_name": "NE 141st & Milton Ct",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51767654664721,
+                    45.5490645540458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 5237,
+                "stop_name": "NE Shaver & 135th",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52437095774998,
+                    45.55275260986346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 4778,
+                "stop_name": "NE Prescott Dr & 132nd Pl",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52668152596159,
+                    45.55428338934944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 4773,
+                "stop_name": "NE Prescott Dr & 125th Pl",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53279855061554,
+                    45.5550030352816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1275,
+                "stop_id": 9959,
+                "stop_name": "NE Shaver & Parkrose HS",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53918741695647,
+                    45.55182338354041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 5231,
+                "stop_name": "NE Shaver & 112th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54740764821437,
+                    45.55182336321805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 5229,
+                "stop_name": "NE Shaver & 109th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5505561241575,
+                    45.55181998829898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 5225,
+                "stop_name": "NE Shaver & 102nd",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55757410715017,
+                    45.55182026632082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 6515,
+                "stop_name": "NE 102nd & Fremont",
+                "jurisdic": "Maywood Park",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55790342527062,
+                    45.54825194035571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 6509,
+                "stop_name": "NE 102nd & Brazee",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5580779184046,
+                    45.53992966849838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1875,
+                "stop_id": 8465,
+                "stop_name": "NE 102nd & Thompson",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55810939771614,
+                    45.53900542799973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 6523,
+                "stop_name": "1200 Block NE 102nd",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55822772981098,
+                    45.531407113770754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 4288,
+                "stop_name": "10000 Block NE Pacific St",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5604647964857,
+                    45.52956349318049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 20,
+                "stop_id": 6747,
+                "stop_name": "NE 141st & Beech",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5178391087469,
+                    45.54947447271714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 6720,
+                "stop_name": "NE 135th & Fremont",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52371157607588,
+                    45.54773200688973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 4955,
+                "stop_name": "13600 Block NE Rose Parkway",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52175179818973,
+                    45.54487630061811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 4960,
+                "stop_name": "NE Rose Parkway & 143rd",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51598379576359,
+                    45.544247885508945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 1919,
+                "stop_name": "NE Fremont Ct & 145th",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51401089482187,
+                    45.54627226321353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 5238,
+                "stop_name": "NE Shaver & 138th",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52081885688948,
+                    45.552459707535384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 902,
+                "stop_id": 5236,
+                "stop_name": "NE Shaver & 134th",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52532556085059,
+                    45.552515649282384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 5235,
+                "stop_name": "NE Shaver & 122nd",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53692767581786,
+                    45.55177487324719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 6519,
+                "stop_name": "NE 102nd & Knott",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5580139777513,
+                    45.54214111023547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 6507,
+                "stop_name": "NE 102nd & Bell",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55813329677031,
+                    45.536607782480175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 4775,
+                "stop_name": "NE Prescott Dr & 129th Pl",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53065295033538,
+                    45.554963075729866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 6505,
+                "stop_name": "NE 102nd & Alton",
+                "jurisdic": "Maywood Park",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55794476183436,
+                    45.55047634501904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 6722,
+                "stop_name": "NE 135th & Rose Parkway",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5236024033025,
+                    45.54567384650857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 4777,
+                "stop_name": "NE Prescott Dr & 131st Pl",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52870094442353,
+                    45.55463242453071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 6520,
+                "stop_name": "102nd & Morris St",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55798582378222,
+                    45.54330910705991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 6532,
+                "stop_name": "NE 102nd & Weidler",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55817898598885,
+                    45.5341973718262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 6513,
+                "stop_name": "NE 102nd & Clackamas",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55820300406037,
+                    45.53312211830716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 13118,
+                "stop_name": "4200 Block NE 125th Pl",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53351256838634,
+                    45.55315679187607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 2125,
+                "stop_id": 8321,
+                "stop_name": "9800 Block NE Pacific St",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56278734723526,
+                    45.529562267573034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 2132,
+                "stop_id": 8194,
+                "stop_name": "Gateway TC (Drop off only stop)",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56377346451606,
+                    45.53057149387068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 6746,
+                "stop_name": "NE 141st & Failing",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51956495834023,
+                    45.551516882356395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 5227,
+                "stop_name": "NE Shaver & 105th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5546030330801,
+                    45.55179959863807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 13116,
+                "stop_name": "NE Shaver & 115th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54393744657047,
+                    45.55183888106854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 13117,
+                "stop_name": "NE 125th Pl & Shaver",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53470951809226,
+                    45.551936589651845
+                ]
+            }
+        }
+    ]
+}

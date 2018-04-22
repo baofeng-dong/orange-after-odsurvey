@@ -1,0 +1,840 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 13766,
+                "stop_name": "SW Langer & Holland",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84117695775612,
+                    45.36715822872314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 4452,
+                "stop_name": "SW Pine & 2nd",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84155489997845,
+                    45.357395019088806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 3670,
+                "stop_name": "SW Railroad & Washington",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84110773206493,
+                    45.35578663535291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 9189,
+                "stop_name": "16400 Block SW Langer",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8467408165695,
+                    45.366393642334124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 5248,
+                "stop_name": "SW Sherwood Blvd & NW 12th St",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84673129691166,
+                    45.36466127485764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 5246,
+                "stop_name": "N Sherwood Blvd & NW Gleneagle",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8462666567703,
+                    45.36284900624602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 5245,
+                "stop_name": "21900 Block N Sherwood Blvd",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84278656971262,
+                    45.35956778303193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 4451,
+                "stop_name": "SW Pine & 2nd",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84194642938895,
+                    45.35749459645177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 5244,
+                "stop_name": "SW Sherwood & Sherwood Middle School",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84264666157954,
+                    45.35989720805909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 5247,
+                "stop_name": "N Sherwood & SW 10th",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84617341687361,
+                    45.3629605116073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 5249,
+                "stop_name": "N Sherwood & SW Century",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84655898356861,
+                    45.36428269901164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 8306,
+                "stop_name": "16400 Block SW Langer",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84653752803386,
+                    45.365937580719795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 12849,
+                "stop_name": "16200 Block SW Langer",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84586874133028,
+                    45.36758025185916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 9190,
+                "stop_name": "16100 Block SW Langer",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8442758793999,
+                    45.36773954587652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 9639,
+                "stop_name": "SW Tualatin-Sherwood Rd & Pacific Hwy",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84152247728476,
+                    45.368968540783385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 8954,
+                "stop_name": "20200 Block SW Pacific Hwy",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83780885921412,
+                    45.37371385836399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 4276,
+                "stop_name": "SW Pacific Hwy & Cipole",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8173703947537,
+                    45.384195777653126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 4301,
+                "stop_name": "SW Pacific Hwy & 130th",
+                "jurisdic": "Tualatin",
+                "zipcode": "97062",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80994406928171,
+                    45.38650878180609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 4316,
+                "stop_name": "SW Pacific Hwy & 124th",
+                "jurisdic": "Tualatin",
+                "zipcode": "97062",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80405949522527,
+                    45.389761003612456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 4293,
+                "stop_name": "SW Pacific Hwy & Hazelbrook",
+                "jurisdic": "Tualatin",
+                "zipcode": "97062",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80126008892773,
+                    45.39132436186616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 4259,
+                "stop_name": "17000 Block SW Pacific Hwy",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7985497817793,
+                    45.39675826382869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 4308,
+                "stop_name": "SW Pacific Hwy & Royal Villa Dr",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79838853887291,
+                    45.39843580249095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 8663,
+                "stop_name": "SW Pacific Hwy & Home Street Bank",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79781674929113,
+                    45.4018956776496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 8792,
+                "stop_name": "SW Pacific Hwy & Durham",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79599419533182,
+                    45.40549604112531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 9597,
+                "stop_name": "SW Pacific Hwy & Royalty Parkway",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7943823527368,
+                    45.40854801333407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 4266,
+                "stop_name": "SW Pacific Hwy & Beef Bend",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79335145342968,
+                    45.41162691918159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 4270,
+                "stop_name": "SW Pacific Hwy & Bull Mtn",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79107770900798,
+                    45.41453482043037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 4274,
+                "stop_name": "SW Pacific Hwy & Canterbury",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78906401127874,
+                    45.41660250368217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 4255,
+                "stop_name": "SW Pacific Hwy & McDonald/Gaarde",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78656742929032,
+                    45.41914579155849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 4321,
+                "stop_name": "SW Pacific Hwy & Watkins",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78457460925944,
+                    45.42126877578798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 8260,
+                "stop_name": "13300 Block SW Pacific Hwy",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78323597200566,
+                    45.42267004752461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 4304,
+                "stop_name": "SW Pacific Hwy & Park",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78215937462812,
+                    45.42381701435754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 11030,
+                "stop_name": "SW Pacific Hwy & Garrett",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78074772578512,
+                    45.42508404414845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 4317,
+                "stop_name": "SW Pacific Hwy & Walnut",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77842995287466,
+                    45.42669750849393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 3654,
+                "stop_name": "SW Main & Burnham",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77231695791596,
+                    45.42989079424964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 93,
+                "dir": 1,
+                "rte_desc": "93-Tigard/Sherwood",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 8211,
+                "stop_name": "Tigard Transit Center",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76935997615551,
+                    45.430294715967726
+                ]
+            }
+        }
+    ]
+}

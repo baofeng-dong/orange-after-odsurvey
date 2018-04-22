@@ -1,0 +1,541 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 100,
+                "stop_id": 10293,
+                "stop_name": "PSU South/SW 6th & College MAX Stn",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.683593045959,
+                    45.509615860072415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 150,
+                "stop_id": 7774,
+                "stop_name": "PSU Urban Center/SW 6th & Montgomery MAX Stn",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68255049157663,
+                    45.51159689528541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 200,
+                "stop_id": 13123,
+                "stop_name": "SW 6th & Madison MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68038063344986,
+                    45.51563288102792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 250,
+                "stop_id": 7777,
+                "stop_name": "Pioneer Courthouse/SW 6th Ave MAX Stn",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67855822485663,
+                    45.51896758257483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 300,
+                "stop_id": 7787,
+                "stop_name": "SW 6th & Pine MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67675557690538,
+                    45.522327029047595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 350,
+                "stop_id": 9299,
+                "stop_name": "NW 6th & Davis MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67642915467513,
+                    45.52440537062668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 400,
+                "stop_id": 7763,
+                "stop_name": "Union Station/NW 6th & Hoyt MAX Stn",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67651700954829,
+                    45.52722183736718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 450,
+                "stop_id": 8340,
+                "stop_name": "Rose Quarter TC MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66491664178662,
+                    45.53006046075029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 500,
+                "stop_id": 8341,
+                "stop_name": "Convention Center MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6619079906705,
+                    45.53005557103644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 550,
+                "stop_id": 8342,
+                "stop_name": "NE 7th Ave MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6577400011224,
+                    45.53005866313298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 600,
+                "stop_id": 8343,
+                "stop_name": "Lloyd Center/NE 11th Ave MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65363838177639,
+                    45.53007075704705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 650,
+                "stop_id": 8344,
+                "stop_name": "Hollywood/NE 42nd Ave TC MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62070826736165,
+                    45.532775468543186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 700,
+                "stop_id": 8345,
+                "stop_name": "NE 60th Ave MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60270326887458,
+                    45.52876682229985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 750,
+                "stop_id": 8346,
+                "stop_name": "NE 82nd Ave MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57779435785814,
+                    45.53322374700969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 800,
+                "stop_id": 8347,
+                "stop_name": "Gateway/NE 99th Ave TC MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.563577524517,
+                    45.53027212744252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 850,
+                "stop_id": 13124,
+                "stop_name": "SE Main St MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56446651563647,
+                    45.513989074817985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 900,
+                "stop_id": 13125,
+                "stop_name": "SE Division St MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56666282052157,
+                    45.503122741439384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 950,
+                "stop_id": 13126,
+                "stop_name": "SE Powell Blvd MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56617047354258,
+                    45.49550262768212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 1000,
+                "stop_id": 13127,
+                "stop_name": "SE Holgate Blvd MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5663154200943,
+                    45.490867940706394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 1050,
+                "stop_id": 13128,
+                "stop_name": "Lents/SE Foster Rd MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56687146914234,
+                    45.48018824768071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 1100,
+                "stop_id": 13129,
+                "stop_name": "SE Flavel St MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56676105334584,
+                    45.467602038356915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 1150,
+                "stop_id": 13130,
+                "stop_name": "SE Fuller Rd MAX Station",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57357758140296,
+                    45.45313845721957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 200,
+                "dir": 0,
+                "rte_desc": "MAX Green Line",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "MAX",
+                "stop_seq": 1200,
+                "stop_id": 13132,
+                "stop_name": "Clackamas Town Center TC MAX Station",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56776934132165,
+                    45.43572115073017
+                ]
+            }
+        }
+    ]
+}

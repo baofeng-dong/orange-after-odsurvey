@@ -1,0 +1,702 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 10790,
+                "stop_name": "NE Sandy & 148th",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51050569112512,
+                    45.5523399649408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 8589,
+                "stop_name": "NE 148th & 147th",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51007556084174,
+                    45.54841107234394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 8592,
+                "stop_name": "NE 148th & Sacramento",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51036546218099,
+                    45.54067064392206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 4982,
+                "stop_name": "NE Sacramento & 146th Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51245607275904,
+                    45.53998915559221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 4980,
+                "stop_name": "NE Sacramento & 142nd",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51637405807392,
+                    45.540578635621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 4991,
+                "stop_name": "NE Sacramento & 138th Pl",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52018807540972,
+                    45.54055550445713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 4984,
+                "stop_name": "NE Sacramento & Brazee Ct",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52373710879922,
+                    45.54137135217531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 4987,
+                "stop_name": "NE Sacramento & 132nd",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52689329980164,
+                    45.542433794476196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 6718,
+                "stop_name": "NE 132nd & San Rafael",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52721194388944,
+                    45.53731550950323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 5034,
+                "stop_name": "NE San Rafael & 125th",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5346300063263,
+                    45.53728731688395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 5036,
+                "stop_name": "NE San Rafael & 122nd",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53735049586744,
+                    45.537294989951185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 5385,
+                "stop_name": "NE Stanton & 121st",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53856211018858,
+                    45.54297912987199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 5384,
+                "stop_name": "NE Stanton & 117th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54237033192193,
+                    45.54332443613107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 6558,
+                "stop_name": "NE 111th & Knott",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54895733285085,
+                    45.54213907196833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 6562,
+                "stop_name": "NE 111th & Sacramento",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5491092412338,
+                    45.539588033204026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 6564,
+                "stop_name": "NE 111th & San Rafael",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5491185069149,
+                    45.537270365460785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1775,
+                "stop_id": 6525,
+                "stop_name": "NE 102nd & Pacific",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55824280460072,
+                    45.529679597278125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 6223,
+                "stop_name": "NE Weidler & 106th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55332438754824,
+                    45.53424425244615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 6513,
+                "stop_name": "NE 102nd & Clackamas",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55820300406037,
+                    45.53312211830716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 6523,
+                "stop_name": "1200 Block NE 102nd",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55822772981098,
+                    45.531407113770754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 6620,
+                "stop_name": "NE 122nd & Brazee",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53739099693088,
+                    45.539818858987694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 4011,
+                "stop_name": "NE Morris & 111th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54757059296662,
+                    45.54332787203038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 6566,
+                "stop_name": "NE 111th & Weidler",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54914151106551,
+                    45.53421465867893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 4288,
+                "stop_name": "10000 Block NE Pacific St",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5604647964857,
+                    45.52956349318049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1825,
+                "stop_id": 8321,
+                "stop_name": "9800 Block NE Pacific St",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56278734723526,
+                    45.529562267573034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1832,
+                "stop_id": 8194,
+                "stop_name": "Gateway TC (Drop off only stop)",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56377346451606,
+                    45.53057149387068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 6715,
+                "stop_name": "NE 132nd & Eugene",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52719174803333,
+                    45.53863833754246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 175,
+                "stop_id": 13141,
+                "stop_name": "NE 148th & Rose Parkway",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51022197521758,
+                    45.54559895240657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 13143,
+                "stop_name": "12700 Block NE San Rafael",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53222101260073,
+                    45.537291150723924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 6713,
+                "stop_name": "NE 132nd & Brazee",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52714557999289,
+                    45.54062965695352
+                ]
+            }
+        }
+    ]
+}

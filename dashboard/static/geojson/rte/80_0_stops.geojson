@@ -1,0 +1,725 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 10859,
+                "stop_name": "Gresham Transit Center",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42684015281966,
+                    45.503008446872194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 4520,
+                "stop_name": "E Powell & SE Cleveland",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42120863394386,
+                    45.497921229406295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 4639,
+                "stop_name": "E Powell & SE 3rd",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41210891668347,
+                    45.49575827846442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 4545,
+                "stop_name": "E Powell & SE Rene",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40972889785421,
+                    45.49432774232999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 4715,
+                "stop_name": "SE Powell Valley & Hale",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40124904933354,
+                    45.4925435892365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 3100,
+                "stop_name": "SE Kane & 2nd",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3986308486286,
+                    45.496544206786595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 3102,
+                "stop_name": "NE Kane & 2nd Ct",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3986216872841,
+                    45.49811885666858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 3107,
+                "stop_name": "NE Kane & 8th",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3997867449706,
+                    45.50318503324003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 3092,
+                "stop_name": "NE Kane & Division",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39976636413647,
+                    45.50546281035027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 3097,
+                "stop_name": "NE Kane & 15th",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39980847627982,
+                    45.50809920101452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 5871,
+                "stop_name": "S Troutdale Rd & SE Stark",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38682013303477,
+                    45.519647428111305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 5864,
+                "stop_name": "2800 Block S Troutdale",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.386863928095,
+                    45.52109678253706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 5867,
+                "stop_name": "S Troutdale & SE Beavercreek",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38709929667355,
+                    45.52438543294129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 5876,
+                "stop_name": "S Troutdale & SE 21st",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38741501659071,
+                    45.52665221304168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 5874,
+                "stop_name": "S Troutdale & SE 19th",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3874155412727,
+                    45.528112328546804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 5869,
+                "stop_name": "S Troutdale & SE Chapman",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38739917450316,
+                    45.53057421274931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 830,
+                "stop_name": "S Buxton & SW Cherry Park",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38830589975328,
+                    45.53442447087401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 836,
+                "stop_name": "S Buxton & SE 6th",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38828242112123,
+                    45.53702602339041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 4531,
+                "stop_name": "E Powell & NE Liberty",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41872342090102,
+                    45.49788756144337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 4529,
+                "stop_name": "E Powell & SE Hogan",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4145805151787,
+                    45.49784405683129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 4713,
+                "stop_name": "2800 Block SE Powell Valley",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40351736523203,
+                    45.493066662706106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 837,
+                "stop_name": "S Buxton & SE 8th",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.388291212462,
+                    45.53565124241312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 13033,
+                "stop_name": "NE Hood & 2nd",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42783210484413,
+                    45.4986156107445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 125,
+                "stop_id": 13211,
+                "stop_name": "NE Hood & 5th",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42802415464328,
+                    45.50110041466277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 13470,
+                "stop_name": "SE Kane & 5th St",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39864225579203,
+                    45.493803686848715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 13474,
+                "stop_name": "E Powell & NE Elliott",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42487589777599,
+                    45.49792180587593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 13331,
+                "stop_name": "E Columbia River Hwy & SE Jackson Park",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38088732364959,
+                    45.53711038541646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 13314,
+                "stop_name": "Glenn Otto Park",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3782448658267,
+                    45.53729270005823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 832,
+                "stop_name": "Buxton & E Columbia River Hwy",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3882401657279,
+                    45.54055678411182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 12838,
+                "stop_name": "E Columbia River Hwy & SE Harlow",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38645090584934,
+                    45.54066924112784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 13476,
+                "stop_name": "SE Kane & Powell Valley",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39867667236366,
+                    45.49232087496754
+                ]
+            }
+        }
+    ]
+}

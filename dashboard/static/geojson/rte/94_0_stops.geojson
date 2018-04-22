@@ -1,0 +1,909 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 3653,
+                "stop_name": "SW Main & Burnham",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77216323225774,
+                    45.4301451375473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 3656,
+                "stop_name": "SW Main & Commercial",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77057476314243,
+                    45.43113270291246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 3670,
+                "stop_name": "SW Railroad & Washington",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84110773206493,
+                    45.35578663535291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 7631,
+                "stop_name": "SW 5th & Pine",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6758265758323,
+                    45.52224017989126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 7625,
+                "stop_name": "SW 5th & Morrison",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67757117318233,
+                    45.51893591035738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 7612,
+                "stop_name": "SW 5th & Madison",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67935201651181,
+                    45.51568228864137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 7616,
+                "stop_name": "SW 5th & Market",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68083702132532,
+                    45.51295381630082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 10491,
+                "stop_name": "SW 5th & Hall",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6822861967767,
+                    45.51027717609481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 199,
+                "stop_name": "SW Barbur & Bertha",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68960176149498,
+                    45.4704682270221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 8213,
+                "stop_name": "Barbur Transit Center",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71767304040976,
+                    45.45446802053932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 10639,
+                "stop_name": "11600 Block SW Pacific Hwy",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75340429247368,
+                    45.438954710391855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 3673,
+                "stop_name": "SW Main & Scoffins",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76822689782733,
+                    45.43256910232385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 4318,
+                "stop_name": "SW Pacific Hwy & Walnut",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77829219648325,
+                    45.42709416104984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 4310,
+                "stop_name": "SW Pacific Hwy & School",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78173798967558,
+                    45.42458902784178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 4254,
+                "stop_name": "13400 Block SW Pacific Hwy",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7835887618547,
+                    45.42268054940963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 4320,
+                "stop_name": "SW Pacific Hwy & Watkins",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78525342231674,
+                    45.42094090757085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 4286,
+                "stop_name": "SW Pacific Hwy & Gaarde/McDonald",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78732466074675,
+                    45.41882549671429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 4273,
+                "stop_name": "SW Pacific Hwy & Canterbury",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78922290914788,
+                    45.4169292068962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 4271,
+                "stop_name": "SW Pacific Hwy & Bull Mtn",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79200665441272,
+                    45.414295167456345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 4267,
+                "stop_name": "SW Pacific Hwy & Beef Bend",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79408476983731,
+                    45.41106970610239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 8728,
+                "stop_name": "SW Pacific Hwy & Royalty Parkway",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7953517110747,
+                    45.40786583434997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 8644,
+                "stop_name": "SW Pacific Hwy & Durham",
+                "jurisdic": "Tigard",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79659783734824,
+                    45.40549851161841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 4257,
+                "stop_name": "16400 Block SW Pacific Hwy",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79875657898646,
+                    45.40043926164418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 4258,
+                "stop_name": "SW Pacific Hwy & Fischer",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79901808786575,
+                    45.39750631551955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 4260,
+                "stop_name": "SW Pacific Hwy & 124th",
+                "jurisdic": "Tualatin",
+                "zipcode": "97062",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80596654731443,
+                    45.389197455539275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 4300,
+                "stop_name": "SW Pacific Hwy & Pacific Dr",
+                "jurisdic": "Tualatin",
+                "zipcode": "97062",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8102372303038,
+                    45.386871776360145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 4277,
+                "stop_name": "SW Pacific Hwy & Cipole",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81747506280215,
+                    45.38457597308182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 12743,
+                "stop_name": "Pacific Hwy & Tualatin Rvr Refuge",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83171107565029,
+                    45.38048745130224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 9519,
+                "stop_name": "20300 Block SW Pacific Hwy",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8391298267273,
+                    45.37321553045779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 9186,
+                "stop_name": "SW Tualatin-Sherwood Rd & Pacific Hwy",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84157724304882,
+                    45.36867980278606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 9187,
+                "stop_name": "SW Tualatin-Sherwood Rd & Baler",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83966350853937,
+                    45.36796999025392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 13546,
+                "stop_name": "SW Langer & Holland",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84141715179955,
+                    45.367404531395096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 9188,
+                "stop_name": "SW Langer & Sherwood Plaza",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84449933119438,
+                    45.367891029214505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 9189,
+                "stop_name": "16400 Block SW Langer",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8467408165695,
+                    45.366393642334124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 5248,
+                "stop_name": "SW Sherwood Blvd & NW 12th St",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84673129691166,
+                    45.36466127485764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 5246,
+                "stop_name": "N Sherwood Blvd & NW Gleneagle",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8462666567703,
+                    45.36284900624602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 5245,
+                "stop_name": "21900 Block N Sherwood Blvd",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84278656971262,
+                    45.35956778303193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 4451,
+                "stop_name": "SW Pine & 2nd",
+                "jurisdic": "Sherwood",
+                "zipcode": "97140",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84194642938895,
+                    45.35749459645177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 94,
+                "dir": 0,
+                "rte_desc": "94-Pacific Hwy/Sherwood",
+                "dir_desc": "To Sherwood",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 7588,
+                "stop_name": "SW 5th & Broadway",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68385035369091,
+                    45.50708320964193
+                ]
+            }
+        }
+    ]
+}

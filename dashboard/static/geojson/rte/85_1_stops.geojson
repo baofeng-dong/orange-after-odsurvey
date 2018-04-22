@@ -1,0 +1,242 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 85,
+                "dir": 1,
+                "rte_desc": "85-Swan Island",
+                "dir_desc": "To Rose Quarter Transit Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 316,
+                "stop_name": "6700 Block N Basin (Coast Guard)",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71988439219425,
+                    45.57246778879225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 85,
+                "dir": 1,
+                "rte_desc": "85-Swan Island",
+                "dir_desc": "To Rose Quarter Transit Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 319,
+                "stop_name": "N Basin & Ensign",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71450429120817,
+                    45.569643629527725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 85,
+                "dir": 1,
+                "rte_desc": "85-Swan Island",
+                "dir_desc": "To Rose Quarter Transit Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 322,
+                "stop_name": "N Basin & Leverman",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7087491454675,
+                    45.565822119735614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 85,
+                "dir": 1,
+                "rte_desc": "85-Swan Island",
+                "dir_desc": "To Rose Quarter Transit Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 115,
+                "stop_name": "N Anchor & Channel",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70387785897353,
+                    45.55669994096787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 85,
+                "dir": 1,
+                "rte_desc": "85-Swan Island",
+                "dir_desc": "To Rose Quarter Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 315,
+                "stop_name": "N Basin & Fathom",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71747323340404,
+                    45.57126400874287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 85,
+                "dir": 1,
+                "rte_desc": "85-Swan Island",
+                "dir_desc": "To Rose Quarter Transit Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 313,
+                "stop_name": "6200 Block N Basin",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71085342069861,
+                    45.56827961968551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 85,
+                "dir": 1,
+                "rte_desc": "85-Swan Island",
+                "dir_desc": "To Rose Quarter Transit Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 9399,
+                "stop_name": "N Going & Port Center Way",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69851221572976,
+                    45.555963835827676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 85,
+                "dir": 1,
+                "rte_desc": "85-Swan Island",
+                "dir_desc": "To Rose Quarter Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 2945,
+                "stop_name": "N Interstate & Albina",
+                "jurisdic": "Portland",
+                "zipcode": "97227",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.675251976888,
+                    45.53926747254366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 85,
+                "dir": 1,
+                "rte_desc": "85-Swan Island",
+                "dir_desc": "To Rose Quarter Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 317,
+                "stop_name": "N Basin & Emerson",
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70405051513166,
+                    45.56186531658263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 85,
+                "dir": 1,
+                "rte_desc": "85-Swan Island",
+                "dir_desc": "To Rose Quarter Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 2592,
+                "stop_name": "Rose Quarter Transit Center",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66647593582103,
+                    45.53000537698146
+                ]
+            }
+        }
+    ]
+}

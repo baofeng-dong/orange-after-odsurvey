@@ -1,0 +1,541 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 7879,
+                "stop_name": "Tualatin Park & Ride",
+                "jurisdic": "Tualatin",
+                "zipcode": "97224",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74882076841624,
+                    45.39469654986714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 11781,
+                "stop_name": "Boones Ferry Rd & Pilkington",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73383521237395,
+                    45.401791581526595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 11782,
+                "stop_name": "Boones Ferry Rd & Washington Ct",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73055556002217,
+                    45.40389897700767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 577,
+                "stop_name": "Boones Ferry Rd & West Sunset Dr",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72845466693508,
+                    45.40524618344071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 512,
+                "stop_name": "Boones Ferry Rd & Bryant",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72257345313675,
+                    45.40880284347449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 11783,
+                "stop_name": "Boones Ferry Rd & Reese Rd",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71856526582437,
+                    45.41092823616244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 564,
+                "stop_name": "Boones Ferry Rd & Spring Lane",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71482056472357,
+                    45.41673927392365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 1234,
+                "stop_name": "Country Club & Wembley Park",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69826063028636,
+                    45.42378015187539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 1232,
+                "stop_name": "Country Club & Uplands",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69579016120343,
+                    45.42316499971134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 1224,
+                "stop_name": "Country Club & Knaus Rd",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68928370846956,
+                    45.42296624147024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 1222,
+                "stop_name": "Country Club & Iron Mtn",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67911497932491,
+                    45.42285006719864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 6,
+                "stop_name": "A Ave & 8th St",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67306994367136,
+                    45.420220793811545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 569,
+                "stop_name": "Boones Ferry Rd & Twin Fir",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71271186282745,
+                    45.4188001175376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 538,
+                "stop_name": "Boones Ferry Rd & SW Madrona",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72613529178975,
+                    45.40678112145944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 11784,
+                "stop_name": "Boones Ferry Rd & Mercantile Dr",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71651427580888,
+                    45.41424236156549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 554,
+                "stop_name": "Boones Ferry Rd & Rainbow",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71040453490723,
+                    45.42137987638445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 1225,
+                "stop_name": "2500 Block Country Club",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70127895906954,
+                    45.42454208968052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 1228,
+                "stop_name": "Country Club & Bridge",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6931413931812,
+                    45.4229864487469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 2,
+                "stop_name": "A Ave & Chandler",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6756706483894,
+                    45.42060912016723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 8208,
+                "stop_name": "Lake Oswego Transit Center",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6678797461085,
+                    45.420631062684826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 13195,
+                "stop_name": "SW Lower Boones Ferry & McEwan Rd",
+                "jurisdic": "Tualatin",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74321144797283,
+                    45.396537306038724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 11780,
+                "stop_name": "Boones Ferry Rd & Jean",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97035",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73875812909691,
+                    45.39877839117744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 37,
+                "dir": 1,
+                "rte_desc": "37-Lake Grove",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 1230,
+                "stop_name": "Country Club & Sundeleaf",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70520113979728,
+                    45.42491292263281
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,1116 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 40,
+                "stop_id": 6158,
+                "stop_name": "SW Washington & 3rd",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67459934134882,
+                    45.51959016126977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 255,
+                "stop_id": 9708,
+                "stop_name": "SW Morrison & 14th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68588808736627,
+                    45.52108188195057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 360,
+                "stop_id": 6911,
+                "stop_name": "SW 18th & Morrison",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69043311158511,
+                    45.52190147785308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 9553,
+                "stop_name": "SW 18th & Salmon",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69139876279918,
+                    45.52038092381132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 4340,
+                "stop_name": "SW Park Pl & St Clair",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69663963546083,
+                    45.521351540350906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 6090,
+                "stop_name": "SW Vista & Park Pl",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69828746933422,
+                    45.5210643283317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 6074,
+                "stop_name": "SW Vista & Elm St",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6987637592545,
+                    45.51006221269572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 6077,
+                "stop_name": "SW Vista & Isabella",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70420943857465,
+                    45.50723345407435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 4423,
+                "stop_name": "SW Patton & Patton Ln",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71056323399013,
+                    45.50352556328832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 4413,
+                "stop_name": "3400 Block SW Patton",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71258197786482,
+                    45.503322835658885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 1511,
+                "stop_name": "SW Dosch & Doschview",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71287649247998,
+                    45.498617689499184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 1513,
+                "stop_name": "3500 Block SW Dosch",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71291685239764,
+                    45.49769766849393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 1520,
+                "stop_name": "SW Dosch & Martins",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7120999346338,
+                    45.49441001554949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 1515,
+                "stop_name": "SW Dosch & Bridlemile",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7113376516675,
+                    45.49320940486699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 4801,
+                "stop_name": "SW Redondo & Santa Monica",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70940175770033,
+                    45.49128593841593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 5679,
+                "stop_name": "SW Talbot & Patton",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71293486585866,
+                    45.501976775352226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 1212,
+                "stop_name": "SW Council Crest & Chehalem",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70339146881004,
+                    45.49666391925736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 1207,
+                "stop_name": "4100 Block SW Council Crest",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70007383676557,
+                    45.49329380566233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 4410,
+                "stop_name": "SW Patrick & Council Crest",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6991558232449,
+                    45.49340882470483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 6160,
+                "stop_name": "SW Washington & 5th",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67658603150086,
+                    45.520125550804565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 6085,
+                "stop_name": "SW Vista & Market Street",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69745698657792,
+                    45.518426749275726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 4419,
+                "stop_name": "SW Patton & Old Orchard",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70698275249993,
+                    45.504226946101255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2425,
+                "stop_id": 8672,
+                "stop_name": "SW Talbot & Talbot Terrace",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71099758624442,
+                    45.5011220215417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 6082,
+                "stop_name": "SW Vista & Madison",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69827627049239,
+                    45.51992623443284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 6086,
+                "stop_name": "SW Vista & Montgomery",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69662000494456,
+                    45.51599352488785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 6078,
+                "stop_name": "SW Vista & Jackson",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69739074774529,
+                    45.51257541568841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 4417,
+                "stop_name": "SW Patton & Montgomery",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7056219562709,
+                    45.50519204812844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 1510,
+                "stop_name": "3100 Block SW Dosch",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71229645899986,
+                    45.499959105401246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 1517,
+                "stop_name": "SW Dosch & Dosch Ct",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71172119553161,
+                    45.49622070978963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 1522,
+                "stop_name": "SW Dosch & Newby",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7108153367493,
+                    45.49209341357249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 2467,
+                "stop_name": "SW Hamilton & Dosch",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70981591226463,
+                    45.49062522207282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 5681,
+                "stop_name": "SW Talbot Terrace & Greenway",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70769066116475,
+                    45.500711028416475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 1214,
+                "stop_name": "SW Council Crest & Chehalem (south leg)",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70198813732362,
+                    45.49612737692024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 1218,
+                "stop_name": "SW Council Crest & Tualatin",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7005391192936,
+                    45.49339899441487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 5018,
+                "stop_name": "SW Salmon & 20th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69394768484194,
+                    45.52073652779233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 6088,
+                "stop_name": "SW Vista & Myrtle",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69803455697493,
+                    45.51137942415297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 6068,
+                "stop_name": "SW Vista & Broadway",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.703902798163,
+                    45.505532690446174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 6137,
+                "stop_name": "SW Washington & Broadway",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67865650793179,
+                    45.5206946365535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 260,
+                "stop_id": 9613,
+                "stop_name": "SW Morrison & 16th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68793209020632,
+                    45.52164059824393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 6169,
+                "stop_name": "SW Washington & 9th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6802700727543,
+                    45.521111664704954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 10310,
+                "stop_name": "SW Patton & Humphrey",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71318091378532,
+                    45.50231120735641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 10,
+                "stop_id": 5020,
+                "stop_name": "SW Salmon & 5th",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67885409884911,
+                    45.5167936525074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 20,
+                "stop_id": 7098,
+                "stop_name": "SW 2nd & Taylor",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67524026890418,
+                    45.51653398123919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 1215,
+                "stop_name": "SW Council Crest & Greenway",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70507663118507,
+                    45.497518660831794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 1217,
+                "stop_name": "SW Council Crest & Tualatin",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70233199732256,
+                    45.49462641960398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 1880,
+                "stop_id": 10445,
+                "stop_name": "SW Dosch & Patton",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71315413417773,
+                    45.501624202722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 13573,
+                "stop_name": "2500 Block SW Vista",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70132308730408,
+                    45.5086799510298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 9600,
+                "stop_name": "SW 11th & Alder",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68281890991445,
+                    45.52109396546565
+                ]
+            }
+        }
+    ]
+}

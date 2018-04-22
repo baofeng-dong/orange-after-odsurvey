@@ -1,0 +1,1231 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 10715,
+                "stop_name": "NE Sandy & 102nd",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55798191005739,
+                    45.5590305211008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 10779,
+                "stop_name": "NE Sandy & 105th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55492329967922,
+                    45.55877893534354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 10780,
+                "stop_name": "NE Sandy & 107th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55283277479377,
+                    45.558608907541895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 10781,
+                "stop_name": "NE Sandy & 109th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55083886749432,
+                    45.558413288875236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 10782,
+                "stop_name": "NE Sandy & 112th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54762150469854,
+                    45.55810954518854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 10783,
+                "stop_name": "NE Sandy & 115th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54427105504865,
+                    45.55781648690857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 10784,
+                "stop_name": "NE Sandy & 118th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54099802018956,
+                    45.55750555561668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 10785,
+                "stop_name": "NE Sandy & 125th Pl",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53373263419942,
+                    45.55646075161816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 10786,
+                "stop_name": "NE Sandy & 131st Pl",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52933060958728,
+                    45.55568385462318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 10787,
+                "stop_name": "NE Sandy & 133rd",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52517291551605,
+                    45.554945155453154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 10788,
+                "stop_name": "NE Sandy & 138th",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52050027921257,
+                    45.5541185779722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 10789,
+                "stop_name": "14300 Block NE Sandy",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51300447776175,
+                    45.552787949160184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 10790,
+                "stop_name": "NE Sandy & 148th",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51050569112512,
+                    45.5523399649408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 8569,
+                "stop_name": "NE Sandy & 152nd",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5059358503492,
+                    45.55156747405116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 10309,
+                "stop_name": "NE Sandy & 154th",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.503939655051,
+                    45.55115695920116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 8570,
+                "stop_name": "NE Sandy & 158th",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.50051565280792,
+                    45.55049284857555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 8571,
+                "stop_name": "NE Sandy & 162nd",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.49613642183239,
+                    45.54945627331183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 8572,
+                "stop_name": "NE Sandy & 165th",
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.49166815558438,
+                    45.54861663761003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 11816,
+                "stop_name": "NE Sandy & 172nd Pl",
+                "jurisdic": "Gresham",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.48570118085716,
+                    45.547447614691826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 9095,
+                "stop_name": "17600 Block NE Sandy",
+                "jurisdic": "Gresham",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.48174715785078,
+                    45.546668869723455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 10315,
+                "stop_name": "NE Sandy & 181st/Airport Way",
+                "jurisdic": "Gresham",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4765572382591,
+                    45.54584725311541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 10569,
+                "stop_name": "NE Sandy & 185th Dr",
+                "jurisdic": "Gresham",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.47274499790964,
+                    45.54571024468978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 9715,
+                "stop_name": "18600 Block NE Sandy",
+                "jurisdic": "Gresham",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.46970923417216,
+                    45.545550545217225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 9716,
+                "stop_name": "19000 Block NE Sandy (East Entrance)",
+                "jurisdic": "Gresham",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.46175514692273,
+                    45.54521540112285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 9718,
+                "stop_name": "NE Sandy & 201st",
+                "jurisdic": "Gresham",
+                "zipcode": "97024",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.45605076711047,
+                    45.54483055932314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 9719,
+                "stop_name": "NE Sandy & 205th",
+                "jurisdic": "Fairview",
+                "zipcode": "97024",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.45059623953777,
+                    45.544139924802124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 9717,
+                "stop_name": "21100 Block NE Sandy",
+                "jurisdic": "Fairview",
+                "zipcode": "97024",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.44521484001015,
+                    45.54308562978819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 11773,
+                "stop_name": "NE Sandy & Blossom Hill",
+                "jurisdic": "Fairview",
+                "zipcode": "97024",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.44085225254005,
+                    45.54239199200079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 9775,
+                "stop_name": "NE Sandy & 223rd",
+                "jurisdic": "Fairview",
+                "zipcode": "97024",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43270412710127,
+                    45.54242966766573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 10854,
+                "stop_name": "Parkrose/ Sumner Transit Center",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56465166523431,
+                    45.558621537552725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 13086,
+                "stop_name": "22800 Block NE Sandy",
+                "jurisdic": "Fairview",
+                "zipcode": "97024",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42807449216767,
+                    45.54272592920341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 13087,
+                "stop_name": "23200 Block NE Sandy",
+                "jurisdic": "Wood Village",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42348759118462,
+                    45.54298306574521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 13088,
+                "stop_name": "23500 Block NE Sandy",
+                "jurisdic": "Wood Village",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42068316785718,
+                    45.54281812626484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 2420,
+                "stop_name": "NE Halsey & 238th",
+                "jurisdic": "Wood Village",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41933275305405,
+                    45.537092366903785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 2331,
+                "stop_name": "23300 Block NE Halsey",
+                "jurisdic": "Wood Village",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42251403497079,
+                    45.53665641142344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 2419,
+                "stop_name": "NE Halsey & 230th Ct",
+                "jurisdic": "Fairview",
+                "zipcode": "97024",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42616280276008,
+                    45.53618023836495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 13089,
+                "stop_name": "NE 223rd & Arata",
+                "jurisdic": "Fairview",
+                "zipcode": "97024",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43374599853414,
+                    45.53359691038147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 9767,
+                "stop_name": "NE 223rd & Park Lane",
+                "jurisdic": "Fairview",
+                "zipcode": "97024",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43377794104818,
+                    45.529380827041216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 9636,
+                "stop_name": "NE 223rd & Glisan",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43379217608991,
+                    45.527168597527364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 7146,
+                "stop_name": "SE 223rd & Ankeny",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43389084809084,
+                    45.52176600948369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 7149,
+                "stop_name": "SE 223rd & Oak",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4339339430776,
+                    45.52013365576108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 10006,
+                "stop_name": "SE 223rd & Stark",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43392914885548,
+                    45.518703924389385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 7154,
+                "stop_name": "SE 223rd & Yamhill",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43394335377305,
+                    45.51588467275686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 7151,
+                "stop_name": "SE 223rd & Salmon",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43396967848784,
+                    45.5133245573246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 1576,
+                "stop_name": "SE 223rd & NW 20th",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43403380344425,
+                    45.51158398042332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 1571,
+                "stop_name": "1500 Block NW Eastman",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43545275131297,
+                    45.50861921131414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 1579,
+                "stop_name": "1300 Block NW Eastman",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43542329747748,
+                    45.50585617513879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 1348,
+                "stop_name": "NE Division & Main",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43020171286781,
+                    45.504384896157276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 13506,
+                "stop_name": "Gresham Transit Center",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42772042672503,
+                    45.502842852335476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 8198,
+                "stop_name": "Gresham Transit Center",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42683138006143,
+                    45.502669398367544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 1331,
+                "stop_name": "NW Division & Eastman Parkway",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4350723768459,
+                    45.50437071738137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 9811,
+                "stop_name": "19000 Block NE Sandy",
+                "jurisdic": "Gresham",
+                "zipcode": "97230",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4647238010123,
+                    45.5453240962323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 1,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 13809,
+                "stop_name": "NE Halsey & Wood Village",
+                "jurisdic": "Fairview",
+                "zipcode": "97024",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42860178953882,
+                    45.53583697526981
+                ]
+            }
+        }
+    ]
+}

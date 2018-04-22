@@ -1,0 +1,3117 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 1002,
+                "stop_name": "SW Cedar Hills & Fairfield",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80834448097366,
+                    45.49702854000268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 110,
+                "stop_id": 1013,
+                "stop_name": "SW Cedar Hills & Jenkins",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80730441671342,
+                    45.49876194454094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 130,
+                "stop_id": 1010,
+                "stop_name": "SW Cedar Hills & Huntington",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8032598875935,
+                    45.50282423899631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 180,
+                "stop_id": 996,
+                "stop_name": "SW Cedar Hills & Butner",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79468747489473,
+                    45.512732516756444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 260,
+                "stop_id": 9970,
+                "stop_name": "Sunset Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78174297686081,
+                    45.51007339893181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 310,
+                "stop_id": 241,
+                "stop_name": "SW Barnes & Monterey",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77079964379503,
+                    45.50872367687391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 340,
+                "stop_id": 230,
+                "stop_name": "8200 Block SW Barnes (Art School)",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7617102100757,
+                    45.50987030096156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 370,
+                "stop_id": 238,
+                "stop_name": "SW Barnes & Miller",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75231888151195,
+                    45.51576718056038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 375,
+                "stop_id": 8799,
+                "stop_name": "W Burnside & SW Barnes",
+                "jurisdic": "Portland",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74619337680834,
+                    45.515774900165674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 430,
+                "stop_id": 781,
+                "stop_name": "W Burnside & SW 48th Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72699708935018,
+                    45.519707135460436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 440,
+                "stop_id": 685,
+                "stop_name": "W Burnside & SW Fischer Ln",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72214364543204,
+                    45.51915973786391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 460,
+                "stop_id": 706,
+                "stop_name": "W Burnside & NW Hermosa",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71496595640014,
+                    45.52251160677882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 470,
+                "stop_id": 712,
+                "stop_name": "W Burnside & SW Tichner",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71072213130587,
+                    45.52301933317053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 718,
+                "stop_name": "W Burnside & SW St Clair",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69698011630348,
+                    45.5232875244157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 530,
+                "stop_id": 9860,
+                "stop_name": "W Burnside & SW 18th",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6897171208004,
+                    45.52291878382992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 723,
+                "stop_name": "W Burnside & SW 13th",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68429646614129,
+                    45.522856629508475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 570,
+                "stop_id": 715,
+                "stop_name": "W Burnside & SW 8th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67853753881923,
+                    45.52291191143269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 792,
+                "stop_name": "W Burnside & SW 6th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6766352589547,
+                    45.52294753944702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 620,
+                "stop_id": 9526,
+                "stop_name": "W Burnside & SW 2nd",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6725292019846,
+                    45.52300874390759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 740,
+                "stop_id": 763,
+                "stop_name": "E Burnside & SE 28th",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63743575305863,
+                    45.5227873169178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 770,
+                "stop_id": 701,
+                "stop_name": "E Burnside & SE Floral",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62898009223878,
+                    45.52278398177842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 790,
+                "stop_id": 770,
+                "stop_name": "E Burnside & SE Cesar Chavez Blvd",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.623209861638,
+                    45.52344581825117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 774,
+                "stop_name": "E Burnside & SE 41st",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6201384057785,
+                    45.5229942246881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 840,
+                "stop_id": 786,
+                "stop_name": "E Burnside & SE 52nd",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60997958126246,
+                    45.52282766232894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 880,
+                "stop_id": 793,
+                "stop_name": "E Burnside & SE 60th",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60249160825656,
+                    45.52278666106509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 910,
+                "stop_id": 799,
+                "stop_name": "E Burnside & SE 67th",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59537557857728,
+                    45.52304843632562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 940,
+                "stop_id": 808,
+                "stop_name": "E Burnside & SE 74th",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58693245253141,
+                    45.52277488622064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 970,
+                "stop_id": 813,
+                "stop_name": "E Burnside & SE 82nd",
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57949186981884,
+                    45.52272883688282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 990,
+                "stop_id": 817,
+                "stop_name": "E Burnside & SE 87th",
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57402681807655,
+                    45.5226883182135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 696,
+                "stop_name": "9100 Block E Burnside",
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5705644289728,
+                    45.52266310752911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1010,
+                "stop_id": 822,
+                "stop_name": "E Burnside & SE 94th",
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56653323077745,
+                    45.52262114921723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 6511,
+                "stop_name": "SE 102nd & Burnside",
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55843954134622,
+                    45.52233462136419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 6144,
+                "stop_name": "SE Washington & 108th",
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55298805820304,
+                    45.51863081478035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 5418,
+                "stop_name": "SE Stark & 113th",
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54659786049135,
+                    45.5188822916334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 5421,
+                "stop_name": "SE Stark & 117th",
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54307256084329,
+                    45.51889743601513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 5423,
+                "stop_name": "SE Stark & 119th",
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5404947430282,
+                    45.51890918493503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 5425,
+                "stop_name": "SE Stark & 122nd",
+                "jurisdic": "Portland",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53723654946748,
+                    45.51892893190988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 5431,
+                "stop_name": "SE Stark & 130th",
+                "jurisdic": "Portland",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52960316898039,
+                    45.51896958324913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 5432,
+                "stop_name": "SE Stark & 133rd",
+                "jurisdic": "Portland",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5263023152324,
+                    45.51899094665917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 5436,
+                "stop_name": "SE Stark & 139th",
+                "jurisdic": "Portland",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52059748877483,
+                    45.519002929610075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 5439,
+                "stop_name": "SE Stark & 143rd",
+                "jurisdic": "Portland",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51622005928826,
+                    45.519020829567324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3350,
+                "stop_id": 5454,
+                "stop_name": "SE Stark & 162nd",
+                "jurisdic": "Gresham",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.49601555720072,
+                    45.5190480426767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3650,
+                "stop_id": 5463,
+                "stop_name": "SE Stark & 176th Pl",
+                "jurisdic": "Gresham",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.48178056070662,
+                    45.51906508120337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3750,
+                "stop_id": 5467,
+                "stop_name": "SE Stark & 182nd",
+                "jurisdic": "Gresham",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.47643607437041,
+                    45.51904976548783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3800,
+                "stop_id": 5468,
+                "stop_name": "SE Stark & 185th",
+                "jurisdic": "Gresham",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.47213885455997,
+                    45.51904117573345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3950,
+                "stop_id": 5471,
+                "stop_name": "SE Stark & 192nd",
+                "jurisdic": "Gresham",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.46505575069558,
+                    45.51904683644462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4100,
+                "stop_id": 5477,
+                "stop_name": "SE Stark & 199th",
+                "jurisdic": "Gresham",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.45879442428411,
+                    45.51904032903867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4200,
+                "stop_id": 5480,
+                "stop_name": "SE Stark & 205th",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4509182899693,
+                    45.519014938770056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4500,
+                "stop_id": 5489,
+                "stop_name": "SE Stark & 220th",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43584625797082,
+                    45.51897263767493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4600,
+                "stop_id": 5404,
+                "stop_name": "SE Stark & NE Kelly",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42652098677311,
+                    45.51896950460447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4800,
+                "stop_id": 5495,
+                "stop_name": "SE Stark & NE 242nd",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41194529178571,
+                    45.51895326688203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4850,
+                "stop_id": 5410,
+                "stop_name": "SE Stark & Medical Center",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40756909099844,
+                    45.51892065894231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5050,
+                "stop_id": 3104,
+                "stop_name": "NE Kane & 23rd",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39991642753387,
+                    45.51272168610568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5100,
+                "stop_id": 3099,
+                "stop_name": "NE Kane & 18th Ct",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40011933473926,
+                    45.51034236125939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5250,
+                "stop_id": 3093,
+                "stop_name": "NE Kane & Division",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40010928270232,
+                    45.50501979523114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5350,
+                "stop_id": 1356,
+                "stop_name": "NE Division & Village Squire Ct",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40425076761906,
+                    45.5049203276629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5550,
+                "stop_id": 1317,
+                "stop_name": "NE Division & Hogan Pl",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41514064742194,
+                    45.50492431044252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5600,
+                "stop_id": 1325,
+                "stop_name": "NE Division & Burnside",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41837311654982,
+                    45.504884879521924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5650,
+                "stop_id": 1327,
+                "stop_name": "NE Division & Cleveland",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42164503551768,
+                    45.50496238751471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5700,
+                "stop_id": 1340,
+                "stop_name": "NE Division & Kelly",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42579037380149,
+                    45.50501328435788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5750,
+                "stop_id": 2798,
+                "stop_name": "NE Hood & 9th",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42810747515928,
+                    45.50386682453015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 5444,
+                "stop_name": "SE Stark & 148th",
+                "jurisdic": "Portland",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51037791383595,
+                    45.51905082306623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3200,
+                "stop_id": 5448,
+                "stop_name": "SE Stark & 155th",
+                "jurisdic": "Portland",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.50395009489905,
+                    45.51906119787551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3300,
+                "stop_id": 5452,
+                "stop_name": "SE Stark & 160th",
+                "jurisdic": "Portland",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4987298382892,
+                    45.51905668318879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3450,
+                "stop_id": 5458,
+                "stop_name": "SE Stark & 166th Pl",
+                "jurisdic": "Gresham",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.49210401875393,
+                    45.51905152686835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3600,
+                "stop_id": 5461,
+                "stop_name": "SE Stark & 174th",
+                "jurisdic": "Gresham",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.48493786888031,
+                    45.51905297513152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3700,
+                "stop_id": 5465,
+                "stop_name": "SE Stark & 179th",
+                "jurisdic": "Gresham",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.47971471371659,
+                    45.51904015668139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4050,
+                "stop_id": 5475,
+                "stop_name": "SE Stark & 196th",
+                "jurisdic": "Gresham",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.46143552577199,
+                    45.518997289338486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4150,
+                "stop_id": 5478,
+                "stop_name": "SE Stark & 202nd",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.45476161833714,
+                    45.51898770549174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4300,
+                "stop_id": 5392,
+                "stop_name": "21000 Block SE Stark",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.44685742379843,
+                    45.51900406521472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4450,
+                "stop_id": 5487,
+                "stop_name": "SE Stark & 217th",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43953308440194,
+                    45.51898037414922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4550,
+                "stop_id": 5491,
+                "stop_name": "SE Stark & 223rd",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43316766267849,
+                    45.518963147783545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4700,
+                "stop_id": 5494,
+                "stop_name": "SE Stark & NE Cleveland",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42140431599424,
+                    45.518962616287176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 10,
+                "stop_id": 9978,
+                "stop_name": "Beaverton Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80098223783277,
+                    45.49115942760013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 90,
+                "stop_id": 995,
+                "stop_name": "3300 Block SW Cedar Hills",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80924827311965,
+                    45.49546692750423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 190,
+                "stop_id": 9627,
+                "stop_name": "SW Barnes & Cedar Hills Blvd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78972453266759,
+                    45.51522009932467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 270,
+                "stop_id": 233,
+                "stop_name": "9300 Block SW Barnes",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77360918689426,
+                    45.50908673096957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 236,
+                "stop_name": "SW Barnes & Leahy",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76010847464708,
+                    45.511136500567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 372,
+                "stop_id": 251,
+                "stop_name": "SW Barnes & 70th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74897773986187,
+                    45.51611207991655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 472,
+                "stop_id": 8881,
+                "stop_name": "W Burnside & NW Maywood Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70736953183034,
+                    45.52387014561015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 480,
+                "stop_id": 9354,
+                "stop_name": "W Burnside & SW Osage",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70098937217473,
+                    45.52377673626026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 510,
+                "stop_id": 749,
+                "stop_name": "W Burnside & SW 21st",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6944886078537,
+                    45.52314544949593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 540,
+                "stop_id": 725,
+                "stop_name": "W Burnside & SW 15th",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68667472142914,
+                    45.522812429585045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 640,
+                "stop_id": 704,
+                "stop_name": "E Burnside & NE Grand",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66087398573686,
+                    45.52286682598066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 810,
+                "stop_id": 776,
+                "stop_name": "E Burnside & SE 44th",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61746657496994,
+                    45.522970358204645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 930,
+                "stop_id": 806,
+                "stop_name": "E Burnside & SE 72nd",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58904387347043,
+                    45.523037709810964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3900,
+                "stop_id": 12398,
+                "stop_name": "SE Stark & 187th",
+                "jurisdic": "Gresham",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.47002988958018,
+                    45.51905048297085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 290,
+                "stop_id": 5378,
+                "stop_name": "St Vincent Hospital East Pavilion",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77038782310431,
+                    45.51002988772408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 5379,
+                "stop_name": "St Vincent Hospital Main Stop",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77170877841425,
+                    45.51001627103054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 1019,
+                "stop_name": "SW Cedar Hills & Park Way",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7960070816295,
+                    45.50752705419101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 320,
+                "stop_id": 255,
+                "stop_name": "SW Barnes & 88th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76754903610023,
+                    45.508504326634416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 410,
+                "stop_id": 690,
+                "stop_name": "W Burnside & Mt. Calvary Cemetery",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73518177371875,
+                    45.51933174971964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 520,
+                "stop_id": 8511,
+                "stop_name": "W Burnside & SW 20th",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69256884204411,
+                    45.52305825150029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 760,
+                "stop_id": 769,
+                "stop_name": "E Burnside & SE 32nd",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63181278376008,
+                    45.52277477356453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 787,
+                "stop_name": "E Burnside & SE 55th",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6071427784305,
+                    45.522814452432506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 960,
+                "stop_id": 812,
+                "stop_name": "E Burnside & SE 79th",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58253212576452,
+                    45.52275081410946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5000,
+                "stop_id": 10878,
+                "stop_name": "NE Kane & 29th (MHCC)",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39860825002364,
+                    45.51593767494977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 25,
+                "stop_id": 1035,
+                "stop_name": "SW Center & 125th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80611610536558,
+                    45.49373704172249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 2274,
+                "stop_name": "SW Hall & Colony",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8076150668722,
+                    45.493682632339734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 75,
+                "stop_id": 2273,
+                "stop_name": "SW Hall & Cedar Hills",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80975158045453,
+                    45.494149075432894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 560,
+                "stop_id": 10792,
+                "stop_name": "W Burnside & SW 10th",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6812936411732,
+                    45.522909204895214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 360,
+                "stop_id": 229,
+                "stop_name": "7600 Block SW Barnes",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75652270856929,
+                    45.51253378348475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 660,
+                "stop_id": 820,
+                "stop_name": "E Burnside & SE 8th",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65784349894572,
+                    45.52285108981163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 820,
+                "stop_id": 779,
+                "stop_name": "E Burnside & SE 47th",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61433362896325,
+                    45.522828404354506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 6526,
+                "stop_name": "SE 102nd & Pine",
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55849619675777,
+                    45.52021732848476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 5416,
+                "stop_name": "SE Stark & 111th",
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54945398807995,
+                    45.518890044929464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4900,
+                "stop_id": 5397,
+                "stop_name": "SE Stark & NE Hale",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40133839166481,
+                    45.51895754681765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5500,
+                "stop_id": 1338,
+                "stop_name": "NE Division & Francis",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41114460077728,
+                    45.504937215874406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5175,
+                "stop_id": 12952,
+                "stop_name": "NE Kane & 15th",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40010432109477,
+                    45.507906189678934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4375,
+                "stop_id": 12953,
+                "stop_name": "SE Stark & 214th",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.44326400769002,
+                    45.51899270513074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 1025,
+                "stop_id": 12934,
+                "stop_name": "E Burnside & SE 99th",
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56247601730718,
+                    45.52254901711724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 165,
+                "stop_id": 13018,
+                "stop_name": "SW Cedar Hills & Foothill Dr",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7952664446258,
+                    45.509433162923514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 6143,
+                "stop_name": "SE Washington & 105th",
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55579681185327,
+                    45.518252994898454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 120,
+                "stop_id": 1021,
+                "stop_name": "SW Cedar Hills & Walker",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80584228540123,
+                    45.501114128341925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 686,
+                "stop_name": "W Burnside & NW Barnes",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7206863462312,
+                    45.520506902174596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 780,
+                "stop_id": 710,
+                "stop_name": "E Burnside & SE Laurelhurst",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6254804636465,
+                    45.523111238117025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 15,
+                "stop_id": 12933,
+                "stop_name": "SW Lombard & Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80274940726105,
+                    45.49323450454719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5450,
+                "stop_id": 1336,
+                "stop_name": "NE Division & Fleming",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40829875580567,
+                    45.50493013711061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 475,
+                "stop_id": 8750,
+                "stop_name": "W Burnside & NW Uptown Terrace",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70329733589105,
+                    45.52411575326806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 140,
+                "stop_id": 1017,
+                "stop_name": "SW Cedar Hills & Lynnridge",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.798090670131,
+                    45.50497309883414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 13155,
+                "stop_name": "E Burnside & 63rd",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59811967617676,
+                    45.5228627593072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 920,
+                "stop_id": 12761,
+                "stop_name": "E Burnside & SE 69th",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59143761487283,
+                    45.52304350548494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 2675,
+                "stop_id": 12950,
+                "stop_name": "12600 Block SE Stark",
+                "jurisdic": "Portland",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53323116514514,
+                    45.51895327408952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4950,
+                "stop_id": 13031,
+                "stop_name": "NE Kane & SE Stark",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39860935994048,
+                    45.51848599798966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 330,
+                "stop_id": 12960,
+                "stop_name": "SW Barnes & 84th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76385836238295,
+                    45.50896931553047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 4750,
+                "stop_id": 12961,
+                "stop_name": "SE Stark & 238th",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41722125840083,
+                    45.51895614860053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3525,
+                "stop_id": 12954,
+                "stop_name": "SE Stark & 169th",
+                "jurisdic": "Gresham",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.48869349226817,
+                    45.51905519124081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 875,
+                "stop_id": 12955,
+                "stop_name": "E Burnside & SE 57th",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60465491049979,
+                    45.522813367298674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 685,
+                "stop_id": 726,
+                "stop_name": "E Burnside & SE 16th",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64908503173092,
+                    45.52281208964301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 740,
+                "stop_name": "E Burnside & SE 20th",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64566023924533,
+                    45.522784608944036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 715,
+                "stop_id": 759,
+                "stop_name": "E Burnside & SE 24th",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6411099662155,
+                    45.52280027277867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5775,
+                "stop_id": 13506,
+                "stop_name": "Gresham Transit Center",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42772042672503,
+                    45.502842852335476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5800,
+                "stop_id": 10857,
+                "stop_name": "Gresham Transit Center",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42710840704869,
+                    45.50271992316186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 670,
+                "stop_id": 13327,
+                "stop_name": "E Burnside & SE Sandy",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6538066909016,
+                    45.52282350791175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 1,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 3175,
+                "stop_id": 5445,
+                "stop_name": "SE Stark & 151st",
+                "jurisdic": "Portland",
+                "zipcode": "97233",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.50748551256451,
+                    45.519064503054196
+                ]
+            }
+        }
+    ]
+}

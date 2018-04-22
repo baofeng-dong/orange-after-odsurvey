@@ -1,0 +1,1024 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 4441,
+                "stop_name": "N Philadelphia & Syracuse",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.756236486915,
+                    45.58924964723187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 8437,
+                "stop_name": "Gillihan Rd & Sauvie Island",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8154617180531,
+                    45.62940163785284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 8439,
+                "stop_name": "NW St Helens & Larson",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81662897124286,
+                    45.625104939536726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 8654,
+                "stop_name": "NW St Helens & Riverview Drive",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81157828113464,
+                    45.62104834795034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 8403,
+                "stop_name": "NW St Helens & Newberry Rd",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80724116587112,
+                    45.61794323595528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 8438,
+                "stop_name": "NW St Helens & Harborton Dr",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80184997082205,
+                    45.61463370488646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 11479,
+                "stop_name": "NW St Helens & Marina Way",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79585493317845,
+                    45.610157732624735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 5342,
+                "stop_name": "11400 Block NW St Helens",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78944822597448,
+                    45.603465913086026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 11490,
+                "stop_name": "NW St Helens & 112th",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78808404633789,
+                    45.601755033617536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 5357,
+                "stop_name": "NW St Helens & 107th",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78607131785728,
+                    45.59879101531042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 5355,
+                "stop_name": "NW St Helens & 105th",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78416817268797,
+                    45.59630338458096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 5333,
+                "stop_name": "NW St Helens & Milepost 8",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7827349580328,
+                    45.594407102534895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 5346,
+                "stop_name": "NW St Helens & Hoge",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7806926293344,
+                    45.5921604492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 5344,
+                "stop_name": "NW St Helens & Harbor",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.778309973195,
+                    45.590046056224985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 5336,
+                "stop_name": "NW St Helens & Bridge",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77500472342618,
+                    45.58820342440521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 598,
+                "stop_name": "NW Bridge Ave & Germantown",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7728017342958,
+                    45.586454719645495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 600,
+                "stop_name": "NW Bridge Ave & Springville",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7715829231222,
+                    45.585251676116165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 3008,
+                "stop_name": "N Ivanhoe & Baltimore",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75652054743539,
+                    45.590694436474855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 3465,
+                "stop_name": "N Lombard & Burlington",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75473974178398,
+                    45.59011254786411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 3474,
+                "stop_name": "N Lombard & Charleston",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75171778616856,
+                    45.58915645880282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 10177,
+                "stop_name": "N Ivanhoe & Leavitt",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75478762286349,
+                    45.58948499577991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 5353,
+                "stop_name": "NW St Helens & Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75980581592867,
+                    45.575323522426864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 5328,
+                "stop_name": "6600 Block NW St Helens",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75448992361828,
+                    45.569493711448544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 13294,
+                "stop_name": "NW St Helens & Saltzman",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74645738548692,
+                    45.56399539903002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 5362,
+                "stop_name": "NW St Helens & 56th",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74476784225737,
+                    45.56270046959119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 5339,
+                "stop_name": "NW St Helens & Doane",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74282237020789,
+                    45.561143211002914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 13637,
+                "stop_name": "NW Yeon & 44th",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73195812906768,
+                    45.554215218984396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 8875,
+                "stop_name": "NW Front & Kittridge",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72993025579163,
+                    45.55740129552208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 8877,
+                "stop_name": "4500 Block NW Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72396040023281,
+                    45.55514866164724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 8878,
+                "stop_name": "4300 Block NW Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72020992706196,
+                    45.553780495049125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 8901,
+                "stop_name": "4200 Block NW Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71770215405046,
+                    45.552855695836236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 8903,
+                "stop_name": "3800 Block NW Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71324106487897,
+                    45.5512294283135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 8879,
+                "stop_name": "3600 Block NW Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70591267536258,
+                    45.548396092439624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 12965,
+                "stop_name": "2900 Block NW Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6985219196134,
+                    45.54385668518444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 9896,
+                "stop_name": "NW Front & Nicolai",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69572712543922,
+                    45.54213579518749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 9894,
+                "stop_name": "NW Front & 21st",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69422606248018,
+                    45.54125611926094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 9893,
+                "stop_name": "NW Front & 17th",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68887643425653,
+                    45.53797670379704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 9890,
+                "stop_name": "NW Naito Parkway & 9th",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6795140789542,
+                    45.5325758227349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 9889,
+                "stop_name": "900 Block NW Naito Parkway",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67552778418381,
+                    45.52995290819217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 13621,
+                "stop_name": "700 Block NW Naito Parkway",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67382098900158,
+                    45.528506871756285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 13176,
+                "stop_name": "NW Naito Parkway & Couch",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67040347515575,
+                    45.523598832918246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 12798,
+                "stop_name": "SW Oak & 1st",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67196843318982,
+                    45.52041365704901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 13168,
+                "stop_name": "SW Oak & 6th",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67691366571924,
+                    45.52175088018533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 1,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To Portland",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 13868,
+                "stop_name": "1400 Block NW Naito Parkway",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68217200176099,
+                    45.53412881965326
+                ]
+            }
+        }
+    ]
+}

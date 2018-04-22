@@ -1,0 +1,426 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 4340,
+                "stop_name": "SW Park Pl & St Clair",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69663963546083,
+                    45.521351540350906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 4351,
+                "stop_name": "SW Rose Garden Way & Wright",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70463441538938,
+                    45.521675678741474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 1451,
+                "stop_id": 1620,
+                "stop_name": "2800 Block SW Fairview",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71188300994677,
+                    45.518853967438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 1626,
+                "stop_name": "SW Fairview & Bennington",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71043167010221,
+                    45.521024387958676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 1635,
+                "stop_name": "2900 Block SW Fairview",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71151667978138,
+                    45.52149915749635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 1639,
+                "stop_name": "SW Fairview & Wildwood Trail",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7157529470534,
+                    45.518429679593446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 12886,
+                "stop_name": "SW Fairview & Kingston",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70748629741439,
+                    45.5212069552384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 11151,
+                "stop_name": "SW Rose Garden Way & Sherwood",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7061866083104,
+                    45.51849037812414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 3277,
+                "stop_name": "SW Knight & Kingston",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71691106261326,
+                    45.51241087345102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 1637,
+                "stop_name": "SW Fairview & View Place",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71349729040436,
+                    45.52004648702075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 10299,
+                "stop_name": "MAX Station/Oregon Zoo",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71730745273017,
+                    45.51047414100065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 6911,
+                "stop_name": "SW 18th & Morrison",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69043311158511,
+                    45.52190147785308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 525,
+                "stop_id": 9553,
+                "stop_name": "SW 18th & Salmon",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69139876279918,
+                    45.52038092381132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 3276,
+                "stop_name": "SW Kingston & Japanese Garden",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70670779964287,
+                    45.51906884606487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 1619,
+                "stop_name": "2700 Block SW Fairview",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.709362847982,
+                    45.52025256772499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 1623,
+                "stop_name": "2800 Block SW Fairview",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71077151226949,
+                    45.52000468040703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 1625,
+                "stop_name": "4000 Block SW Fairview (Arboretum)",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71616793914907,
+                    45.515567577857134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 63,
+                "dir": 0,
+                "rte_desc": "63-Washington Park/Arlington Hts",
+                "dir_desc": "To Washington Park",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 5018,
+                "stop_name": "SW Salmon & 20th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69394768484194,
+                    45.52073652779233
+                ]
+            }
+        }
+    ]
+}

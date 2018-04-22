@@ -1,0 +1,1116 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 6531,
+                "stop_name": "NE 102nd & Weidler",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55791925338242,
+                    45.53402345665902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 2343,
+                "stop_name": "NE Halsey & 100th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56126325535524,
+                    45.53365016752103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 8119,
+                "stop_name": "NE 92nd & Schuyler",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56840731389828,
+                    45.53546666897161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 8125,
+                "stop_name": "NE 92nd & Tillamook",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56835757691107,
+                    45.53717763318192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 8116,
+                "stop_name": "NE 92nd & Sacramento",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56833461799827,
+                    45.53960869454282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 8115,
+                "stop_name": "NE 92nd & Russell",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56860924037291,
+                    45.540905371958345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 20,
+                "stop_name": "2800 Block NE 92nd",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56977402781085,
+                    45.54266950917961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 10505,
+                "stop_name": "NE 92nd & Hill",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56988095095133,
+                    45.54563313337146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 25,
+                "stop_name": "3400 Block NE 92nd",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56898741982558,
+                    45.54815137189847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 1916,
+                "stop_name": "NE Fremont & 88th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57143715868328,
+                    45.54818107751972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 1913,
+                "stop_name": "NE Fremont & 85th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57655392266147,
+                    45.548199936541124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 1910,
+                "stop_name": "NE Fremont & 82nd",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5790870224417,
+                    45.54822416435295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 1909,
+                "stop_name": "NE Fremont & 80th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58067691045518,
+                    45.54822347861178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 1907,
+                "stop_name": "NE Fremont & 77th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58372141955319,
+                    45.54823697303718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 1905,
+                "stop_name": "NE Fremont & 74th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58675189607226,
+                    45.54825589347766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 1903,
+                "stop_name": "NE Fremont & 71st",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59011326540649,
+                    45.54826753111121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 1902,
+                "stop_name": "NE Fremont & 69th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59217180409082,
+                    45.54827945349829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 1898,
+                "stop_name": "NE Fremont & 67th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59417949281607,
+                    45.54825001964393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 1896,
+                "stop_name": "NE Fremont & 64th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.597683413095,
+                    45.54825538276192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 1893,
+                "stop_name": "NE Fremont & 61st",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60081672863798,
+                    45.54826579845258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 1891,
+                "stop_name": "NE Fremont & 57th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60520736698146,
+                    45.54831242214902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 1889,
+                "stop_name": "NE Fremont & 54th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60756341567266,
+                    45.54831118728491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 1887,
+                "stop_name": "NE Fremont & 51st",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61044819937236,
+                    45.548327035048544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 1883,
+                "stop_name": "NE Fremont & 48th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6139046158482,
+                    45.54834069403553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 10594,
+                "stop_name": "NE Fremont & 45th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61742846807618,
+                    45.54836607527753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 1877,
+                "stop_name": "NE Fremont & 42nd",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62112956220808,
+                    45.54835317738066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 1875,
+                "stop_name": "NE Fremont & Cesar Chavez Blvd",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62306922237148,
+                    45.548341527551464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 1835,
+                "stop_name": "NE Fremont & Alameda",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62531352394078,
+                    45.54832922994452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 1873,
+                "stop_name": "NE Fremont & 35th",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62819966520844,
+                    45.548316047020414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 1870,
+                "stop_name": "NE Fremont & 33rd Place",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63006008467791,
+                    45.548306023195316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 1869,
+                "stop_name": "NE Fremont & Edgehill Place",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63451105994231,
+                    45.54829202069616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 1864,
+                "stop_name": "NE Fremont & 27th",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63790286818092,
+                    45.54829532769764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 1862,
+                "stop_name": "NE Fremont & 24th",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6414512907037,
+                    45.54829058687664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 1861,
+                "stop_name": "NE Fremont & 21st",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64453836722102,
+                    45.54828305870886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 1859,
+                "stop_name": "NE Fremont & 18th",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64777634718767,
+                    45.54828935346195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 1857,
+                "stop_name": "NE Fremont & 15th",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65020837828983,
+                    45.54829465186852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 1852,
+                "stop_name": "NE Fremont & 11th",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65459679518786,
+                    45.54830250510531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 1899,
+                "stop_name": "NE Fremont & 7th",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65841456763083,
+                    45.54831651334987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 1847,
+                "stop_name": "NE Fremont & M L King",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66125508129305,
+                    45.54832457224361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 1845,
+                "stop_name": "NE Fremont & Mallory",
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6635202191779,
+                    45.548312350650555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 1848,
+                "stop_name": "NE Fremont & N Williams",
+                "jurisdic": "Portland",
+                "zipcode": "97227",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66654119024305,
+                    45.548326395837975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 6000,
+                "stop_name": "N Vancouver & Ivy",
+                "jurisdic": "Portland",
+                "zipcode": "97227",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66804924187795,
+                    45.547595595409135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 5984,
+                "stop_name": "N Vancouver & Fargo",
+                "jurisdic": "Portland",
+                "zipcode": "97227",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66804179659557,
+                    45.54597517640565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 6006,
+                "stop_name": "N Vancouver & Stanton",
+                "jurisdic": "Portland",
+                "zipcode": "97227",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66824623451846,
+                    45.54388334812511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 8190,
+                "stop_name": "Gateway Transit Center",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5632565177423,
+                    45.53032052017382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 25,
+                "stop_id": 8194,
+                "stop_name": "Gateway TC (Drop off only stop)",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56377346451606,
+                    45.53057149387068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 4287,
+                "stop_name": "10000 Block NE Pacific St",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56086619791833,
+                    45.52940707302629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 24,
+                "dir": 0,
+                "rte_desc": "24-Fremont",
+                "dir_desc": "To Emanuel Hospital",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 6522,
+                "stop_name": "1200 Block NE 102nd",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55794039594855,
+                    45.53161195406822
+                ]
+            }
+        }
+    ]
+}

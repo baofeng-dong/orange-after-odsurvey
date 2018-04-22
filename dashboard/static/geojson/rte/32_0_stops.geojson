@@ -1,0 +1,1783 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3550,
+                "stop_id": 3992,
+                "stop_name": "Molalla & Warner",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59333662342685,
+                    45.339985103357996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3850,
+                "stop_id": 9583,
+                "stop_name": "Beavercreek & Hwy 213",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57593396759538,
+                    45.331963007528536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3900,
+                "stop_id": 1068,
+                "stop_name": "Clackamas Community College",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57528594222735,
+                    45.32275755013603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3300,
+                "stop_id": 3993,
+                "stop_name": "Molalla & Willamette",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59678129413285,
+                    45.35077995716981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 13903,
+                "stop_name": "Division & 14th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58848718871299,
+                    45.35547993613498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 3349,
+                "stop_name": "SE Lake & 31st Pl",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63208718195315,
+                    45.43731399846779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 4141,
+                "stop_name": "SE Oatfield & Alchar Dr",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63168454576638,
+                    45.43162496601115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 4198,
+                "stop_name": "SE Oatfield & Silver Springs",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63207121173352,
+                    45.42773350663693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 4151,
+                "stop_name": "SE Oatfield & Courtney",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63032538226203,
+                    45.422716007088496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 4165,
+                "stop_name": "SE Oatfield & Hill",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62901623868335,
+                    45.418783058791405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 4178,
+                "stop_name": "SE Oatfield & Oak Grove",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6282636495798,
+                    45.417583885872595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 4192,
+                "stop_name": "SE Oatfield & Risley",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6241585610728,
+                    45.413771935305654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 4189,
+                "stop_name": "SE Oatfield & Raymond",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6191353240464,
+                    45.40925950507742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 4201,
+                "stop_name": "SE Oatfield & Thiessen",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61757120688443,
+                    45.408217753227255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 4194,
+                "stop_name": "SE Oatfield & Roethe",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61077399269055,
+                    45.403249684869024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 4146,
+                "stop_name": "SE Oatfield & Clayson",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60346789352887,
+                    45.39902628133475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 4181,
+                "stop_name": "Oatfield & Oakridge",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5968109896458,
+                    45.395088570648916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 4159,
+                "stop_name": "Oatfield & Glen Echo",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59356417160384,
+                    45.39347677421461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 4148,
+                "stop_name": "Oatfield & Collins Crest",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59124397251902,
+                    45.39235409122658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 4140,
+                "stop_name": "Oatfield & Stone Oaks Ct",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58867692075215,
+                    45.39022295075371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 4171,
+                "stop_name": "Oatfield & E Kenmore",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58656607539422,
+                    45.388175935883474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 4164,
+                "stop_name": "Oatfield & E Hereford",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58505222583598,
+                    45.3861496971085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 4154,
+                "stop_name": "Oatfield & E Exeter",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58429363134121,
+                    45.384609939778414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 141,
+                "stop_name": "82nd Dr & E Berkeley",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58341146936507,
+                    45.382091522017035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 132,
+                "stop_name": "E Arlington & Cornell",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5866767195481,
+                    45.3805731464378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 134,
+                "stop_name": "E Arlington & Harvard",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58975378830102,
+                    45.37955608121106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 137,
+                "stop_name": "E Arlington & Portland Ave",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59318556577841,
+                    45.37843723958077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 124,
+                "stop_name": "W Arlington & Beatrice",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59676458667145,
+                    45.37722852818029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 135,
+                "stop_name": "W Arlington & McLoughlin",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6008918355942,
+                    45.37596305875474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 3831,
+                "stop_name": "McLoughlin & Clackamette Dr",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6013374444764,
+                    45.36844368625518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 8761,
+                "stop_name": "Oregon City Transit Center",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60451874022398,
+                    45.360003302680035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 3690,
+                "stop_name": "Main & 13th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60219034210986,
+                    45.3616531481028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 8092,
+                "stop_name": "9th & Jackson",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59853626209879,
+                    45.35525917308877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 3021,
+                "stop_name": "Jackson & 12th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59633160889341,
+                    45.35719852801656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 3025,
+                "stop_name": "Jackson & 15th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59401700561094,
+                    45.35948552119222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3200,
+                "stop_id": 8899,
+                "stop_name": "Division & Warren St",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59480646716148,
+                    45.35173143538402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3250,
+                "stop_id": 8900,
+                "stop_name": "7th & Taylor",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59617593092804,
+                    45.35199734730255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3350,
+                "stop_id": 3989,
+                "stop_name": "Molalla & Pearl",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5967479064726,
+                    45.349149481626554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3600,
+                "stop_id": 3981,
+                "stop_name": "Molalla & Beverly",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59246146078866,
+                    45.33881742679969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3750,
+                "stop_id": 9582,
+                "stop_name": "2000 Block Beavercreek Rd",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5821208353476,
+                    45.33281021357841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 3344,
+                "stop_name": "SE Lake & 23rd",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63800381957901,
+                    45.43993405889093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 3336,
+                "stop_name": "SE Lake & Oatfield",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62939251365384,
+                    45.43610240381754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 4185,
+                "stop_name": "SE Oatfield & Park",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63279737231608,
+                    45.4299252496745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 4172,
+                "stop_name": "SE Oatfield & Loeffelman Rd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63132700979804,
+                    45.42550059842741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 4136,
+                "stop_name": "14100 Block SE Oatfield",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62958792864332,
+                    45.420564083476876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 4149,
+                "stop_name": "SE Oatfield & Concord",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62158993542218,
+                    45.41140347322543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 4144,
+                "stop_name": "SE Oatfield & Allan",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61596921642229,
+                    45.40713939488227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 4175,
+                "stop_name": "SE Oatfield & McNary",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60593458368307,
+                    45.400391709600726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 8093,
+                "stop_name": "9th & Jefferson",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6020126536679,
+                    45.35700552372319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 6836,
+                "stop_name": "16th & Harrison",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5916947436975,
+                    45.35944169776835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 3348,
+                "stop_name": "SE Lake & 28th",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63419529752373,
+                    45.43824683187757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 4183,
+                "stop_name": "SE Oatfield & Oatfield Ct",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62546735228926,
+                    45.41497245711917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 4160,
+                "stop_name": "SE Oatfield & Guilford",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62987938938778,
+                    45.43490358066019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 4170,
+                "stop_name": "SE Oatfield & Jennings",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60077932398703,
+                    45.39724427110393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 4204,
+                "stop_name": "Oatfield & 82nd Dr",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58325022677994,
+                    45.38323297960528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 122,
+                "stop_name": "W Arlington & Barton",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59866359324228,
+                    45.37660006739233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 6840,
+                "stop_name": "16th & Taylor",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59018389863913,
+                    45.358687387193754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 4176,
+                "stop_name": "SE Oatfield & Naef",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61466502856514,
+                    45.406244701147465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3650,
+                "stop_id": 2866,
+                "stop_name": "Molalla & Warner-Milne",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5904043751057,
+                    45.33602043582508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 126,
+                "stop_name": "W Arlington & Bellevue",
+                "jurisdic": "Gladstone",
+                "zipcode": "97027",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59488893389415,
+                    45.37786703719389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 8097,
+                "stop_name": "9th & Monroe",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60035254211287,
+                    45.356169129925895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3050,
+                "stop_id": 1393,
+                "stop_name": "Division & 13th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58849574388697,
+                    45.35465882114856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3500,
+                "stop_id": 3985,
+                "stop_name": "Molalla & Holmes",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59498754661807,
+                    45.34214552924221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3700,
+                "stop_id": 9581,
+                "stop_name": "1600 Block Beavercreek Rd",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58499263931144,
+                    45.333141840489695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3800,
+                "stop_id": 11475,
+                "stop_name": "Beavercreek & Fir St",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57867197015298,
+                    45.332408883710464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3400,
+                "stop_id": 11481,
+                "stop_name": "500 Block Molalla",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59675903328306,
+                    45.346762897000865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3450,
+                "stop_id": 11933,
+                "stop_name": "Molalla & Mountain View",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59640989721511,
+                    45.34400547961797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 4138,
+                "stop_name": "16800 Block SE Oatfield",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60859878945584,
+                    45.40186873398874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 1377,
+                "stop_name": "Division & 12th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58851833447375,
+                    45.35298169562988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 4179,
+                "stop_name": "SE Oatfield & Oakland",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61314297552369,
+                    45.405084223340054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 1504,
+                "stop_name": "Division & 9th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59174681803427,
+                    45.35171289790367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 3693,
+                "stop_name": "Main & 15th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60092840880228,
+                    45.362875115484506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 11111,
+                "stop_name": "Washington & 14th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59978539912737,
+                    45.361693408431506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 8225,
+                "stop_name": "SE Jackson & 21st",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64049050567836,
+                    45.444826836377764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 13649,
+                "stop_name": "900 Block Washington",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60326991705841,
+                    45.358237850291616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 13743,
+                "stop_name": "Washington & 12th",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60143245119076,
+                    45.36006818227053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 0,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Clackamas CC",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 7136,
+                "stop_name": "SE 21st & Washington",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63991111612494,
+                    45.44271305290572
+                ]
+            }
+        }
+    ]
+}

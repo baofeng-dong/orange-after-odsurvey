@@ -1,0 +1,1208 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 9956,
+                "stop_name": "Hillsboro Transit Center",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9857421660211,
+                    45.521507583798034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 4123,
+                "stop_name": "SE Oak & 7th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97925064121034,
+                    45.518688762355794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 6502,
+                "stop_name": "SE 10th & Baseline",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97376034537868,
+                    45.519859778615334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 8552,
+                "stop_name": "SE 10th & E Main",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97372726114561,
+                    45.52174838982795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 8553,
+                "stop_name": "NE Cornell & Jackson",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97124388720576,
+                    45.52474960538811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 8554,
+                "stop_name": "NE Cornell & Grant",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96886213381755,
+                    45.52742112810677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 8555,
+                "stop_name": "NE Cornell & Arrington",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9661046712397,
+                    45.53040071256123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 8556,
+                "stop_name": "NE Cornell & Hillaire Dr",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96223771709492,
+                    45.53058530703629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 10026,
+                "stop_name": "NE Cornell & 25th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.95632178568356,
+                    45.53057506054266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 8558,
+                "stop_name": "NE Cornell & 34th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.94735705583608,
+                    45.532098430370986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 10193,
+                "stop_name": "NE Cornell & Brookwood Pkwy",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9382696624842,
+                    45.53252010239804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 10028,
+                "stop_name": "NE Cornell & 48th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.93411955968934,
+                    45.53344499780003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 8559,
+                "stop_name": "NE Cornell & Elam Young West",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.93059560040597,
+                    45.533496488004815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 8649,
+                "stop_name": "NE Cornell & Orenco Station Pkwy",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91711028305522,
+                    45.53388617575821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 8561,
+                "stop_name": "NE Cornell & Century (NW 231st)",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.910745383148,
+                    45.53418264445284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 10031,
+                "stop_name": "NE Cornell & NW Walbridge",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9079031857624,
+                    45.53495906669973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 10030,
+                "stop_name": "NE Cornell & Butler",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.90537034387238,
+                    45.53743690349062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 10029,
+                "stop_name": "NW Cornell & Cornelius Pass",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8984564049904,
+                    45.539521737545954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 10025,
+                "stop_name": "NW Cornell & Aloclek",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8932164689099,
+                    45.5391758162026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 10023,
+                "stop_name": "NW Cornell & 206th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88785521463701,
+                    45.537982743676494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 10022,
+                "stop_name": "NW Cornell & Amberbrook Dr",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88450351636583,
+                    45.537019490870144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 10021,
+                "stop_name": "NW Cornell & Amberwood Dr",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88121009652593,
+                    45.5357727605314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 10032,
+                "stop_name": "NW Cornell & Stucki/Amberglen",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87718862749274,
+                    45.53428718973475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 10024,
+                "stop_name": "NW Cornell & 192nd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87531316612895,
+                    45.53413753422956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 13530,
+                "stop_name": "NW Cornell & 188th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87042389308783,
+                    45.53416726885425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 9010,
+                "stop_name": "NW Cornell & 185th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86635341776214,
+                    45.5340592436343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 9059,
+                "stop_name": "NW Cornell & 179th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86176711656685,
+                    45.53448282743662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 9213,
+                "stop_name": "NW Cornell & Birch Pointe Apts",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85761294062809,
+                    45.53533464511097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 9055,
+                "stop_name": "NW Cornell & 173rd Ave",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85353767613914,
+                    45.53431011829422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 10319,
+                "stop_name": "NW Cornell & 169th Pl",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85151913511507,
+                    45.533842558713346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 9054,
+                "stop_name": "NW Cornell & 167th Pl",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84901466668315,
+                    45.53323520108697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 9056,
+                "stop_name": "NW Cornell & Bethany Ct",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84340736049923,
+                    45.52962243420745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 1205,
+                "stop_name": "NW Cornell & 153rd",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83406382706741,
+                    45.53170691776765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 1189,
+                "stop_name": "14600 Block NW Cornell",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82895248209873,
+                    45.53150405994632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 1204,
+                "stop_name": "NW Cornell & 143rd",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82464856817424,
+                    45.53050850408128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 1166,
+                "stop_name": "14100 Block NW Cornell",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82304773401151,
+                    45.53031626388368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 1186,
+                "stop_name": "13800 Block NW Cornell (Sunset HS)",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8203081792518,
+                    45.529257320545256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 1188,
+                "stop_name": "NW Cornell & Trail",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8177035124001,
+                    45.528142427447534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 13309,
+                "stop_name": "NW Cornell & Murray",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81497305179651,
+                    45.526744535007275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 1163,
+                "stop_name": "NW Cornell & Dale",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8127854320145,
+                    45.52568010124027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 8828,
+                "stop_name": "13000 Block NW Cornell",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81107312199573,
+                    45.524938232186834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 1171,
+                "stop_name": "NW Cornell & Barnes",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80857061298859,
+                    45.52486174797721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 1183,
+                "stop_name": "NW Cornell & Saltzman",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8067834982008,
+                    45.52522227803125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 1160,
+                "stop_name": "12200 Block NW Cornell",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80222346845156,
+                    45.52643601346826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 1200,
+                "stop_name": "NW Cornell & 119th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79991594394731,
+                    45.52692507186166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 13465,
+                "stop_name": "NW Cornell & 118th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79706627573431,
+                    45.52677611894414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 1196,
+                "stop_name": "NW Cornell & Cedar Hills Blvd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7934656332489,
+                    45.52635048011445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 10152,
+                "stop_name": "NW Cedar Hills & Leahy",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79288457675985,
+                    45.52262070938943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 10749,
+                "stop_name": "SW Cedar Hills & Celeste",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79157293687085,
+                    45.5188364914439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 9627,
+                "stop_name": "SW Barnes & Cedar Hills Blvd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78972453266759,
+                    45.51522009932467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 11939,
+                "stop_name": "Sunset Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7821635981864,
+                    45.510221024564224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 48,
+                "dir": 1,
+                "rte_desc": "48-Cornell",
+                "dir_desc": "To Sunset Transit Center",
+                "type": "BUS",
+                "stop_seq": 725,
+                "stop_id": 13858,
+                "stop_name": "NE Cornell & Elam Young East",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.92292462511077,
+                    45.53359267479069
+                ]
+            }
+        }
+    ]
+}

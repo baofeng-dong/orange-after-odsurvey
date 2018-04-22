@@ -1,0 +1,541 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 614,
+                "stop_name": "SW Broadway & Lincoln",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6855354293602,
+                    45.50824132942453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 5804,
+                "stop_name": "SW Terwilliger & Sam Jackson",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6875160897839,
+                    45.502538361806835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 607,
+                "stop_name": "SW Broadway & Hall",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6845604287632,
+                    45.51040958272504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 3052,
+                "stop_name": "SW Jefferson & 16th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6901109710378,
+                    45.51763636230343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 10168,
+                "stop_name": "SW Columbia & 18th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69277151696795,
+                    45.517472182194545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 225,
+                "stop_id": 1111,
+                "stop_name": "SW Columbia & 12th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68684774184148,
+                    45.515871103482496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 275,
+                "stop_id": 9044,
+                "stop_name": "SW Columbia & 10th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68481811884172,
+                    45.51532626200588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 1108,
+                "stop_name": "SW Columbia & Park Ave",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6832475228893,
+                    45.514918924833495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 5032,
+                "stop_name": "SW Sam Jackson Pk & US Veterans",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68716115199705,
+                    45.4990422453083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 871,
+                "stop_name": "SW Campus Dr & Loading Dock 5",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68514079906792,
+                    45.498877205177884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1120,
+                "stop_id": 10176,
+                "stop_name": "700 SW Campus Dr at Doernbecher",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68590102057394,
+                    45.497876895369586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1140,
+                "stop_id": 868,
+                "stop_name": "SW Campus Dr & OHSU Garage F",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68430258691191,
+                    45.49818656225852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 7794,
+                "stop_name": "SW 6th & Sheridan",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6844518169001,
+                    45.505362718211444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 12792,
+                "stop_name": "SW Columbia & 16th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69069228901353,
+                    45.5169227616327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 11010,
+                "stop_name": "SW Terwilliger & Campus",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68274453355743,
+                    45.499287873148944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 8455,
+                "stop_name": "SW US Veterans Rd & Bldg #16",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68221997802766,
+                    45.496422146278135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 5975,
+                "stop_name": "US Veterans Hospital",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68327068056082,
+                    45.49705833364312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 10612,
+                "stop_name": "3515 SW US Veterans Rd",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68652053151125,
+                    45.497025712805616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 9488,
+                "stop_name": "3505 SW US Veterans Rd",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68815613954092,
+                    45.49735520503008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 616,
+                "stop_name": "SW Broadway & Market",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68314310641561,
+                    45.51304509179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1066,
+                "stop_id": 5028,
+                "stop_name": "SW Sam Jackson Pk & OHSU",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68553545262937,
+                    45.49933602534841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1082,
+                "stop_id": 5027,
+                "stop_name": "SW Sam Jackson Pk & Campus Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68426545105714,
+                    45.50029842339972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 68,
+                "dir": 1,
+                "rte_desc": "68-Marquam Hill/Collins Circle",
+                "dir_desc": "To PSU & Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1160,
+                "stop_id": 870,
+                "stop_name": "SW Campus Dr & Terwilliger",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68257202304342,
+                    45.49910833412137
+                ]
+            }
+        }
+    ]
+}

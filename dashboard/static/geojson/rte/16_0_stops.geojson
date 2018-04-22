@@ -1,0 +1,1116 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 13168,
+                "stop_name": "SW Oak & 6th",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67691366571924,
+                    45.52175088018533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 8886,
+                "stop_name": "NW Everett & 5th",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6756219227505,
+                    45.525182448494625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 1612,
+                "stop_name": "NW Everett & 2nd",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67259670124606,
+                    45.52522407884581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 9873,
+                "stop_name": "600 Block NW Naito Parkway",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67280788666537,
+                    45.5279736085257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 9874,
+                "stop_name": "900 Block NW Naito Parkway",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67515822360728,
+                    45.5299255739076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 9875,
+                "stop_name": "NW Naito Parkway & 9th",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67996756998446,
+                    45.53307068006171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 13098,
+                "stop_name": "1700 Block NW Naito Parkway",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68405132670631,
+                    45.53547534249287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 9877,
+                "stop_name": "NW Front & 15th",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68622564915587,
+                    45.53671977841052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 9879,
+                "stop_name": "NW Front & 21st",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69379368102284,
+                    45.541271489675125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 9880,
+                "stop_name": "NW Front & Nicolai",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6956842617012,
+                    45.54244918518987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 9881,
+                "stop_name": "3000 Block NW Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69891064652673,
+                    45.54444312700096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 1931,
+                "stop_name": "3700 Block NW Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70654630122569,
+                    45.54884749769209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 8904,
+                "stop_name": "3800 Block NW Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71157022521118,
+                    45.55085037580405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 8902,
+                "stop_name": "4200 Block NW Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71740271400206,
+                    45.552861807935486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 1921,
+                "stop_name": "4300 Block NW Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72032897533889,
+                    45.553929623726376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 1924,
+                "stop_name": "4500 Block NW Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72382242339373,
+                    45.55521013123526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 1925,
+                "stop_name": "4700 Block NW Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72751501219574,
+                    45.55668167295232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 1922,
+                "stop_name": "4800 Block NW Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72925918803293,
+                    45.55732128122167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 13637,
+                "stop_name": "NW Yeon & 44th",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73195812906768,
+                    45.554215218984396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 5338,
+                "stop_name": "NW St Helens & Doane",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74277270881375,
+                    45.56142027614345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 5361,
+                "stop_name": "NW St Helens & 56th",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74446009362845,
+                    45.56274913047571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 13293,
+                "stop_name": "NW St Helens & Saltzman",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74677159672213,
+                    45.564539955015064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 5329,
+                "stop_name": "6600 Block NW St Helens",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75486574934096,
+                    45.5700864763744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 5330,
+                "stop_name": "6800 Block NW St Helens",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75584324902427,
+                    45.57138307888933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 5352,
+                "stop_name": "NW St Helens & Front",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75911765058694,
+                    45.57505688587858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 4440,
+                "stop_name": "N Philadelphia & Ivanhoe",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75556238250519,
+                    45.58934514006776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 3009,
+                "stop_name": "N Ivanhoe & Charleston",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7527111598732,
+                    45.588684839328394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 3509,
+                "stop_name": "N Lombard & John",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75267956524134,
+                    45.58958863790515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 599,
+                "stop_name": "NW Bridge Ave & Springville",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77142793568345,
+                    45.585256412154465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 597,
+                "stop_name": "NW Bridge Ave & Germantown",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77245217889451,
+                    45.58634559988408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 596,
+                "stop_name": "NW Bridge Ave & St Helens",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77368169523693,
+                    45.58736920580043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 5350,
+                "stop_name": "9400 Block NW St Helens",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77624879206353,
+                    45.5892416788001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 5345,
+                "stop_name": "NW St Helens & Hoge",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78092529392461,
+                    45.592792475215255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 5332,
+                "stop_name": "NW St Helens & Milepost 8",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7827667412049,
+                    45.59488529128338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 25,
+                "stop_id": 12798,
+                "stop_name": "SW Oak & 1st",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67196843318982,
+                    45.52041365704901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 5354,
+                "stop_name": "NW St Helens & 105th",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78447127251246,
+                    45.59713071052928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 5356,
+                "stop_name": "NW St Helens & 107th",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78555286147495,
+                    45.59859549003154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 5358,
+                "stop_name": "NW St Helens & 109th",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78653033212795,
+                    45.59996052141829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 5359,
+                "stop_name": "NW St Helens & 111th",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78735665156881,
+                    45.601229206384474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 5341,
+                "stop_name": "11400 Block NW St Helens",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78912081368588,
+                    45.60355523891253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 10291,
+                "stop_name": "NW St Helens & Marina Way",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.79602919692408,
+                    45.61064856730217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 8744,
+                "stop_name": "NW St Helens & Harborton Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80001591017472,
+                    45.613815571302986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 11016,
+                "stop_name": "NW St Helens & Riverview Drive",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81096798990191,
+                    45.62076216765411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 13214,
+                "stop_name": "NW St Helens & Larson",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8166010822345,
+                    45.62528730759535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 8437,
+                "stop_name": "Gillihan Rd & Sauvie Island",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97231",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8154617180531,
+                    45.62940163785284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 11837,
+                "stop_name": "N Ivanhoe & Baltimore",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75653486222576,
+                    45.590490389136164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 4441,
+                "stop_name": "N Philadelphia & Syracuse",
+                "jurisdic": "Portland",
+                "zipcode": "97203",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.756236486915,
+                    45.58924964723187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 16,
+                "dir": 0,
+                "rte_desc": "16-Front Ave/St Helens Rd",
+                "dir_desc": "To St Johns and Sauvie Island",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 9878,
+                "stop_name": "NW Front & 17th",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68880604964598,
+                    45.53820398258955
+                ]
+            }
+        }
+    ]
+}

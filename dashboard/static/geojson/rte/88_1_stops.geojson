@@ -1,0 +1,1484 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 275,
+                "stop_name": "W Baseline Rd & SW 185th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86840219040704,
+                    45.51602243205988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 265,
+                "stop_name": "W Baseline Rd & SW Lisa",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87131443826618,
+                    45.516381057480665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 279,
+                "stop_name": "W Baseline Rd & SW 195th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8767603187081,
+                    45.5160811625647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 7052,
+                "stop_name": "700 Block SW 197th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87960519736528,
+                    45.51439916522424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 7054,
+                "stop_name": "SW 197th & Frances",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87960991224254,
+                    45.5085349818646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 7079,
+                "stop_name": "SW 198th & Rock Dr",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88077901044659,
+                    45.50720709493546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 7093,
+                "stop_name": "SW 198th & York",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88084434163513,
+                    45.504539112540854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 7072,
+                "stop_name": "SW 198th & Imperial",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88096547477541,
+                    45.50241636310891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 7073,
+                "stop_name": "SW 198th & Johnson",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88104514959271,
+                    45.50022962764809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 7089,
+                "stop_name": "SW 198th & Trelane",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88112928922648,
+                    45.49819841626488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 7075,
+                "stop_name": "SW 198th & Kinnaman",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8814813527061,
+                    45.48924448018866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 7086,
+                "stop_name": "SW 198th & Southview",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88161579078043,
+                    45.486365426576626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 7063,
+                "stop_name": "SW 198th & Butternut",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88161476106436,
+                    45.484116964534245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 7066,
+                "stop_name": "SW 198th & Celebrity",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88167423754335,
+                    45.48214835875528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 7068,
+                "stop_name": "SW 198th & Deline",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.881738665693,
+                    45.48041080444288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 7083,
+                "stop_name": "SW 198th & Rosa",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88177295998355,
+                    45.478781958152126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 7078,
+                "stop_name": "SW 198th & Prospect",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88181109657408,
+                    45.474703105694395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 1693,
+                "stop_name": "SW Farmington & 195th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8781928220246,
+                    45.4708318619245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 1692,
+                "stop_name": "SW Farmington & 192nd",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8741103971106,
+                    45.47180424960632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1520,
+                "stop_id": 10166,
+                "stop_name": "SW Farmington & 185th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86699505522337,
+                    45.47540252935865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 1688,
+                "stop_name": "SW Farmington & 179th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86108648344211,
+                    45.47808627194453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 1652,
+                "stop_name": "SW Farmington & Kinnaman",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85560282988119,
+                    45.480544608861166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 10443,
+                "stop_name": "SW 170th & Division",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85165957385927,
+                    45.481140756689356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1925,
+                "stop_id": 9677,
+                "stop_name": "SW 170th & Oak",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85192566663159,
+                    45.47534875686783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1970,
+                "stop_id": 10273,
+                "stop_name": "SW 170th & Timberland Dr",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85193902734476,
+                    45.47135540920293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 9680,
+                "stop_name": "SW Hart & 165th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84567365409542,
+                    45.46558066170739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 9681,
+                "stop_name": "SW Hart & 161st",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84224749749022,
+                    45.46559460769112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2230,
+                "stop_id": 9683,
+                "stop_name": "SW Hart & 155th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83588916314397,
+                    45.465577219276696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2240,
+                "stop_id": 10437,
+                "stop_name": "SW Hart & 149th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83208824719179,
+                    45.465578301857505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2241,
+                "stop_id": 9684,
+                "stop_name": "SW Hart & Dunsmuir",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83013206022423,
+                    45.46556834928381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2246,
+                "stop_id": 8632,
+                "stop_name": "SW Murray & Hart",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82590987001849,
+                    45.46601415043497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2247,
+                "stop_id": 8633,
+                "stop_name": "SW Murray & Barlow",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82595701642808,
+                    45.469337967834164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 8635,
+                "stop_name": "SW Murray & Allen",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82587174616373,
+                    45.47524313836649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2253,
+                "stop_id": 113,
+                "stop_name": "SW Allen & 141st",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82133512308971,
+                    45.476394544554275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2260,
+                "stop_id": 100,
+                "stop_name": "SW Allen & Erickson",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81212024846761,
+                    45.476405449516605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2262,
+                "stop_id": 102,
+                "stop_name": "SW Allen & Hall",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8057392534447,
+                    45.476379532225884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 3455,
+                "stop_name": "SW Lombard & Allen",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80019682573146,
+                    45.47699626466305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 3583,
+                "stop_name": "SW Lombard & 5th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80022013039421,
+                    45.4828008868324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2680,
+                "stop_id": 3582,
+                "stop_name": "SW Lombard & 2nd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80024520558301,
+                    45.48492612081264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 7070,
+                "stop_name": "SW 198th & Farmington",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88179916082184,
+                    45.470821969679506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 1690,
+                "stop_name": "SW Farmington & 188th Ct",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87072259280976,
+                    45.47328562222017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 1642,
+                "stop_name": "18200 Block SW Farmington",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86442937388261,
+                    45.476585626387056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 1658,
+                "stop_name": "SW Farmington & Remington Dr",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8580405675312,
+                    45.47939055878951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 9676,
+                "stop_name": "SW 170th & Rosa Place",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85169341911967,
+                    45.478969807059535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 9675,
+                "stop_name": "SW 170th & Ivy Glenn",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85193402079459,
+                    45.47302650007347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 9679,
+                "stop_name": "SW Bany & Tallac Way",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85066889295862,
+                    45.46685963704557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 9682,
+                "stop_name": "SW Hart & 157th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83912396365683,
+                    45.465589550114274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2242,
+                "stop_id": 10211,
+                "stop_name": "SW Hart & Forest Drive",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82793272003565,
+                    45.46557267371101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2248,
+                "stop_id": 8634,
+                "stop_name": "SW Murray & 22nd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82596185548158,
+                    45.472405842695046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2252,
+                "stop_id": 106,
+                "stop_name": "SW Allen & Murray",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82475523473701,
+                    45.476380949939895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2258,
+                "stop_id": 104,
+                "stop_name": "SW Allen & Menlo",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81734358850451,
+                    45.47637895094146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2261,
+                "stop_id": 99,
+                "stop_name": "SW Allen & Dale",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80946301127726,
+                    45.47640618958057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 3585,
+                "stop_name": "SW Lombard & 9th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80021656602979,
+                    45.480428367846734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 7061,
+                "stop_name": "SW 198th & Blanton",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88143211137516,
+                    45.492592469054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 7064,
+                "stop_name": "SW 198th & Carlin",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88181360209855,
+                    45.47173232775267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 9678,
+                "stop_name": "SW 170th & Cynthia",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85192167641897,
+                    45.468684870380635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 12944,
+                "stop_name": "SW Lombard & Broadway",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80072479146625,
+                    45.48781828547004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 3580,
+                "stop_name": "SW Lombard & 12th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80024919400519,
+                    45.4784709153067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 9983,
+                "stop_name": "Beaverton Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8014350233966,
+                    45.49124667141979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 13035,
+                "stop_name": "SW 197th & Brookfield",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87963238332998,
+                    45.51339491793752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 13517,
+                "stop_name": "SW 198th & Oak Ct",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88181767577568,
+                    45.47588046821354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 725,
+                "stop_id": 13705,
+                "stop_name": "3300 Block SW 198th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88123265156403,
+                    45.49605518879706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 9621,
+                "stop_name": "Willow Creek Transit Center",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87030033899856,
+                    45.517399767850605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2255,
+                "stop_id": 111,
+                "stop_name": "SW Allen & Wilson",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81924483126387,
+                    45.476407035232334
+                ]
+            }
+        }
+    ]
+}

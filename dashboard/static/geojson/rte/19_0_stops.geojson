@@ -1,0 +1,2519 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 8194,
+                "stop_name": "Gateway TC (Drop off only stop)",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56377346451606,
+                    45.53057149387068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 2156,
+                "stop_name": "NE Glisan & 92nd",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56852569004701,
+                    45.526438804943574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 2149,
+                "stop_name": "NE Glisan & 85th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57622299846561,
+                    45.52647925780103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 2148,
+                "stop_name": "NE Glisan & 82nd",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57885718120181,
+                    45.52649904510478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 2145,
+                "stop_name": "NE Glisan & 80th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58133836187665,
+                    45.52650179376222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 2143,
+                "stop_name": "NE Glisan & 78th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58336826385558,
+                    45.52650486808186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 11831,
+                "stop_name": "NE Glisan & 74th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58664815903046,
+                    45.52652052381527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 2137,
+                "stop_name": "NE Glisan & 71st",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58972475597609,
+                    45.526524130695066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 2133,
+                "stop_name": "NE Glisan & 67th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59434679177866,
+                    45.52654180891118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 2132,
+                "stop_name": "NE Glisan & 65th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59694941927341,
+                    45.52656376009193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 2129,
+                "stop_name": "NE Glisan & 62nd",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59947856908579,
+                    45.52655986560705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 2128,
+                "stop_name": "NE Glisan & 60th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60188375252113,
+                    45.52656720615451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 2126,
+                "stop_name": "NE Glisan & 57th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60468206205007,
+                    45.52656479938669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 2123,
+                "stop_name": "NE Glisan & 55th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60738074406308,
+                    45.526568868599966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 2121,
+                "stop_name": "NE Glisan & 52nd",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60993571370466,
+                    45.52657546830264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 2009,
+                "stop_name": "4700 Block NE Glisan",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61374570921332,
+                    45.5265892126677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 2117,
+                "stop_name": "NE Glisan & 45th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6160626501684,
+                    45.52648703109896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 2115,
+                "stop_name": "NE Glisan & 43rd",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61865089591079,
+                    45.52648973041005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 2111,
+                "stop_name": "NE Glisan & Cesar Chavez Blvd",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62305498355924,
+                    45.52681161283801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 2002,
+                "stop_name": "NE Glisan & Laddington",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62486657525683,
+                    45.52651222654746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 2000,
+                "stop_name": "NE Glisan & Floral",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62926216177976,
+                    45.52652606093703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 2109,
+                "stop_name": "NE Glisan & 32nd",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6314637263412,
+                    45.52652909755673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 2107,
+                "stop_name": "NE Glisan & 30th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63437371561577,
+                    45.52654459304134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 5058,
+                "stop_name": "NE Sandy & 14th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65142847153217,
+                    45.52376684461608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 689,
+                "stop_name": "W Burnside & Burnside Bridge",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67100747650082,
+                    45.523250494982065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 5239,
+                "stop_name": "SW Sheridan & 4th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68138012162643,
+                    45.50504706063347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 1929,
+                "stop_name": "SW Naito Parkway & Hooker",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67802793937838,
+                    45.50219318519649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 4964,
+                "stop_name": "Ross Island Bridge",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67523489143714,
+                    45.50027364560803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 4701,
+                "stop_name": "SE Powell & 9th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65719383987962,
+                    45.501429672534954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 4537,
+                "stop_name": "SE Powell & Milwaukie",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65446926200879,
+                    45.50109041850719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 3916,
+                "stop_name": "SE Milwaukie & Haig",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65414440649705,
+                    45.498193157760326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 3909,
+                "stop_name": "SE Milwaukie & Center",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65289883642116,
+                    45.494112504236945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 3931,
+                "stop_name": "SE Milwaukie & Mall",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65177080233374,
+                    45.49149543477928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3200,
+                "stop_id": 3928,
+                "stop_name": "SE Milwaukie & Long",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65074510666862,
+                    45.48836611339978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3250,
+                "stop_id": 3935,
+                "stop_name": "SE Milwaukie & Mitchell",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64996618850832,
+                    45.48601463973549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3300,
+                "stop_id": 3921,
+                "stop_name": "SE Milwaukie & Insley",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64967458257262,
+                    45.48385544220995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3350,
+                "stop_id": 3938,
+                "stop_name": "SE Milwaukie & Ramona",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64965635824011,
+                    45.480923838517334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3400,
+                "stop_id": 3946,
+                "stop_name": "SE Milwaukie & Tolman",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64921800038925,
+                    45.477270686598345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3450,
+                "stop_id": 3911,
+                "stop_name": "SE Milwaukie & Claybourne",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64898355298774,
+                    45.47522610232167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3500,
+                "stop_id": 845,
+                "stop_name": "SE Bybee & 17th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64785936817854,
+                    45.47371088984424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3550,
+                "stop_id": 847,
+                "stop_name": "SE Bybee & 19th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64588272595466,
+                    45.47383046493728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3600,
+                "stop_id": 852,
+                "stop_name": "SE Bybee & 22nd",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6423772784867,
+                    45.47403671437464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3700,
+                "stop_id": 858,
+                "stop_name": "SE Bybee & 27th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63597043883762,
+                    45.47430543650237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3750,
+                "stop_id": 860,
+                "stop_name": "SE Bybee & 28th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63476285781039,
+                    45.47349148960183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3800,
+                "stop_id": 7290,
+                "stop_name": "28th & Rex",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63450335652847,
+                    45.47024363411262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3850,
+                "stop_id": 4816,
+                "stop_name": "SE Rex & 32nd",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63042717139209,
+                    45.46916737317396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3900,
+                "stop_id": 7344,
+                "stop_name": "SE 32nd & Knapp",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6303085276345,
+                    45.47130053516454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3950,
+                "stop_id": 7335,
+                "stop_name": "SE 32nd & Bybee",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.630301174855,
+                    45.47324151014109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4000,
+                "stop_id": 7357,
+                "stop_name": "SE 32nd & Tolman",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.630309093425,
+                    45.47625357730995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4050,
+                "stop_id": 7360,
+                "stop_name": "SE 32nd & Woodstock",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63031438599876,
+                    45.47903707994839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4100,
+                "stop_id": 7294,
+                "stop_name": "SE 28th & Tolman",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6343227436538,
+                    45.47492963383752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4150,
+                "stop_id": 7286,
+                "stop_name": "SE 28th & Martins",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63398105478932,
+                    45.47759879027756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4200,
+                "stop_id": 6399,
+                "stop_name": "SE Woodstock & Moreland Ln",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63260508579083,
+                    45.47915919396276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4250,
+                "stop_id": 6402,
+                "stop_name": "SE Woodstock & 32nd",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63060617726829,
+                    45.479086297723015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4300,
+                "stop_id": 6405,
+                "stop_name": "SE Woodstock & 34th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62843353567675,
+                    45.479186704141334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4350,
+                "stop_id": 6407,
+                "stop_name": "SE Woodstock & 36th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62679901753978,
+                    45.47915715475678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4400,
+                "stop_id": 8243,
+                "stop_name": "SE Woodstock & 38th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62370259468933,
+                    45.47912968515229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4450,
+                "stop_id": 6411,
+                "stop_name": "SE Woodstock & 41st",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62070965315266,
+                    45.47911808855099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4500,
+                "stop_id": 6413,
+                "stop_name": "SE Woodstock & 43rd",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61862115166413,
+                    45.47908908748998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4550,
+                "stop_id": 6415,
+                "stop_name": "SE Woodstock & 46th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61565838304833,
+                    45.4791248002157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4600,
+                "stop_id": 6419,
+                "stop_name": "SE Woodstock & 49th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61210993860252,
+                    45.479110588903865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4650,
+                "stop_id": 10484,
+                "stop_name": "SE Woodstock & 51st",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60960962555838,
+                    45.479089215091044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4700,
+                "stop_id": 7718,
+                "stop_name": "SE 52nd & Carlton",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6088046365996,
+                    45.477819626633355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4750,
+                "stop_id": 1528,
+                "stop_name": "5400 Block SE Duke",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60750421653499,
+                    45.47576512174188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4800,
+                "stop_id": 1531,
+                "stop_name": "SE Duke & 57th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6045288622902,
+                    45.47576533350556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4850,
+                "stop_id": 1540,
+                "stop_name": "SE Duke & 60th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60238123334396,
+                    45.47574315650148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4900,
+                "stop_id": 1537,
+                "stop_name": "SE Duke & 64th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59725371836203,
+                    45.47576292741059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 4950,
+                "stop_id": 1539,
+                "stop_name": "SE Duke & 67th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5943411057171,
+                    45.47577538705319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5000,
+                "stop_id": 1544,
+                "stop_name": "SE Duke & 72nd",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58949956462001,
+                    45.475818823859655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5050,
+                "stop_id": 1546,
+                "stop_name": "SE Duke & 75th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58661043952497,
+                    45.47581590236537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5100,
+                "stop_id": 1548,
+                "stop_name": "SE Duke & 78th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58312625919325,
+                    45.47583138620632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5150,
+                "stop_id": 1550,
+                "stop_name": "SE Duke & 82nd",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57943677188965,
+                    45.475811459971865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5200,
+                "stop_id": 7950,
+                "stop_name": "SE 82nd & Cooper",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5791893702571,
+                    45.47372226488175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5250,
+                "stop_id": 8013,
+                "stop_name": "SE 82nd & Ogden",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57917343683623,
+                    45.471083910860166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5300,
+                "stop_id": 1759,
+                "stop_name": "SE Flavel & 82nd",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5784669712263,
+                    45.46858114639529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5350,
+                "stop_id": 1761,
+                "stop_name": "SE Flavel & 85th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57602083375808,
+                    45.46852211847783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5400,
+                "stop_id": 1763,
+                "stop_name": "SE Flavel & 87th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57403067626484,
+                    45.4684849922728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5450,
+                "stop_id": 1728,
+                "stop_name": "8900 Block SE Flavel",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5712974990407,
+                    45.468412520920424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5500,
+                "stop_id": 1764,
+                "stop_name": "SE Flavel & 92nd",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56795162559973,
+                    45.46831757814713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5550,
+                "stop_id": 13145,
+                "stop_name": "Flavel & I-205 Overpass",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56535542865423,
+                    45.46826135701852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5600,
+                "stop_id": 4039,
+                "stop_name": "SE Mt Scott & Aspen Summit",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56403086550375,
+                    45.46681544361595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5650,
+                "stop_id": 4032,
+                "stop_name": "10000 Block SE Mt Scott",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56003728202498,
+                    45.46567886329636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5700,
+                "stop_id": 4036,
+                "stop_name": "SE Mt Scott & 105th",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55609416828733,
+                    45.464558192545965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5750,
+                "stop_id": 6567,
+                "stop_name": "SE 112th & Mt Scott Blvd",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54795274906475,
+                    45.464528384404254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5800,
+                "stop_id": 4037,
+                "stop_name": "SE Mt Scott & 105th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55585410120828,
+                    45.46468111886894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5850,
+                "stop_id": 4035,
+                "stop_name": "SE Mt Scott & 103rd",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5576830987001,
+                    45.46515098138317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5900,
+                "stop_id": 4033,
+                "stop_name": "9900 Block SE Mt Scott",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56020591653873,
+                    45.46582938232421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 5950,
+                "stop_id": 4040,
+                "stop_name": "SE Mt Scott & 98th",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56268066602827,
+                    45.466426521913206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 6000,
+                "stop_id": 10307,
+                "stop_name": "SE Flavel & 92nd",
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56721618251795,
+                    45.46846495235634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 9709,
+                "stop_name": "NE Glisan & 28th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63765999194099,
+                    45.52655470447509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 13194,
+                "stop_name": "NE Glisan & 24th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64127717830539,
+                    45.52656307192673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 5063,
+                "stop_name": "NE Sandy & 20th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64508938177296,
+                    45.52615896340769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 5062,
+                "stop_name": "NE Sandy & 18th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64792606108277,
+                    45.525109657189454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 5060,
+                "stop_name": "NE Sandy & 16th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64936718867233,
+                    45.5245809276325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 7631,
+                "stop_name": "SW 5th & Pine",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6758265758323,
+                    45.52224017989126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 7594,
+                "stop_name": "SW 5th & Columbia",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6801128747706,
+                    45.51429717055881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 7602,
+                "stop_name": "SW 5th & Harrison",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68192315550095,
+                    45.51093867513658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 7588,
+                "stop_name": "SW 5th & Broadway",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68385035369091,
+                    45.50708320964193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 10861,
+                "stop_name": "Gateway Transit Center",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56338507794365,
+                    45.53065539948191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 13328,
+                "stop_name": "NE Couch & 12th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6533914379408,
+                    45.52366100895446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 13329,
+                "stop_name": "NE Couch & 7th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65854936345006,
+                    45.5236910742134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 13330,
+                "stop_name": "NE Couch & M L King",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66152442834489,
+                    45.52370256250534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3675,
+                "stop_id": 13781,
+                "stop_name": "SE Bybee & Bybee Blvd MAX Station",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63978000657323,
+                    45.474181819070765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 8141,
+                "stop_name": "99th & Glisan",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56208475148001,
+                    45.52654610631047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 7636,
+                "stop_name": "SW 5th & Stark",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67648371041837,
+                    45.5209454702162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 7640,
+                "stop_name": "SW 5th & Taylor",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67829239231978,
+                    45.51760322230302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 3650,
+                "stop_id": 7172,
+                "stop_name": "SE 23rd & Tolman",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64218877904906,
+                    45.477585039090954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 142,
+                "stop_name": "SW Arthur & 1st",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67899671680749,
+                    45.50363023050336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 19,
+                "dir": 0,
+                "rte_desc": "19-Woodstock/Glisan",
+                "dir_desc": "To Mt. Scott & 112th",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 2153,
+                "stop_name": "NE Glisan & 90th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5711647627934,
+                    45.526440326984016
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,1714 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 13904,
+                "stop_name": "SE 72nd & Clatsop",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58928159437393,
+                    45.46169914641756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 3229,
+                "stop_name": "SE King & Bell",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59256617552664,
+                    45.44792260668507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 395,
+                "stop_name": "SE Bell & Johnson Creek",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59274277518794,
+                    45.455845781060994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 67,
+                "stop_name": "SE Alberta & 70th",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59201332108388,
+                    45.45854002325948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 7881,
+                "stop_name": "SE 72nd & Lexington",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58925292946456,
+                    45.466371225785906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 1743,
+                "stop_name": "SE Flavel & 62nd",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59945879190407,
+                    45.468695093107314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 1737,
+                "stop_name": "SE Flavel & 57th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60469253033754,
+                    45.468701656685944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 7702,
+                "stop_name": "SE 52nd & Ogden",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60987492533698,
+                    45.47109525653507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 7719,
+                "stop_name": "SE 52nd & Tolman",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60863330255465,
+                    45.477424161014255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 7708,
+                "stop_name": "SE 52nd & Reedway",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60864092334828,
+                    45.48171254099011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 7714,
+                "stop_name": "SE 52nd & Steele",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60863922874952,
+                    45.484519273229814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 7669,
+                "stop_name": "SE 52nd & Boise",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60892424540938,
+                    45.49229703127197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 7704,
+                "stop_name": "SE 52nd & Powell",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60895651971408,
+                    45.49716225785062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 7722,
+                "stop_name": "SE 52nd & Taggart Ct",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60893869802035,
+                    45.50183543052869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 7815,
+                "stop_name": "SE 60th & E Burnside",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60222763132705,
+                    45.522737388717665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 7816,
+                "stop_name": "NE 60th & Everett",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6022212470299,
+                    45.525032884189045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 7827,
+                "stop_name": "NE 60th & 60th Ave MAX Stn/I-84",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60209674379907,
+                    45.528986316230046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 7820,
+                "stop_name": "NE 60th & Halsey",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60206390011174,
+                    45.53346026627819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 7734,
+                "stop_name": "NE 57th & Hancock",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60460339341506,
+                    45.536418564712925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 7737,
+                "stop_name": "NE 57th & Sandy",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6045090254141,
+                    45.54267126110438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 9611,
+                "stop_name": "NE 57th & Failing",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6044007372492,
+                    45.551015213804156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3200,
+                "stop_id": 1240,
+                "stop_name": "NE Cully & Prescott",
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60086258519081,
+                    45.5553132972339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3350,
+                "stop_id": 4752,
+                "stop_name": "NE Prescott & 72nd",
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58927227390232,
+                    45.555387316695445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3400,
+                "stop_id": 4756,
+                "stop_name": "NE Prescott & 77th",
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5838354860182,
+                    45.55538541985188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3450,
+                "stop_id": 4760,
+                "stop_name": "NE Prescott & 82nd",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57880779334266,
+                    45.5553688526821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3500,
+                "stop_id": 4762,
+                "stop_name": "NE Prescott & 85th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57576845594126,
+                    45.5553468932793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 989,
+                "stop_name": "SE Causey & 82nd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5785999060739,
+                    45.44136473743908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 3228,
+                "stop_name": "SE King & Fuller",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58006468593555,
+                    45.44710967789784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 394,
+                "stop_name": "SE Bell & Our Ct",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5927527617364,
+                    45.449811825097875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 1755,
+                "stop_name": "SE Flavel & 72nd",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58981525425503,
+                    45.46872666192919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 1749,
+                "stop_name": "SE Flavel & 66th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59511453851492,
+                    45.46871197140728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 1740,
+                "stop_name": "SE Flavel & 60th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6020682965681,
+                    45.4687128362333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 7721,
+                "stop_name": "SE 52nd & Woodstock",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60864012160782,
+                    45.47954211408856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 7690,
+                "stop_name": "SE 52nd & Harold",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60865259519103,
+                    45.48294117718131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 7692,
+                "stop_name": "SE 52nd & Holgate",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60889807218294,
+                    45.48998075601058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 7683,
+                "stop_name": "SE 52nd & Foster",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60894171937532,
+                    45.49534841438275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 7685,
+                "stop_name": "SE 52nd & Franklin",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60895638573477,
+                    45.49924545953682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 7743,
+                "stop_name": "NE 57th & Thompson",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60451700622994,
+                    45.5389964317422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 7740,
+                "stop_name": "NE 57th & Siskiyou",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60448541849476,
+                    45.54527843456243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3050,
+                "stop_id": 7732,
+                "stop_name": "NE 57th & Fremont",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60446162952037,
+                    45.54802525126025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3250,
+                "stop_id": 4744,
+                "stop_name": "NE Prescott & 64th",
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59739167142905,
+                    45.55538289506544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3300,
+                "stop_id": 4748,
+                "stop_name": "NE Prescott & 68th",
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59335059461195,
+                    45.555399776507976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3650,
+                "stop_id": 5146,
+                "stop_name": "NE Sandy & 92nd",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5683738005086,
+                    45.556520524308276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 397,
+                "stop_name": "SE Bell & Pierce",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59276085556496,
+                    45.452460518778175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 1731,
+                "stop_name": "SE Flavel & 52nd",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60981117411576,
+                    45.468715329488916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 7713,
+                "stop_name": "SE 52nd & Schiller",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60874789547508,
+                    45.487830194823125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 7672,
+                "stop_name": "SE 52nd & Clinton",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60889518572412,
+                    45.50373068371735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 7821,
+                "stop_name": "NE 60th & Hassalo",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60209563774548,
+                    45.531298080305966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3550,
+                "stop_id": 4764,
+                "stop_name": "NE Prescott & 88th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57242266381475,
+                    45.55563118004268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 7680,
+                "stop_name": "SE 52nd & Duke",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60863981234469,
+                    45.47570946775261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 12956,
+                "stop_name": "SE King & Cook Ct",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58861799503372,
+                    45.44718359976331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 13024,
+                "stop_name": "SE Flavel & 69th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59214069276487,
+                    45.46870849764011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 12922,
+                "stop_name": "Clackamas Town Center Mall",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57400318580463,
+                    45.43750659455936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 7920,
+                "stop_name": "SE 82nd & Boyer Drive",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57869167935678,
+                    45.44364794717618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 2432,
+                "stop_name": "NE Halsey & 57th",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60453873000016,
+                    45.53377040501125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3700,
+                "stop_id": 10798,
+                "stop_name": "Parkrose/ Sumner Transit Center",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56504319474229,
+                    45.55856492666952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 3254,
+                "stop_name": "SE King & 77th",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58408136871923,
+                    45.44713000524955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 7891,
+                "stop_name": "SE 72nd & Tenino",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58927840952802,
+                    45.46426145002631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3600,
+                "stop_id": 5051,
+                "stop_name": "NE Sandy & Prescott",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56970385586033,
+                    45.55598185089806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 7675,
+                "stop_name": "SE 52nd & Cooper",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60932786605905,
+                    45.47377067600265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 7818,
+                "stop_name": "NE 60th & Glisan",
+                "jurisdic": "Portland",
+                "zipcode": "97213",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60217718887513,
+                    45.52634682457958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 1244,
+                "stop_name": "NE Cully & Mason",
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60305396019719,
+                    45.55267430529455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 8659,
+                "stop_name": "SE 90th & Monterey",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57090836236587,
+                    45.4388947411699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 8677,
+                "stop_name": "SE 90th & Causey",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57110945563409,
+                    45.44112458468244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 984,
+                "stop_name": "8600 Block SE Causey",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57349106225891,
+                    45.44130887244097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 7678,
+                "stop_name": "SE 52nd & Division",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60890672424269,
+                    45.50514324014579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 7695,
+                "stop_name": "SE 52nd & Lincoln",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60900369358278,
+                    45.50784948037507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 3403,
+                "stop_name": "SE Lincoln & 57th",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6051035966647,
+                    45.50800488633707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 13249,
+                "stop_name": "SE 60th & Harrison",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60172157473981,
+                    45.50850076057577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 7823,
+                "stop_name": "SE 60th & Hawthorne",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60180149001397,
+                    45.511843804785315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 7830,
+                "stop_name": "SE 60th & Salmon",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60185300645587,
+                    45.51399955023868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 7812,
+                "stop_name": "SE 60th & Belmont",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60194540918668,
+                    45.51714737983494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 7832,
+                "stop_name": "SE 60th & Stark",
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60200485029839,
+                    45.519156630339616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 71,
+                "dir": 1,
+                "rte_desc": "71-60th Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 13248,
+                "stop_name": "Clackamas Town Center Transit Center",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56870745294735,
+                    45.43566941948304
+                ]
+            }
+        }
+    ]
+}

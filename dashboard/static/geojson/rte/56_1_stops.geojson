@@ -1,0 +1,1162 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 5173,
+                "stop_name": "SW Scholls Ferry & Eagle",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77858416647875,
+                    45.46379584201737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 5158,
+                "stop_name": "6700 Block SW Scholls Ferry",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77468060419929,
+                    45.47119143897775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 5206,
+                "stop_name": "SW Scholls Ferry & 92nd",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77143910635635,
+                    45.47243365651097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 5201,
+                "stop_name": "SW Scholls Ferry & 86th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7651433323954,
+                    45.47430878884749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 5187,
+                "stop_name": "SW Scholls Ferry & Nicol",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76079777203694,
+                    45.48046281644769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 5193,
+                "stop_name": "5100 Block SW Scholls Ferry",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75555695735864,
+                    45.4830171929045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 5186,
+                "stop_name": "SW Scholls Ferry & Stephen Lane",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75177251101746,
+                    45.48475142377403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 348,
+                "stop_name": "SW Beaverton-Hillsdale & Oleson",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7484141365834,
+                    45.48613280235957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 383,
+                "stop_name": "6500 Block SW Beaverton-Hillsdale",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7443996196774,
+                    45.486955673438814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 382,
+                "stop_name": "SW Beaverton-Hillsdale & 62nd",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74058056077762,
+                    45.48696228002989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 351,
+                "stop_name": "SW Beaverton-Hillsdale & Shattuck",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73218534227077,
+                    45.486929931325434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 377,
+                "stop_name": "SW Beaverton-Hillsdale & 50th",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72843437695933,
+                    45.48691644004527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 375,
+                "stop_name": "SW Beaverton-Hillsdale & 45th",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72217559398472,
+                    45.48557933459367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 373,
+                "stop_name": "SW Beaverton-Hillsdale & 42nd",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71988126414124,
+                    45.48536438717192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 369,
+                "stop_name": "SW Beaverton-Hillsdale & 35th",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71266750688078,
+                    45.48263676478535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 368,
+                "stop_name": "SW Beaverton-Hillsdale & 33rd",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71051381077342,
+                    45.481762719703006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 364,
+                "stop_name": "SW Beaverton-Hillsdale & 25th",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7021924513209,
+                    45.47986980172551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 925,
+                "stop_name": "SW Capitol & Bertha Ct",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69636752797885,
+                    45.478080071921895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 156,
+                "stop_name": "4900 Block SW Barbur",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68251463988021,
+                    45.48767712840083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2475,
+                "stop_id": 1930,
+                "stop_name": "SW Naito Parkway & Hooker",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67762997014245,
+                    45.502166097086864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 5168,
+                "stop_name": "SW Scholls Ferry & Crestwood",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78032578994987,
+                    45.46051261856791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 328,
+                "stop_name": "SW Beaverton-Hillsdale & 59th",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73782014700613,
+                    45.48694794321365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2100,
+                "stop_id": 325,
+                "stop_name": "2600 Block SW Beaverton-Hillsdale",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70412602213209,
+                    45.48022129635561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 9649,
+                "stop_name": "Washington Square Transit Center",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77880878710533,
+                    45.45254305190195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 5160,
+                "stop_name": "8600 Block SW Scholls Ferry",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7817366746997,
+                    45.45778703239522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 5170,
+                "stop_name": "SW Scholls Ferry & Crystal",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77945084484907,
+                    45.46212791440025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 5175,
+                "stop_name": "SW Scholls Ferry & Heather",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77640924553798,
+                    45.46795015431151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 326,
+                "stop_name": "3600 Block SW Beaverton-Hillsdale",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71481326168188,
+                    45.48359700994034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 336,
+                "stop_name": "SW Beaverton-Hillsdale & Bertha",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7008339842355,
+                    45.479160173452534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2451,
+                "stop_id": 172,
+                "stop_name": "SW Barbur & Hamilton",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67772473005715,
+                    45.49118599251002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 367,
+                "stop_name": "SW Beaverton-Hillsdale & 30th",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70794408906752,
+                    45.48150096201529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 5182,
+                "stop_name": "SW Scholls Ferry & Merry",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77576840981516,
+                    45.469236697406025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 5203,
+                "stop_name": "SW Scholls Ferry & 88th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76722458795895,
+                    45.472938203596534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 5185,
+                "stop_name": "SW Scholls Ferry & Montclair",
+                "jurisdic": "Beaverton",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.75717122742981,
+                    45.48225153965104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 379,
+                "stop_name": "SW Beaverton-Hillsdale & 56th",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73490228732763,
+                    45.48693096543604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 371,
+                "stop_name": "SW Beaverton-Hillsdale & 39th Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97221",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71739733455652,
+                    45.484738684729486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 956,
+                "stop_name": "SW Capitol & Terwilliger",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68728093043626,
+                    45.480041116149245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 5156,
+                "stop_name": "5900 Block SW Scholls Ferry (Crosswalk)",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97225",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76348428322272,
+                    45.47735299719292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 929,
+                "stop_name": "SW Capitol & Sunset",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69285640366002,
+                    45.47879137447434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 5204,
+                "stop_name": "SW Scholls Ferry & 90th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76972218027915,
+                    45.472540710403926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 5181,
+                "stop_name": "SW Scholls Ferry & Marjorie",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77793433302864,
+                    45.46496165252451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 5162,
+                "stop_name": "SW Scholls Ferry & Allen",
+                "jurisdic": "Beaverton",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77318269800874,
+                    45.472313447942234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 2567,
+                "stop_name": "200 Block SW Harrison",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67892997079143,
+                    45.5101399525243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 11486,
+                "stop_name": "SW 6th & Columbia",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68109464303541,
+                    45.51426672816955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 7789,
+                "stop_name": "SW 6th & Salmon",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6796872017895,
+                    45.5169337336621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 7803,
+                "stop_name": "SW 6th & Washington",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67785941932118,
+                    45.52024400391965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 13170,
+                "stop_name": "SW Broadway & W Burnside",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67723157892466,
+                    45.52289741395974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 6175,
+                "stop_name": "SW Eliander & One Embassy Centre",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78034509738379,
+                    45.45472688235474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 2295,
+                "stop_name": "SW Hall & Scholls Ferry",
+                "jurisdic": "Beaverton",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.78213975668409,
+                    45.456841660478645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 56,
+                "dir": 1,
+                "rte_desc": "56-Scholls Ferry Rd",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 13305,
+                "stop_name": "SW Harrison & 6th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68264818379633,
+                    45.51105825464803
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,2036 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 3725,
+                "stop_id": 13248,
+                "stop_name": "Clackamas Town Center Transit Center",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56870745294735,
+                    45.43566941948304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1875,
+                "stop_id": 13654,
+                "stop_name": "20300 Block SE Hwy 224",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.45368958226119,
+                    45.385385920484644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1215,
+                "stop_id": 13657,
+                "stop_name": "SE Hwy 224 & McPartland",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36755793905691,
+                    45.364188919415994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1175,
+                "stop_id": 13496,
+                "stop_name": "SE Hwy 224 & Dowty Rd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36385453138902,
+                    45.36166414160493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4600,
+                "stop_id": 8223,
+                "stop_name": "SE Jackson & Main St",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64126935766649,
+                    45.44489587210286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 775,
+                "stop_id": 10275,
+                "stop_name": "27500 Block SE Eagle Creek Rd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.34332156948821,
+                    45.32390812940873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 3650,
+                "stop_id": 13247,
+                "stop_name": "Clackamas Town Center TC",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56813401888508,
+                    45.43555507416446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1325,
+                "stop_id": 13632,
+                "stop_name": "Hwy 224  & Paul Bunyan Ln",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.37712476428334,
+                    45.372943019119624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 3724,
+                "stop_name": "SE Main & 4th",
+                "jurisdic": "Estacada",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33409573944716,
+                    45.286234414373105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 1252,
+                "stop_name": "SE Currin & Hwy 211-224",
+                "jurisdic": "Estacada",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3330097991993,
+                    45.28522650615391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 8315,
+                "stop_name": "SE Main & 3rd",
+                "jurisdic": "Estacada",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33394786763412,
+                    45.287382589984404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 9429,
+                "stop_name": "SE Main & E 1st",
+                "jurisdic": "Estacada",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33384362418612,
+                    45.28958636628549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 8838,
+                "stop_name": "NE Main & 3rd",
+                "jurisdic": "Estacada",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33377451697001,
+                    45.29178889846146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 7750,
+                "stop_name": "NE 6th & N Broadway",
+                "jurisdic": "Estacada",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3348150070559,
+                    45.29459674961386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 8722,
+                "stop_name": "600 Block NW Wade",
+                "jurisdic": "Estacada",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33767553643361,
+                    45.2954928263022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 8857,
+                "stop_name": "800 Block NW Wade",
+                "jurisdic": "Estacada",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3378231306001,
+                    45.29684250609924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 9520,
+                "stop_name": "SE Eagle Creek Rd & Hinman",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33862199561828,
+                    45.30409631688376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 7745,
+                "stop_name": "29900 Block SE Eagle Creek Rd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33927895318355,
+                    45.30716873945128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 9562,
+                "stop_name": "29200 Block SE Eagle Creek Rd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3413857196494,
+                    45.31144327568944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 10836,
+                "stop_name": "SE Eagle Creek Rd & Duus Rd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.34304670428654,
+                    45.31537061041172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 1557,
+                "stop_name": "28400 Block SE Eagle Creek Rd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.34311833802992,
+                    45.317728003072126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 1555,
+                "stop_name": "SE Eagle Creek Rd & Currin",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.34633893985217,
+                    45.33248916720497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 1558,
+                "stop_name": "25800 Block SE Eagle Creek Rd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.34603879834852,
+                    45.336200738005395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 1568,
+                "stop_name": "SE Eagle Creek Rd & Wildcat Mtn",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.34669133373984,
+                    45.34603378227283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 1565,
+                "stop_name": "SE Eagle Creek Rd & Risberg",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.34778324152977,
+                    45.348012045118224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 1564,
+                "stop_name": "SE Eagle Creek Rd & Hwy 211",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.35438655208338,
+                    45.358864100605274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 2819,
+                "stop_name": "29800 Block SE Hwy 211",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3559265794047,
+                    45.35882477868197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 8824,
+                "stop_name": "SE Hwy 224 & Hwy 211",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.35916700931078,
+                    45.35803910059235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 8947,
+                "stop_name": "28400 Block SE Hwy 224",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.37081165485387,
+                    45.36725986322809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 9312,
+                "stop_name": "SE Hwy 224 & Suttle Rd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.37523217245077,
+                    45.371487092341205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 9322,
+                "stop_name": "27600 Block SE Hwy 224",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.37900878200335,
+                    45.3743475814512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 2878,
+                "stop_name": "SE Hwy 224 & Bartlemay",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38415639432858,
+                    45.3782900370466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 9641,
+                "stop_name": "SE Hwy 224 & Sherman Cooper",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3874593194506,
+                    45.38077227752439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 10501,
+                "stop_name": "26300 Block SE Hwy 224",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39214481401373,
+                    45.383648335740034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 2876,
+                "stop_name": "SE Hwy 224 & Amisigger Rd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97022",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39608741458224,
+                    45.386077701624444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 2880,
+                "stop_name": "SE Hwy 224 & Barton Church",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97009",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40151459924135,
+                    45.38751922408352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 2882,
+                "stop_name": "SE Hwy 224 & Bakers Ferry Rd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97009",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40778599969873,
+                    45.389457361627606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 8420,
+                "stop_name": "SE Hwy 224 & 232nd Dr",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42314056458109,
+                    45.394477436970234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 10185,
+                "stop_name": "22600 Block SE Hwy 224",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43000741722197,
+                    45.39261274138188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 10647,
+                "stop_name": "22000 Block SE Hwy 224",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.43603283223416,
+                    45.39042609429036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 8721,
+                "stop_name": "21700 Block SE Hwy 224",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4404312815578,
+                    45.387043040967605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 8735,
+                "stop_name": "20000 Block SE Hwy 224",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.45622880406805,
+                    45.3869950851999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 2913,
+                "stop_name": "SE Hwy 224 & 197th",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.46002985429958,
+                    45.38878590287385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 12936,
+                "stop_name": "19000 Block SE Hwy 224",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.46101587591723,
+                    45.3930621421184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 2898,
+                "stop_name": "SE Hwy 224 & Marna",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.46222708736397,
+                    45.39511811777663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 8795,
+                "stop_name": "17700 Block SE Hwy 224",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.48057671003134,
+                    45.395565447524135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 13113,
+                "stop_name": "17500 Block SE Hwy 224",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4835903445955,
+                    45.396381816381506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 8736,
+                "stop_name": "17300 Block SE Hwy 224",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4851245297157,
+                    45.39685690498894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 10695,
+                "stop_name": "SE Hwy 224 & Eilers Circle",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.48699235228342,
+                    45.396557451338495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 2884,
+                "stop_name": "16400 Block SE Hwy 224",
+                "jurisdic": "Happy Valley",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.49439859319268,
+                    45.3943299896023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 2874,
+                "stop_name": "SE Hwy 224 & Springwater Rd",
+                "jurisdic": "Happy Valley",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.49674986300113,
+                    45.39469186026691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 2886,
+                "stop_name": "16000 Block SE Hwy 224",
+                "jurisdic": "Happy Valley",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.49893238133673,
+                    45.396651769186384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 2873,
+                "stop_name": "15700 Block SE Hwy 224",
+                "jurisdic": "Happy Valley",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.50012905849965,
+                    45.40124008775816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 2896,
+                "stop_name": "SE Hwy 224 & Hwy 212",
+                "jurisdic": "Happy Valley",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.50489782836807,
+                    45.40942560564209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 2911,
+                "stop_name": "SE Hwy 224 & 152nd",
+                "jurisdic": "Happy Valley",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5075753659144,
+                    45.409834062535325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 2909,
+                "stop_name": "SE Hwy 224 & 142nd",
+                "jurisdic": "Happy Valley",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5173486475499,
+                    45.41030288350524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 8830,
+                "stop_name": "SE Hwy 224 & 135th",
+                "jurisdic": "Happy Valley",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52438912413433,
+                    45.41061543008602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 2890,
+                "stop_name": "SE Hwy 212 & 130th",
+                "jurisdic": "Happy Valley",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53027880680676,
+                    45.40919919907527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 11931,
+                "stop_name": "12700 Block SE Hwy 212",
+                "jurisdic": "Happy Valley",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53302652053239,
+                    45.40850941477825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 2905,
+                "stop_name": "SE Hwy 212 & 122nd",
+                "jurisdic": "Happy Valley",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53871289915281,
+                    45.408046321276196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 2892,
+                "stop_name": "11400 Block SE Hwy 212",
+                "jurisdic": "Happy Valley",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54481606123544,
+                    45.408008578221455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 2899,
+                "stop_name": "10700 Block SE Hwy 212",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55188250335857,
+                    45.407972782656906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 3050,
+                "stop_id": 2889,
+                "stop_name": "SE Hwy 212 & 102nd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55927971950248,
+                    45.40788444657526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 2915,
+                "stop_name": "SE Hwy 212 & 82nd Dr",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56734666582005,
+                    45.40760688015271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 3600,
+                "stop_id": 12921,
+                "stop_name": "Clackamas Town Center Mall",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57331242700951,
+                    45.43731032921991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4000,
+                "stop_id": 4937,
+                "stop_name": "SE Roots & Johnson",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5757141519653,
+                    45.406435116364285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4050,
+                "stop_id": 4938,
+                "stop_name": "SE Roots & Lark",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58035029817137,
+                    45.40654033698615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4100,
+                "stop_id": 4934,
+                "stop_name": "SE Roots & 79th",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58294529847609,
+                    45.40657361939191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4150,
+                "stop_id": 4941,
+                "stop_name": "SE Roots & Rickshire",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58468568787113,
+                    45.40658644578775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4200,
+                "stop_id": 4943,
+                "stop_name": "SE Webster & Roots",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58814707916012,
+                    45.40679359359484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4250,
+                "stop_id": 6187,
+                "stop_name": "SE Webster & Bixel",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59002524107554,
+                    45.40997661222655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4300,
+                "stop_id": 6191,
+                "stop_name": "SE Webster & Clackamas",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59040286970786,
+                    45.41114024110191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4350,
+                "stop_id": 6195,
+                "stop_name": "SE Webster & Cypress",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59098020242341,
+                    45.4129130505418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4400,
+                "stop_id": 6211,
+                "stop_name": "SE Webster & Thiessen",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59261042761901,
+                    45.41552955345489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 1561,
+                "stop_name": "SE Eagle Creek Rd & Heiple Rd",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97023",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3433298816449,
+                    45.322041640083725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4450,
+                "stop_id": 6207,
+                "stop_name": "SE Webster & Pine Creek",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59323687849813,
+                    45.41844964321692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4500,
+                "stop_id": 6209,
+                "stop_name": "SE Webster & Savanna",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5931722041622,
+                    45.42190232902221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4550,
+                "stop_id": 6199,
+                "stop_name": "SE Webster & Lake",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59299740769191,
+                    45.42336782749581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 3450,
+                "stop_id": 11251,
+                "stop_name": "SE 82nd & Sunnybrook",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97015",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57897248212643,
+                    45.430730158317076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 3500,
+                "stop_id": 8049,
+                "stop_name": "SE 82nd & Sunnyside",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57903500585111,
+                    45.43296041564813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 3550,
+                "stop_id": 8005,
+                "stop_name": "SE 82nd & McBride",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57891625796285,
+                    45.43576731287486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2533,
+                "stop_id": 13662,
+                "stop_name": "SE Hwy 224 & Eckert Ln",
+                "jurisdic": "Happy Valley",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5004491328228,
+                    45.402851372349616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 2566,
+                "stop_id": 13663,
+                "stop_name": "SE Hwy 224 & Goosehollow",
+                "jurisdic": "Happy Valley",
+                "zipcode": "97089",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.50193908383972,
+                    45.40573633142654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4700,
+                "stop_id": 2171,
+                "stop_name": "SE Grand & Mill",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66070168003459,
+                    45.51000338118201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4750,
+                "stop_id": 11956,
+                "stop_name": "SW Main & 2nd",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67556642584668,
+                    45.51526245975885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4800,
+                "stop_id": 7800,
+                "stop_name": "SW 6th & Taylor",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67931555136092,
+                    45.517604401611294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4850,
+                "stop_id": 7797,
+                "stop_name": "SW 6th & Stark",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67752142826664,
+                    45.520930667478005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 30,
+                "dir": 1,
+                "rte_desc": "30-Estacada",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 4900,
+                "stop_id": 7751,
+                "stop_name": "SW 6th & W Burnside",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67641501100556,
+                    45.5228802354845
+                ]
+            }
+        }
+    ]
+}

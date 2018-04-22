@@ -1,0 +1,909 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 10859,
+                "stop_name": "Gresham Transit Center",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42684015281966,
+                    45.503008446872194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 13211,
+                "stop_name": "NE Hood & 5th",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42802415464328,
+                    45.50110041466277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 13033,
+                "stop_name": "NE Hood & 2nd",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42783210484413,
+                    45.4986156107445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 13474,
+                "stop_name": "E Powell & NE Elliott",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42487589777599,
+                    45.49792180587593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 4520,
+                "stop_name": "E Powell & SE Cleveland",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42120863394386,
+                    45.497921229406295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 4531,
+                "stop_name": "E Powell & NE Liberty",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41872342090102,
+                    45.49788756144337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 4529,
+                "stop_name": "E Powell & SE Hogan",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4145805151787,
+                    45.49784405683129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 4639,
+                "stop_name": "E Powell & SE 3rd",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41210891668347,
+                    45.49575827846442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 4545,
+                "stop_name": "E Powell & SE Rene",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40972889785421,
+                    45.49432774232999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 4713,
+                "stop_name": "2800 Block SE Powell Valley",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40351736523203,
+                    45.493066662706106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 4715,
+                "stop_name": "SE Powell Valley & Hale",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40124904933354,
+                    45.4925435892365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 13554,
+                "stop_name": "SE 257th/Kane & 11th",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39865320137169,
+                    45.489112289482506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 4231,
+                "stop_name": "SE Orient Dr & 14th",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39717691617528,
+                    45.485931306092446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 9233,
+                "stop_name": "SE Orient Dr & 262nd",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3949789476351,
+                    45.48401770656219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 13555,
+                "stop_name": "SE Orient Dr & Chase",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38873068737006,
+                    45.47850497050118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 4230,
+                "stop_name": "SE Orient Dr & Welch Rd",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38541867530128,
+                    45.47569194580469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 13560,
+                "stop_name": "SE 282nd & Welch Rd",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.37261993143262,
+                    45.47603816005694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 7297,
+                "stop_name": "SE 282nd & Chase",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3725895773465,
+                    45.47907222891107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 13561,
+                "stop_name": "SE 282nd & Salquist Flag Stop",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3725962048627,
+                    45.482822652235626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 13562,
+                "stop_name": "Powell Valley & Old Woods Lp Flag Stop",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.37692142120686,
+                    45.48831882316518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 4719,
+                "stop_name": "SE Powell Valley & Dogwood",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38351464421588,
+                    45.490260132657724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 8945,
+                "stop_name": "SE Powell Valley & Greenway",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38849573431055,
+                    45.490481862719925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 9383,
+                "stop_name": "SE Powell Valley & Barnes Flag Stop",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39312498625185,
+                    45.49038962752699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 4720,
+                "stop_name": "SE Powell Valley & Robin",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40177601676223,
+                    45.49289829706929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 4714,
+                "stop_name": "2800 Block SE Powell Valley",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4034893873973,
+                    45.49329047344233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 4518,
+                "stop_name": "E Powell & SE Burnside",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40753016483934,
+                    45.49417727541525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 4546,
+                "stop_name": "E Powell & SE Rene",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40981915494544,
+                    45.49456740227732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 4638,
+                "stop_name": "E Powell & SE 3rd",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41196637825978,
+                    45.49611265276151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 4528,
+                "stop_name": "E Powell & NE Hogan",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41377838848696,
+                    45.49795070894337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 8461,
+                "stop_name": "E Powell & NE Liberty",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41826568738438,
+                    45.49811934464821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 4521,
+                "stop_name": "E Powell & NE Cleveland",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42177655184315,
+                    45.498150599032506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 13473,
+                "stop_name": "E Powell & NE Elliott",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42448236169089,
+                    45.49817180608789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 10657,
+                "stop_name": "NE Hood & 2nd",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42762496638312,
+                    45.49886816296153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 10654,
+                "stop_name": "NE Hood & 5th",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42792239405927,
+                    45.500912591520034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 13506,
+                "stop_name": "Gresham Transit Center",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42772042672503,
+                    45.502842852335476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 10859,
+                "stop_name": "Gresham Transit Center",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42684015281966,
+                    45.503008446872194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 13475,
+                "stop_name": "SE 257th/Kane & Powell Valley",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39898274410898,
+                    45.491469844618216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 13650,
+                "stop_name": "SE Orient Dr & Elsa St",
+                "jurisdic": "Multnomah Co.",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.37595725853346,
+                    45.47153812124576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 84,
+                "dir": 0,
+                "rte_desc": "84-Powell Valley/Orient Dr",
+                "dir_desc": "Evening Loop",
+                "type": "BUS",
+                "stop_seq": 1075,
+                "stop_id": 13867,
+                "stop_name": "SE 282nd & Powell Valley",
+                "jurisdic": "Gresham",
+                "zipcode": "97080",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3726102332496,
+                    45.48781666950032
+                ]
+            }
+        }
+    ]
+}

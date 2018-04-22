@@ -1,0 +1,1438 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 2672,
+                "stop_name": "Hillsboro Transit Center",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98468273984989,
+                    45.52146052515406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 100,
+                "stop_id": 4123,
+                "stop_name": "SE Oak & 7th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97925064121034,
+                    45.518688762355794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 6502,
+                "stop_name": "SE 10th & Baseline",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97376034537868,
+                    45.519859778615334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 8552,
+                "stop_name": "SE 10th & E Main",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97372726114561,
+                    45.52174838982795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 3688,
+                "stop_name": "E Main & SE 12th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97044265765105,
+                    45.521827378469865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 8514,
+                "stop_name": "E Main & NE 14th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96814918205945,
+                    45.52167201771135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 3712,
+                "stop_name": "E Main & SE 18th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96332991023102,
+                    45.521312826383046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 3717,
+                "stop_name": "E Main & SE 24th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.95829636912272,
+                    45.520955174929256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 3719,
+                "stop_name": "E Main & SE 28th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9547662256932,
+                    45.52071173528875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 13548,
+                "stop_name": "E Main & SE 33rd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.94910062102977,
+                    45.51986335597955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 302,
+                "stop_name": "E Main & SE 37th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9447271930867,
+                    45.51987040485278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 306,
+                "stop_name": "E Main & NE 40th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.94066995917782,
+                    45.51983948348108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 261,
+                "stop_name": "E Main & SE Brookwood",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.93727687119433,
+                    45.519805252405675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 10051,
+                "stop_name": "E Main (W Baseline) & NE 49th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.93207909744434,
+                    45.519793968067354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 10050,
+                "stop_name": "E Main (W Baseline) & NE 53rd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.92927890933201,
+                    45.519803755473056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 10049,
+                "stop_name": "E Main (W Baseline) & SE 58th Ct",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.92196471113678,
+                    45.519785195436064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 11770,
+                "stop_name": "E Main (W Baseline) & NE 63rd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91746516205883,
+                    45.51993739450092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 10054,
+                "stop_name": "NE Century (NW 231st) & Deer Run",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9145995263925,
+                    45.522302031832915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 10154,
+                "stop_name": "NE Century (NW 231st) & Oelrich",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91459424036007,
+                    45.52382008203421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 10053,
+                "stop_name": "NE Century (NW 231st) & Dogwood",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91463189334077,
+                    45.5266327097356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 10033,
+                "stop_name": "NE Century (NW 231st) & Alder/Orenco Stn",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91458428925627,
+                    45.530132842905815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 8643,
+                "stop_name": "NE Century (NW 229th) & Cornell",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91180891899235,
+                    45.53467220599452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 10155,
+                "stop_name": "NE Century (NW 229th) & Walbridge",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9101908557288,
+                    45.53686440973777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 9614,
+                "stop_name": "NE Century (NW 229th) & Butler",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.90865231050063,
+                    45.538673795007746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 13163,
+                "stop_name": "NE Century (NW 229th) & Intel South Drwy",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.90868222568416,
+                    45.54300928460818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 9603,
+                "stop_name": "2500 Block NE Century (NW 229th)",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.90968400080253,
+                    45.54625177140405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 9791,
+                "stop_name": "NE Century (NW 229th) & Evergreen Pkwy",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.90996012469624,
+                    45.550089289169534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 10941,
+                "stop_name": "NE Evergreen Pkwy & Imbrie Dr",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.90841966720927,
+                    45.54912392925567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 8539,
+                "stop_name": "NE Evergreen Pkwy & NW Atkeson Ln",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.90656170032035,
+                    45.54726027702925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 8505,
+                "stop_name": "NE Evergreen Pkwy & Cornelius Pass Rd",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.90110881649517,
+                    45.54624134611982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 9602,
+                "stop_name": "NW Evergreen Pkwy & 215th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8978197980508,
+                    45.54620182491924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 8562,
+                "stop_name": "NW Evergreen Pkwy & Aloclek Dr",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.89081736166101,
+                    45.54560950712776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 8647,
+                "stop_name": "20500 Block NW Evergreen Pkwy",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88802968673112,
+                    45.545540865424435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 8563,
+                "stop_name": "NW Evergreen Pkwy & John Olsen",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88188537022741,
+                    45.543614456089166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 10458,
+                "stop_name": "NW Evergreen Pkwy & 196th Terrace",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87901128524369,
+                    45.54255296845305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 8408,
+                "stop_name": "NW Evergreen Pkwy & 194th Terrace",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8759575606669,
+                    45.54136617570027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 8409,
+                "stop_name": "NW Evergreen Pkwy & Tanasbourne Terr",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87341132052029,
+                    45.539274363341164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 10056,
+                "stop_name": "NW Evergreen Pkwy & 188th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87038775392661,
+                    45.538038294860606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2375,
+                "stop_id": 13691,
+                "stop_name": "NW Laidlaw & West Union",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85282698752499,
+                    45.55333440864169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 13692,
+                "stop_name": "NW 174th & Parkview",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85530078862413,
+                    45.54103636395046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 13676,
+                "stop_name": "3100 Block NW Bronson",
+                "jurisdic": "Beaverton",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86644869649741,
+                    45.54234084081214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 6904,
+                "stop_name": "NW 174th & Santiam",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85532426336364,
+                    45.538734295003074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 13678,
+                "stop_name": "NW 174th & Bethany Elem School",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85588988890024,
+                    45.5434584070035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 13679,
+                "stop_name": "NW 174th & Lone Rock",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85594095149439,
+                    45.5462876145758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 13680,
+                "stop_name": "NW Laidlaw & Emerald Canyon",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85432601830281,
+                    45.55075334232473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2400,
+                "stop_id": 13681,
+                "stop_name": "NW Laidlaw & Cove",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8517630237386,
+                    45.55670980235623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2450,
+                "stop_id": 13682,
+                "stop_name": "NW Laidlaw & 167th Pl",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84810379313852,
+                    45.55761596872749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 13683,
+                "stop_name": "NW Laidlaw & Preakness",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84379275889093,
+                    45.55714145414981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 13685,
+                "stop_name": "NW Laidlaw & Bethany",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83757034404415,
+                    45.55579883273277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 10094,
+                "stop_name": "NW Bethany & Kaiser Rd",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83434347218814,
+                    45.559704977109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 10076,
+                "stop_name": "NW Kaiser & Snowlily Dr",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83485083547042,
+                    45.56254381309577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 10077,
+                "stop_name": "NW Kaiser & Two Ponds Dr",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83559763246,
+                    45.56513812307915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 10078,
+                "stop_name": "15500 Block NW Springville",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83728638096808,
+                    45.56610216100448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2850,
+                "stop_id": 10079,
+                "stop_name": "NW Springville & 160th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84240091803363,
+                    45.565293461674116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2900,
+                "stop_id": 10080,
+                "stop_name": "NW Springville & Sickle Terrace",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84571298314864,
+                    45.56481861872626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 10081,
+                "stop_name": "NW Springville & Joss",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84804329206641,
+                    45.56420685719137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 10082,
+                "stop_name": "NW Springville & Samuel Drive",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85203488166499,
+                    45.56308076939717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 3050,
+                "stop_id": 10083,
+                "stop_name": "NW Springville & 173rd",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85585471964444,
+                    45.563012794454046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 3100,
+                "stop_id": 10165,
+                "stop_name": "NW Springville & PCC Drive",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85921283111196,
+                    45.5631165080405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 3150,
+                "stop_id": 4429,
+                "stop_name": "PCC Rock Creek Main Stop",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97229",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85942626408942,
+                    45.566013935676864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1075,
+                "stop_id": 9923,
+                "stop_name": "NE Orenco Station Loop & MAX Station",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91609839531252,
+                    45.53040056136294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 47,
+                "dir": 1,
+                "rte_desc": "47-Baseline/Evergreen",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 10052,
+                "stop_name": "NE Century (NW 231st) & Campus Way",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91246835885025,
+                    45.53242628676166
+                ]
+            }
+        }
+    ]
+}

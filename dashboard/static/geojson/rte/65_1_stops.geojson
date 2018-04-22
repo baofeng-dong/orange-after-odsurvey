@@ -1,0 +1,633 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 11211,
+                "stop_name": "SW Bertha & Barbur",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68911100704034,
+                    45.47102049004149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 871,
+                "stop_name": "SW Campus Dr & Loading Dock 5",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68514079906792,
+                    45.498877205177884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 5786,
+                "stop_name": "SW Terwilliger & Caldew",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6853471584853,
+                    45.47207927602944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 5800,
+                "stop_name": "SW Terwilliger & Nebraska",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68426527133738,
+                    45.47744899106962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1075,
+                "stop_id": 8455,
+                "stop_name": "SW US Veterans Rd & Bldg #16",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68221997802766,
+                    45.496422146278135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 5032,
+                "stop_name": "SW Sam Jackson Pk & US Veterans",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68716115199705,
+                    45.4990422453083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 5811,
+                "stop_name": "SW Terwilliger & Westwood",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68342933285476,
+                    45.48303632790151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 5749,
+                "stop_name": "SW Taylors Ferry & 7th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68536142696267,
+                    45.463068900704364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1113,
+                "stop_id": 10612,
+                "stop_name": "3515 SW US Veterans Rd",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68652053151125,
+                    45.497025712805616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 5316,
+                "stop_name": "SW Spring Garden & 14th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6928573093781,
+                    45.46354510317407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 7047,
+                "stop_name": "SW 19th & Multnomah",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69723397328026,
+                    45.465594033758194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 5791,
+                "stop_name": "SW Terwilliger & Chestnut",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68397751439785,
+                    45.47418391871436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 5788,
+                "stop_name": "SW Terwilliger & Capitol Hwy",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68701066896033,
+                    45.48001706240458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 5975,
+                "stop_name": "US Veterans Hospital",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68327068056082,
+                    45.49705833364312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1125,
+                "stop_id": 9488,
+                "stop_name": "3505 SW US Veterans Rd",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68815613954092,
+                    45.49735520503008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 5803,
+                "stop_name": "SW Terwilliger & Ralston Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68303458002738,
+                    45.48129647036917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 5796,
+                "stop_name": "SW Terwilliger & Hamilton Terrace",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68124440896041,
+                    45.49341015384548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 5709,
+                "stop_name": "SW Taylors Ferry & 11th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68980382881826,
+                    45.46309877553267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 10848,
+                "stop_name": "SW Barbur & Bertha",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68857845815381,
+                    45.470622355660204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 5795,
+                "stop_name": "SW Terwilliger & Hamilton",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68391332174922,
+                    45.491466394817735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 10176,
+                "stop_name": "700 SW Campus Dr at Doernbecher",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68590102057394,
+                    45.497876895369586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 868,
+                "stop_name": "SW Campus Dr & OHSU Garage F",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68430258691191,
+                    45.49818656225852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 5816,
+                "stop_name": "SW Terwilliger & Carson",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68384346092434,
+                    45.46405923523239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1166,
+                "stop_id": 5028,
+                "stop_name": "SW Sam Jackson Pk & OHSU",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68553545262937,
+                    45.49933602534841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1182,
+                "stop_id": 5027,
+                "stop_name": "SW Sam Jackson Pk & Campus Dr",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68426545105714,
+                    45.50029842339972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 5318,
+                "stop_name": "SW Spring Garden & 17th",
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6955313835863,
+                    45.463553146367545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 65,
+                "dir": 1,
+                "rte_desc": "65-Marquam Hill/Barbur Blvd",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 870,
+                "stop_name": "SW Campus Dr & Terwilliger",
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68257202304342,
+                    45.49910833412137
+                ]
+            }
+        }
+    ]
+}

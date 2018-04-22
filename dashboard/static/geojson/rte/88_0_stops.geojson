@@ -1,0 +1,1415 @@
+{
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 9983,
+                "stop_name": "Beaverton Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8014350233966,
+                    45.49124667141979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 8491,
+                "stop_name": "SW Lombard & 2nd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80038637774867,
+                    45.48528998743178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 3454,
+                "stop_name": "SW Lombard & Allen",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80040038607821,
+                    45.4767219029879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 103,
+                "stop_name": "SW Allen & Hall",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80524275095112,
+                    45.47655390237143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 101,
+                "stop_name": "SW Allen & Erickson",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81232004853557,
+                    45.47654220546929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 680,
+                "stop_id": 8604,
+                "stop_name": "SW Murray & Allen",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8262724495161,
+                    45.47567129228186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 8605,
+                "stop_name": "SW Murray & Davis",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82627040887628,
+                    45.473759283639374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 702,
+                "stop_id": 9323,
+                "stop_name": "SW Murray & Barlow",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82629389105912,
+                    45.46955466546489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 705,
+                "stop_id": 10436,
+                "stop_name": "SW Hart & 149th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8326535371962,
+                    45.4657215645874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 9669,
+                "stop_name": "SW Bany & Tallac Way",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85088099827715,
+                    45.46704682027305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 920,
+                "stop_id": 10274,
+                "stop_name": "SW 170th & Timberland Dr",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85173032395458,
+                    45.47094799798143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 9672,
+                "stop_name": "SW 170th & Oak",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85171371058657,
+                    45.47609350968824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 1657,
+                "stop_name": "17500 Block SW Farmington",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8581801405577,
+                    45.479567618659246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 1689,
+                "stop_name": "SW Farmington & 188th Ct",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8705631814607,
+                    45.473559707781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 1691,
+                "stop_name": "SW Farmington & 192nd",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87439228032676,
+                    45.47187257996684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1650,
+                "stop_id": 7077,
+                "stop_name": "SW 198th & Prospect",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88166042853393,
+                    45.474827241640114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1700,
+                "stop_id": 7092,
+                "stop_name": "SW 198th & Oak",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88166890579853,
+                    45.47649029602742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1800,
+                "stop_id": 7069,
+                "stop_name": "SW 198th & Deline",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88154794374827,
+                    45.48063822825929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 7067,
+                "stop_name": "SW 198th & Celebrity",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88149007712649,
+                    45.482102017229934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 7090,
+                "stop_name": "SW 198th & Trelane",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.880901042868,
+                    45.498649932873285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 7084,
+                "stop_name": "SW 198th & Sandra",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88077916387287,
+                    45.50262608848569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2350,
+                "stop_id": 7094,
+                "stop_name": "SW 198th & York",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8807144471448,
+                    45.504823636583026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2775,
+                "stop_id": 10464,
+                "stop_name": "W Baseline & SW 185th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.867811989169,
+                    45.51552812297725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2750,
+                "stop_id": 269,
+                "stop_name": "W Baseline Rd & SW Willow Creek Dr",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87105502809938,
+                    45.51616259874915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 325,
+                "stop_id": 3581,
+                "stop_name": "SW Lombard & 12th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80040323073261,
+                    45.4785206259312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 3584,
+                "stop_name": "SW Lombard & 5th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80039101974367,
+                    45.483050840679226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 108,
+                "stop_name": "SW Allen & Taralynn",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80923585634844,
+                    45.47653121953573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 105,
+                "stop_name": "SW Allen & Menlo",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81700537413593,
+                    45.47657970396226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 701,
+                "stop_id": 8606,
+                "stop_name": "SW Murray & Kilchis",
+                "jurisdic": "Beaverton",
+                "zipcode": "97008",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82633571679752,
+                    45.47183661440106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 704,
+                "stop_id": 9664,
+                "stop_name": "SW Hart & Dunsmuir",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83066971918396,
+                    45.465721949310385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 9667,
+                "stop_name": "SW Hart & 160th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84077082493269,
+                    45.465726388681155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
+                "stop_id": 9671,
+                "stop_name": "SW 170th & Ivy Glenn",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85172524449544,
+                    45.472546212404666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 1651,
+                "stop_name": "SW Farmington & Kinnaman",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85597195277703,
+                    45.48059931780147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1320,
+                "stop_id": 9674,
+                "stop_name": "SW Farmington & 185th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86699537589129,
+                    45.475647106221764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 7065,
+                "stop_name": "SW 198th & Carlin",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8816502315299,
+                    45.47208154253901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1750,
+                "stop_id": 7082,
+                "stop_name": "SW 198th & Rosa",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88161723628495,
+                    45.47888704648117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1900,
+                "stop_id": 7062,
+                "stop_name": "SW 198th & Butternut",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88144154956447,
+                    45.48411861723965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 7076,
+                "stop_name": "SW 198th & Kinnaman",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88133213722301,
+                    45.48936676703556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2250,
+                "stop_id": 7074,
+                "stop_name": "SW 198th & Johnson",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88083528996881,
+                    45.5002663543449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2651,
+                "stop_id": 7053,
+                "stop_name": "SW 197th & W Baseline",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87944480163766,
+                    45.51502233806026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 675,
+                "stop_id": 114,
+                "stop_name": "SW Allen & 141st",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82137599387413,
+                    45.47656219167514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
+                "stop_id": 9670,
+                "stop_name": "SW 170th & Canby",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85172253255828,
+                    45.4690407183831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1075,
+                "stop_id": 1682,
+                "stop_name": "SW Farmington & 170th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8521690489632,
+                    45.48177807287657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 715,
+                "stop_id": 9665,
+                "stop_name": "SW Hart & 155th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83677649818935,
+                    45.465723102187326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 9673,
+                "stop_name": "SW 170th & Rosa Place",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.851456667112,
+                    45.479306708864435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 7071,
+                "stop_name": "SW 198th & Farmington",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8815740841045,
+                    45.47079919054019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1950,
+                "stop_id": 7087,
+                "stop_name": "SW 198th & Southview",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88139530964547,
+                    45.486533327828596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 3586,
+                "stop_name": "SW Lombard & 9th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80039158458861,
+                    45.480802683055195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 703,
+                "stop_id": 9663,
+                "stop_name": "SW Hart & Forest Dr",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82705448470185,
+                    45.465724540729404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2050,
+                "stop_id": 7060,
+                "stop_name": "SW 198th & Blanton",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88120713794247,
+                    45.49243440286119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 278,
+                "stop_name": "W Baseline Rd & SW 194th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87587671648879,
+                    45.51597378852214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 12945,
+                "stop_name": "SW Lombard & Broadway",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80126358745736,
+                    45.48821095275609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 9668,
+                "stop_name": "SW Hart & 165th",
+                "jurisdic": "Beaverton",
+                "zipcode": "97007",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8456486817401,
+                    45.46572996324991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 1694,
+                "stop_name": "SW Farmington & 196th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87864445844365,
+                    45.47091486861432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 9621,
+                "stop_name": "Willow Creek Transit Center",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87030033899856,
+                    45.517399767850605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 13036,
+                "stop_name": "SW 197th & Alderwood Ct",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87941869825353,
+                    45.51227840144431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2425,
+                "stop_id": 13498,
+                "stop_name": "SW 198th & Rock Rd",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8805835536428,
+                    45.50775567059985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 13499,
+                "stop_name": "3300 Block SW 198th",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88101370673041,
+                    45.496057308378404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 13579,
+                "stop_name": "SW Farmington & Rosa Rd",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85989567275747,
+                    45.47879222487513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 13706,
+                "stop_name": "SW 197th & Limestone Ct",
+                "jurisdic": "Washington Co.",
+                "zipcode": "97003",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87942391459887,
+                    45.50951666419988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 0,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 650,
+                "stop_id": 112,
+                "stop_name": "SW Allen & Wilson",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8196766719075,
+                    45.4765500051024
+                ]
+            }
+        }
+    ]
+}

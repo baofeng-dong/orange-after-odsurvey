@@ -271,7 +271,7 @@ class Helper(object):
 
     @staticmethod
     def getrtejson():
-        d = os.path.join(DIRPATH, '..','static/geojson/rte')
+        d = os.path.join(DIRPATH, '..','static/geojson/orange')
         return [f for f in os.listdir(d)]
 
     @staticmethod

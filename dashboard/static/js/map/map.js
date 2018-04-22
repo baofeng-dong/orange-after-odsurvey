@@ -598,7 +598,7 @@ Map.prototype = {
         this.sidebar = $('#'+sidebarID);
     },
     addGeoJson:function(geojson, map) {
-        var path = base + 'static/geojson/rte/';
+        var path = base + 'static/geojson/';
 
         $.getJSON(path + geojson, function(data) {
             console.log(data);
@@ -618,7 +618,7 @@ Map.prototype = {
         })
     },
     addBoundary:function(geojson, map) {
-        var path = base + 'static/geojson/';
+        var path = base + 'static/geojson/orange/';
 
         $.getJSON(path + geojson, function(data) {
             //console.log(data);

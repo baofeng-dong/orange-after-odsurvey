@@ -241,7 +241,7 @@ class Helper(object):
         web_session = Session()
         directions = web_session.execute("""
             SELECT rte, rte_desc, dir, dir_desc
-            FROM lookup_dir
+            FROM route_directions
             ORDER BY rte, dir;""")
 
         RTE = 0
@@ -256,7 +256,253 @@ class Helper(object):
         return ret_val
 
 
+    @staticmethod
+    def query_map_data(where):
+        ret_val = []
+        query_args = {}
+        where = where
 
+        region = " AND f.q7_orig_region='2' and f.q7_dest_region='2' "
+        validate = " AND f.loc_validated='1' "
+        not_null = " AND f.q5_orig_type is NOT NULL AND f.q6_dest_type is NOT NULL "
+        limit = "limit 2000;"
+
+        query_string = """
+            SELECT 
+                f.rte,
+                r.rte_desc,
+                f.dir,
+                r.dir_desc,
+                CASE
+                    WHEN q5_orig_type = '1' THEN 'Work'
+                    WHEN q5_orig_type = '2' THEN 'Other business'
+                    WHEN q5_orig_type = '3' THEN 'Home'
+                    WHEN q5_orig_type = '4' THEN 'College/University'
+                    WHEN q5_orig_type = '5' THEN 'Airport,Amtrak/Greyhound'
+                    WHEN q5_orig_type = '6' THEN 'Recreation'
+                    WHEN q5_orig_type = '7' THEN 'Medical appointment'
+                    WHEN q5_orig_type = '8' THEN 'Social visit'
+                    WHEN q5_orig_type = '9' THEN 'Personal business'
+                    WHEN q5_orig_type = '10' THEN 'Pick up/drop off'
+                    WHEN q5_orig_type = '11' THEN 'Shopping'
+                    WHEN q5_orig_type = '12' THEN 'Eating out'
+                    WHEN q5_orig_type = '13' THEN 'School (K-12)'
+                    WHEN q5_orig_type = '14' THEN 'Hotel'
+                    WHEN q5_orig_type = '15' THEN 'Sporting event'
+                    WHEN q5_orig_type = '16' THEN 'Other'
+                    else                         ''
+                END AS o_type,
+                CASE
+                    WHEN q6_dest_type = '1' THEN 'Work'
+                    WHEN q6_dest_type = '2' THEN 'Other business'
+                    WHEN q6_dest_type = '3' THEN 'Home'
+                    WHEN q6_dest_type = '4' THEN 'College/University'
+                    WHEN q6_dest_type = '5' THEN 'Airport,Amtrak/Greyhound'
+                    WHEN q6_dest_type = '6' THEN 'Recreation'
+                    WHEN q6_dest_type = '7' THEN 'Medical appointment'
+                    WHEN q6_dest_type = '8' THEN 'Social visit'
+                    WHEN q6_dest_type = '9' THEN 'Personal business'
+                    WHEN q6_dest_type = '10' THEN 'Pick up/drop off'
+                    WHEN q6_dest_type = '11' THEN 'Shopping'
+                    WHEN q6_dest_type = '12' THEN 'Eating out'
+                    WHEN q6_dest_type = '13' THEN 'School (K-12)'
+                    WHEN q6_dest_type = '14' THEN 'Hotel'
+                    WHEN q6_dest_type = '15' THEN 'Sporting event'
+                    WHEN q6_dest_type = '16' THEN 'Other'
+                    else                         ''
+                END AS d_type,
+                f.q7_orig_lat as o_lat,
+                f.q7_orig_lng as o_lng,
+                f.q7_dest_lat as d_lat,
+                f.q7_dest_lng as d_lng,
+                f.q7_board_id,
+                f.q7_alight_id,
+                coalesce(f.q39_zipcode::text, ''),
+                CASE
+                    WHEN q36_age = '1' THEN 'Under 18'
+                    WHEN q36_age = '2' THEN '18-24'
+                    WHEN q36_age = '3' THEN '25-34'
+                    WHEN q36_age = '4' THEN '35-44'
+                    WHEN q36_age = '5' THEN '45-54'
+                    WHEN q36_age = '6' THEN '55-64'
+                    WHEN q36_age = '7' THEN '65 or more'
+                    else                    ''
+                END AS age,
+                CASE 
+                    WHEN q37_gender = '1' THEN 'Female'
+                    WHEN q37_gender = '2' THEN 'Male'
+                    WHEN q37_gender = '3' THEN 'Transgender'
+                    WHEN q37_gender = '4' THEN 'Other'
+                    else                       ''
+                END AS gender,
+                CASE
+                    WHEN q38_income = '1' THEN 'Under $10,000'
+                    WHEN q38_income = '2' THEN '$10,000-$19,999'
+                    WHEN q38_income = '3' THEN '$20,000-$29,999'
+                    WHEN q38_income = '4' THEN '$30,000-$39,999'
+                    WHEN q38_income = '5' THEN '$40,000-$49,999'
+                    WHEN q38_income = '6' THEN '$50,000-$59,999'
+                    WHEN q38_income = '7' THEN '$60,000-$69,999'
+                    WHEN q38_income = '8' THEN '$70,000-$79,999'
+                    WHEN q38_income = '9' THEN '$80,000-$89,999'
+                    WHEN q38_income = '10' THEN '$90,000-$99,999'
+                    WHEN q38_income = '11' THEN '$100,000-$124,999'
+                    WHEN q38_income = '12' THEN '$125,000-$150,000'
+                    WHEN q38_income = '13' THEN 'Over $150,000'
+                    WHEN q38_income = '14' THEN 'Do not know'
+                    else                        ''
+                END AS income,
+                f.time_of_day,
+                to_char(f._date, 'Mon DD YYYY') as _date
+            from odk.orange_after_2017_all f
+                join route_directions r
+                on f.rte::integer = r.rte and f.dir::integer = r.dir """
+
+        query_string += where
+        query_string += region
+        query_string += validate
+        query_string += not_null
+        query_string += limit
+
+        #debug(query_string)
+
+        web_session = Session()
+        query = web_session.execute(query_string)
+
+        RTE = 0
+        RTE_DESC = 1
+        DIR = 2
+        DIR_DESC = 3
+        OTYPE = 4
+        DTYPE =5
+        OLAT = 6
+        OLNG = 7
+        DLAT = 8
+        DLNG = 9
+        BOARD = 10
+        ALIGHT = 11
+        ZIPCODE = 12
+        AGE = 13
+        GENDER = 14
+        INCOME = 15
+        TOD = 16
+        DATE = 17
+
+
+        # each record will be converted as json
+        # and sent back to page
+        for record in query:
+
+            data = {}
+            data['rte'] = record[RTE]
+            data['rte_desc'] = record[RTE_DESC]
+            data['dir'] = record[DIR]
+            data['dir_desc'] = record[DIR_DESC]
+            data['o_type'] = record[OTYPE]
+            data['d_type'] = record[DTYPE]
+            data['o_lat'] = float(record[OLAT])
+            data['o_lng'] = float(record[OLNG])
+            data['d_lat'] = float(record[DLAT])
+            data['d_lng'] = float(record[DLNG])
+            data['board'] = record[BOARD]
+            data['alight'] = record[ALIGHT]
+            data['zipcode'] = record[ZIPCODE]
+            data['age'] = record[AGE]
+            data['gender'] = record[GENDER]
+            data['income'] = record[INCOME]
+            data['time_of_day'] = record[TOD]
+            data['date'] = record[DATE]
+
+            ret_val.append(data)
+        web_session.close()
+        return ret_val
+
+
+    @staticmethod
+    def buildconditions(args):
+        where = ""
+        lookupwd = {
+        "Weekday": "(1,2,3,4,5)",
+        "Weekend": "(0,6)",
+        "Saturday": "(6)",
+        "Sunday": "(0)"
+        }
+
+        lookupvehicle = {
+        "MAX": "IN ('90','100','190','200','290')",
+        "WES": "IN ('203')",
+        "Bus": "NOT IN ('90','100','190','200','290','203')"
+        }
+
+        lookuprtetype = {
+        "MAX": "1",
+        "Bus Crosstown": "2",
+        "Bus Eastside Feeder": "3",
+        "Bus Westside Feeder": "4",
+        "Bus Radial": "5",
+        "WES": "6"
+        }
+
+        lookuptod = {
+        "Weekday Early AM": "1",
+        "Weekday AM Peak": "2",
+        "Weekday Midday": "3",
+        "Weekday PM Peak": "4",
+        "Weekday Night": "5",
+        "Weekend Morning": "6",
+        "Weekend Midday": "7",
+        "Weekend Night": "8"
+        }
+
+        lookupaddress = {
+        "Home": "1",
+        "Work": "2",
+        "School": "3",
+        "Recreation": "4",
+        "Shopping": "5",
+        "Personal business": "6",
+        "Visit family or friends": "7",
+        "Medical appointment": "8",
+        "Other": "9"
+        }
+
+        for key, value in args.items():
+            # app.logger.debug(key,value)
+            if not value: continue
+
+            if key == "rte" and value.isnumeric():
+                where += " AND f.rte='{0}'".format(value)
+
+            if key == "dir" and value.isnumeric():
+                where += " AND f.dir='{0}'".format(value)
+
+            if key == "day" and value in lookupwd:
+                where += " AND extract(dow from f._date) in {0}".format(lookupwd[value])
+
+            if key == "tod":
+                #debug(isinstance(value, str))
+                where += " AND f.time_of_day='{0}'".format(value)
+
+            if key == "vehicle" and value in lookupvehicle:
+                where += " AND rte {0}".format(lookupvehicle[value])
+
+            if key == "dest_sep":
+                where += " AND f.dest_sep='{0}'".format(value)
+
+            if key == "dest_zip":
+                where += " AND f.dest_zip='{0}'".format(value)
+
+            if key == "dest_cty":
+                where += " AND f.dest_cty='{0}'".format(value)
+
+            if key == "orig" and value in lookupaddress:
+                where += " AND f.q5_orig_type='{0}'".format(lookupaddress[value])
+
+            if key == "dest" and value in lookupaddress:
+                where += " AND f.q6_dest_type='{0}'".format(lookupaddress[value])
+
+
+        return where
 
     @staticmethod
     def query_route_data(user='', rte_desc='', dir_desc='', csv=False):

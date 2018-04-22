@@ -128,6 +128,42 @@ def surveyor_summary_query():
     #debug(response)
     return jsonify(users=response)
 
+
+
+@mod_long.route('/map')
+def map():
+    routes = Helper.get_routes()
+    directions = Helper.get_directions()
+
+    return render_template('long/map.html', routes=routes, directions=directions)
+
+
+@mod_long.route('/map/_query', methods=['GET'])
+def map_query():
+    response = []
+    where = ""
+    args = request.args
+
+    where = Helper.buildconditions(args)
+    debug(where)
+
+    response = Helper.query_map_data(where=where)
+    #debug(response)
+
+    return jsonify(data=response)
+
+
+@mod_long.route('/_geoquery', methods=['GET'])
+def geo_query():
+    points,lines = None, None
+    debug(request.args)
+    if 'uri' in request.args:
+        uri = request.args.get('uri')
+        data = query_locations(uri)
+        debug(data)
+    return jsonify({'data':data})
+    #return jsonify({'points':points, 'lines':lines})
+
 """
 def query_locations(uri):
     ret_val = {}
@@ -166,27 +202,3 @@ def check_flags(record):
 Filter by route and direction
 Show each tad centroid as pie chart with pct complete
 """
-@mod_long.route('/map')
-def map():
-    session = Session()
-    keys = []
-    query = session.query(SurveysCore)
-    for record in query:
-        #TODO check that survey has not already been flagged by user
-        debug(record.uri)
-        #if record.flags.locations:
-        keys.append(record.uri)
-    session.close()
-    return render_template(static('map.html'), keys=keys)
-
-
-@mod_long.route('/_geoquery', methods=['GET'])
-def geo_query():
-    points,lines = None, None
-    debug(request.args)
-    if 'uri' in request.args:
-        uri = request.args.get('uri')
-        data = query_locations(uri)
-        debug(data)
-    return jsonify({'data':data})
-    #return jsonify({'points':points, 'lines':lines})

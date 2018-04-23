@@ -455,15 +455,10 @@ class Helper(object):
         }
 
         lookupaddress = {
-        "Home": "1",
-        "Work": "2",
-        "School": "3",
-        "Recreation": "4",
-        "Shopping": "5",
-        "Personal business": "6",
-        "Visit family or friends": "7",
-        "Medical appointment": "8",
-        "Other": "9"
+        "Home": "IN ('3')",
+        "Work": "IN ('1','2')",
+        "School": "IN ('4','13')",
+        "Other": "NOT IN ('1','2','3','4','13')"
         }
 
         for key, value in args.items():
@@ -496,10 +491,10 @@ class Helper(object):
                 where += " AND f.dest_cty='{0}'".format(value)
 
             if key == "orig" and value in lookupaddress:
-                where += " AND f.q5_orig_type='{0}'".format(lookupaddress[value])
+                where += " AND f.q5_orig_type {0}".format(lookupaddress[value])
 
             if key == "dest" and value in lookupaddress:
-                where += " AND f.q6_dest_type='{0}'".format(lookupaddress[value])
+                where += " AND f.q6_dest_type {0}".format(lookupaddress[value])
 
 
         return where

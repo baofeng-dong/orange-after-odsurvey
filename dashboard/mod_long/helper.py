@@ -8,6 +8,7 @@ import csv, os
 
 from sqlalchemy import func, desc, distinct, cast, Integer
 from flask import current_app
+from .metadata import metadata
 
 from dashboard import Session as Session
 from dashboard import debug
@@ -273,44 +274,8 @@ class Helper(object):
                 r.rte_desc,
                 f.dir,
                 r.dir_desc,
-                CASE
-                    WHEN q5_orig_type = '1' THEN 'Work'
-                    WHEN q5_orig_type = '2' THEN 'Other business'
-                    WHEN q5_orig_type = '3' THEN 'Home'
-                    WHEN q5_orig_type = '4' THEN 'College/University'
-                    WHEN q5_orig_type = '5' THEN 'Airport,Amtrak/Greyhound'
-                    WHEN q5_orig_type = '6' THEN 'Recreation'
-                    WHEN q5_orig_type = '7' THEN 'Medical appointment'
-                    WHEN q5_orig_type = '8' THEN 'Social visit'
-                    WHEN q5_orig_type = '9' THEN 'Personal business'
-                    WHEN q5_orig_type = '10' THEN 'Pick up/drop off'
-                    WHEN q5_orig_type = '11' THEN 'Shopping'
-                    WHEN q5_orig_type = '12' THEN 'Eating out'
-                    WHEN q5_orig_type = '13' THEN 'School (K-12)'
-                    WHEN q5_orig_type = '14' THEN 'Hotel'
-                    WHEN q5_orig_type = '15' THEN 'Sporting event'
-                    WHEN q5_orig_type = '16' THEN 'Other'
-                    else                         ''
-                END AS o_type,
-                CASE
-                    WHEN q6_dest_type = '1' THEN 'Work'
-                    WHEN q6_dest_type = '2' THEN 'Other business'
-                    WHEN q6_dest_type = '3' THEN 'Home'
-                    WHEN q6_dest_type = '4' THEN 'College/University'
-                    WHEN q6_dest_type = '5' THEN 'Airport,Amtrak/Greyhound'
-                    WHEN q6_dest_type = '6' THEN 'Recreation'
-                    WHEN q6_dest_type = '7' THEN 'Medical appointment'
-                    WHEN q6_dest_type = '8' THEN 'Social visit'
-                    WHEN q6_dest_type = '9' THEN 'Personal business'
-                    WHEN q6_dest_type = '10' THEN 'Pick up/drop off'
-                    WHEN q6_dest_type = '11' THEN 'Shopping'
-                    WHEN q6_dest_type = '12' THEN 'Eating out'
-                    WHEN q6_dest_type = '13' THEN 'School (K-12)'
-                    WHEN q6_dest_type = '14' THEN 'Hotel'
-                    WHEN q6_dest_type = '15' THEN 'Sporting event'
-                    WHEN q6_dest_type = '16' THEN 'Other'
-                    else                         ''
-                END AS d_type,
+                q5_orig_type AS o_type,
+                q6_dest_type AS d_type,
                 f.q7_orig_lat as o_lat,
                 f.q7_orig_lng as o_lng,
                 f.q7_dest_lat as d_lat,
@@ -398,8 +363,8 @@ class Helper(object):
             data['rte_desc'] = record[RTE_DESC]
             data['dir'] = record[DIR]
             data['dir_desc'] = record[DIR_DESC]
-            data['o_type'] = record[OTYPE]
-            data['d_type'] = record[DTYPE]
+            data['o_type'] = metadata['trip'][record[OTYPE]]
+            data['d_type'] = metadata['trip'][record[DTYPE]]
             data['o_lat'] = float(record[OLAT])
             data['o_lng'] = float(record[OLNG])
             data['d_lat'] = float(record[DLAT])

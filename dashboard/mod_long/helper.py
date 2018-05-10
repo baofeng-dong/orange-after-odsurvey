@@ -205,7 +205,7 @@ class Helper(object):
                 data = {}
             
             ret_val[str(dir)][time] = data
-        debug(ret_val)
+        #debug(ret_val)
         return ret_val
 
     @staticmethod
@@ -283,40 +283,9 @@ class Helper(object):
                 f.q7_board_id,
                 f.q7_alight_id,
                 coalesce(f.q39_zipcode::text, ''),
-                CASE
-                    WHEN q36_age = '1' THEN 'Under 18'
-                    WHEN q36_age = '2' THEN '18-24'
-                    WHEN q36_age = '3' THEN '25-34'
-                    WHEN q36_age = '4' THEN '35-44'
-                    WHEN q36_age = '5' THEN '45-54'
-                    WHEN q36_age = '6' THEN '55-64'
-                    WHEN q36_age = '7' THEN '65 or more'
-                    else                    ''
-                END AS age,
-                CASE 
-                    WHEN q37_gender = '1' THEN 'Female'
-                    WHEN q37_gender = '2' THEN 'Male'
-                    WHEN q37_gender = '3' THEN 'Transgender'
-                    WHEN q37_gender = '4' THEN 'Other'
-                    else                       ''
-                END AS gender,
-                CASE
-                    WHEN q38_income = '1' THEN 'Under $10,000'
-                    WHEN q38_income = '2' THEN '$10,000-$19,999'
-                    WHEN q38_income = '3' THEN '$20,000-$29,999'
-                    WHEN q38_income = '4' THEN '$30,000-$39,999'
-                    WHEN q38_income = '5' THEN '$40,000-$49,999'
-                    WHEN q38_income = '6' THEN '$50,000-$59,999'
-                    WHEN q38_income = '7' THEN '$60,000-$69,999'
-                    WHEN q38_income = '8' THEN '$70,000-$79,999'
-                    WHEN q38_income = '9' THEN '$80,000-$89,999'
-                    WHEN q38_income = '10' THEN '$90,000-$99,999'
-                    WHEN q38_income = '11' THEN '$100,000-$124,999'
-                    WHEN q38_income = '12' THEN '$125,000-$150,000'
-                    WHEN q38_income = '13' THEN 'Over $150,000'
-                    WHEN q38_income = '14' THEN 'Do not know'
-                    else                        ''
-                END AS income,
+                coalesce(q36_age, '0') AS age,
+                coalesce(q37_gender, '0') AS gender,
+                coalesce(q38_income, '0') AS income,
                 f.time_of_day,
                 to_char(f._date, 'Mon DD YYYY') as _date
             from odk.orange_after_2017_all f
@@ -353,7 +322,6 @@ class Helper(object):
         TOD = 16
         DATE = 17
 
-
         # each record will be converted as json
         # and sent back to page
         for record in query:
@@ -372,9 +340,9 @@ class Helper(object):
             data['board'] = record[BOARD]
             data['alight'] = record[ALIGHT]
             data['zipcode'] = record[ZIPCODE]
-            data['age'] = record[AGE]
-            data['gender'] = record[GENDER]
-            data['income'] = record[INCOME]
+            data['age'] = metadata['age'][record[AGE]]
+            data['gender'] = metadata['gender'][record[GENDER]]
+            data['income'] = metadata['income'][record[INCOME]]
             data['time_of_day'] = record[TOD]
             data['date'] = record[DATE]
 

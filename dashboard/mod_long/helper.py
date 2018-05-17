@@ -256,6 +256,32 @@ class Helper(object):
         web_session.close()
         return ret_val
 
+    @staticmethod
+    def get_stops(rte, dir):
+        ret_val = []
+        rte = rte
+        dir = dir
+        fil_val = {"rte": rte, "dir":dir}
+        session = Session()
+        stops = session.execute("""
+            SELECT rte, dir, stop_id, stop_name, ST_AsGeoJson(ST_Transform(geom, 4236)) AS geom
+            FROM tm_route_stops
+            WHERE rte = :rte AND
+            dir = :dir""", fil_val)
+        RTE = 0
+        DIR = 1
+        STOP_ID = 2
+        STOP_NAME = 3
+        GEOM = 4
+
+        ret_val = [ {'rte': row[RTE], 'dir': row[DIR],
+            'stop_id': row[STOP_ID], 'stop_name': row[STOP_NAME],
+            'geom': row[GEOM]}
+            for row in stops]
+        session.close()
+        debug(ret_val)
+        return ret_val
+
 
     @staticmethod
     def query_map_data(where):
@@ -276,10 +302,10 @@ class Helper(object):
                 r.dir_desc,
                 q5_orig_type AS o_type,
                 q6_dest_type AS d_type,
-                f.q7_orig_lat as o_lat,
-                f.q7_orig_lng as o_lng,
-                f.q7_dest_lat as d_lat,
-                f.q7_dest_lng as d_lng,
+                f.q7_orig_lat AS o_lat,
+                f.q7_orig_lng AS o_lng,
+                f.q7_dest_lat AS d_lat,
+                f.q7_dest_lng AS d_lng,
                 f.q7_board_id,
                 f.q7_alight_id,
                 coalesce(f.q39_zipcode::text, ''),
@@ -287,10 +313,10 @@ class Helper(object):
                 coalesce(q37_gender, '0') AS gender,
                 coalesce(q38_income, '0') AS income,
                 f.time_of_day,
-                to_char(f._date, 'Mon DD YYYY') as _date
-            from odk.orange_after_2017_all f
-                join route_directions r
-                on f.rte::integer = r.rte and f.dir::integer = r.dir """
+                to_char(f._date, 'Mon DD YYYY') AS _date
+            FROM odk.orange_after_2017_all f
+                JOIN route_directions r
+                ON f.rte::integer = r.rte AND f.dir::integer = r.dir """
 
         query_string += where
         query_string += region
@@ -299,7 +325,6 @@ class Helper(object):
         query_string += limit
 
         #debug(query_string)
-
         web_session = Session()
         query = web_session.execute(query_string)
 

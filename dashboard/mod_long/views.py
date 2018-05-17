@@ -141,16 +141,22 @@ def map():
 @mod_long.route('/map/_query', methods=['GET'])
 def map_query():
     response = []
+    stops = []
     where = ""
     args = request.args
-
+    debug(args)
+    rte = args.get('rte')
+    dir = args.get('dir')
+    if rte and dir:
+        stops = Helper.get_stops(rte=rte, dir=dir)
+    debug(stops)
     where = Helper.buildconditions(args)
     debug(where)
 
     response = Helper.query_map_data(where=where)
     #debug(response)
 
-    return jsonify(data=response)
+    return jsonify(data=response, stops=stops)
 
 
 @mod_long.route('/_geoquery', methods=['GET'])

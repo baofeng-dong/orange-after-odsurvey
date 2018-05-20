@@ -554,6 +554,30 @@ function rebuildPath(args) {
 
         console.log(data);
 
+        $(data.stops).each(function(index, item) {
+            var stop_id = item.stop_id;
+            var stop_name = item.stop_name;
+            console.log(stop_id);
+            var stop_geom = item.geom;
+            var geom_json = JSON.parse(stop_geom);
+            var s_lat = geom_json.coordinates[1];
+            var s_lng = geom_json.coordinates[0];
+            console.log(s_lat, s_lng);
+            var slatlng = L.latLng([s_lat, s_lng]);
+            
+            if(!stopsDict.hasOwnProperty(stop_id))
+            {
+                stopsDict[stop_id] = {};
+                stopsDict[stop_id]["latLng"] = slatlng;
+                stopsDict[stop_id]["stop_name"] = stop_name;
+            }
+
+            //console.log(stop_geom);
+            //console.log(geom_json.coordinates);
+            //console.log(geom_json.coordinates[0]);
+        })
+        console.log(stopsDict);
+
         $(data.data).each(function(index, item) {
             // get origin lat and long from data.data json
             var o_lat = item.o_lat;
@@ -562,12 +586,19 @@ function rebuildPath(args) {
             var d_lat = item.d_lat;
             var d_lng = item.d_lng;
 
-            // lat and lng for orig and dest markers
+            var on_stop_id = item.board;
+            var off_stop_id = item.alight;
+
+            // lat and lng for orig and dest and on/off markers
             var olatlng = L.latLng([o_lat,o_lng]);
             var dlatlng = L.latLng([d_lat,d_lng]);
+            var onlatlng = stopsDict[on_stop_id]["latLng"];
+
+            var offlatlng = stopsDict[off_stop_id]["latLng"];
+            //console.log(offlatlng);
             //defines points pair list for the path
-            var odPair = [olatlng, dlatlng];
-            //defines the path that links orig and dest markers
+            var odPair = [olatlng, onlatlng, offlatlng, dlatlng];
+            //defines the path that links boarding, alighting, orig and dest markers
             var pairPath = new L.Polyline(odPair, pathStyle);
             var transparentPath = new L.Polyline(odPair, {
                 'weight': 10,
@@ -579,6 +610,8 @@ function rebuildPath(args) {
                 "<b>Direction:</b>" + " " + item.dir_desc + '<br />' + 
                 "<b>Origin:</b>" + " " + item.o_type + '<br />' + 
                 "<b>Destination:</b>" + " " + item.d_type + '<br />' + 
+                "<b>On Stop:</b>" + " " + stopsDict[on_stop_id]["stop_name"] + '<br />' + 
+                "<b>Off Stop:</b>" + " " + stopsDict[off_stop_id]["stop_name"] + '<br />' + 
                 "<b>Date:</b>" + " " + item.date+ '<br />' +
                 "<b>Time of Day:</b>" + " " + item.time_of_day + '<br />' +
                 "<b>Age:</b>" + " " + item.age + '<br />' +
@@ -591,6 +624,8 @@ function rebuildPath(args) {
             transparentPath.on('mouseover', function(e) {
 
                 //var path = e.target;
+                pairPath.bringToFront();
+                transparentPath.bringToFront();
                 pairPath.setStyle({
                     color:'purple',
                     opacity: 0.9,
@@ -604,6 +639,8 @@ function rebuildPath(args) {
             });
             transparentPath.on('mouseout', function(e) {
                 //var path = e.target;
+                //pairPath.bringToBack();
+                //transparentPath.bringToBack();
                 pairPath.setStyle(pathStyle);
                 console.log("reset style!");
                 //console.log(pathStyle);

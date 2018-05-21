@@ -1,7 +1,3 @@
-# Copyright (C) 2017 Baofeng Dong
-# This program is released under the "MIT License".
-# Please see the file COPYING in the source
-# distribution of this software for license terms.
 
 
 import csv, os
@@ -279,7 +275,7 @@ class Helper(object):
             'geom': row[GEOM]}
             for row in stops]
         session.close()
-        debug(ret_val)
+        #debug(ret_val)
         return ret_val
 
 

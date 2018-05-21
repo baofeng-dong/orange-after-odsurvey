@@ -1,7 +1,3 @@
-# Copyright (C) 2017 Baofeng Dong
-# This program is released under the "MIT License".
-# Please see the file COPYING in the source
-# distribution of this software for license terms.
 
 
 import os, sys, json
@@ -149,9 +145,9 @@ def map_query():
     dir = args.get('dir')
     if rte and dir:
         stops = Helper.get_stops(rte=rte, dir=dir)
-    debug(stops)
+    #debug(stops)
     where = Helper.buildconditions(args)
-    debug(where)
+    #debug(where)
 
     response = Helper.query_map_data(where=where)
     #debug(response)

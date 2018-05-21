@@ -105,15 +105,15 @@ $(document).ready(function() {
             .addTo(mymap)
             .open('home');
 
-
     //add TriMet service district boundary to map on load
     addBoundaryLayer(tmLayer);
 
     //add point legend on load
+    pointLegend.addTo(mymap);
+    pointLegend.setPosition('topright');
     console.log(pointLegend);
-    //pointLegend.addTo(mymap);
-    //pointLegend.setPosition('topright');
-
+    // Add Scale Bar to Map
+    L.control.scale({position: 'bottomleft'}).addTo(mymap);
     //set mapview checkbox for point map true
     $('input.checkview')[0].checked = true;
     //set mapview checkboxes for heatmap false
@@ -129,7 +129,7 @@ $(document).ready(function() {
                 removeLayers(mymap);
                 removeLegend();
                 addBoundaryLayer(tmLayer);
-                //pointLegend.addTo(mymap);
+                pointLegend.addTo(mymap);
                 rebuild(sel_args);
                 if (sel_args.rte && sel_args.dir) {
                     rebuildPath(sel_args);

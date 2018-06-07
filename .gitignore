@@ -1,5 +1,6 @@
 *.pyc
 *.db
+.idea/
 .DS_Store
 dashboard/.DS_Store
 *.*~

@@ -143,7 +143,7 @@ $(document).ready(function() {
                 removeLayers(mymap);
                 removeLegend();
                 addBoundaryLayer(tmLayer);
-                buildHeatmap(sel_args, addOriginHeatMap, function(){});
+                buildHeatmap(sel_args, addOriginHeatMap, addDestHeatMap);
                 if (sel_line && sel_dir !== null) {
                     addRouteJson(sel_line,0);
                     console.log("route geojson added!");
@@ -154,7 +154,7 @@ $(document).ready(function() {
                 removeLayers(mymap);
                 removeLegend();
                 addBoundaryLayer(tmLayer);
-                buildHeatmap(sel_args, function(){}, addDestHeatMap);
+                buildHeatmap(sel_args, addOriginHeatMap, addDestHeatMap);
                 console.log("dest heatmap added!");
                 if (sel_line && sel_dir !== null) {
                     addRouteJson(sel_line,0);

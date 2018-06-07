@@ -504,7 +504,7 @@ function buildCountDict(array,args) {
     return dictCount;
 }
 
-//to build the origin and destination points arrays
+//to build the origin and destination heatmap
 function buildHeatmap(args, callback1, callback2) {
     
     odPairLayerGroup.clearLayers();
@@ -513,10 +513,7 @@ function buildHeatmap(args, callback1, callback2) {
     $.getJSON('map/_query', args, function(data) {
         //clear the origin and destination points arrays
         originList.length = 0;
-        console.log("origin list array cleared!");
         destinationList.length = 0;
-        console.log("destinationList cleared!");
-
         console.log(data);
 
         $(data.data).each(function(index, item) {

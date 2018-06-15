@@ -21,14 +21,17 @@ from dashboard.mod_long import fields as F
 STATIC_DIR = '/long'
 mod_long = Blueprint('long', __name__, url_prefix='/long')
 
+
 def static(html, static=STATIC_DIR):
     """returns correct path to static directory"""
     return os.path.join(static, html)
+
 
 @mod_long.route('/')
 @Auth.requires_auth
 def index():
     return render_template('long/index.html')
+
 
 @mod_long.route('/data')
 @Auth.requires_auth
@@ -80,6 +83,7 @@ def data_query():
 
     return jsonify(data=response)
 
+
 @mod_long.route('/status')
 @Auth.requires_auth
 def status():
@@ -106,6 +110,7 @@ def status():
     return render_template('long/status.html', 
             streetcar=streetcar, routes=routes, data=data, summary=summary)
 
+
 @mod_long.route('/surveyors')
 @Auth.requires_auth
 def surveyor_status():
@@ -123,7 +128,6 @@ def surveyor_summary_query():
     response = Helper.current_users(date)
     #debug(response)
     return jsonify(users=response)
-
 
 
 @mod_long.route('/map')

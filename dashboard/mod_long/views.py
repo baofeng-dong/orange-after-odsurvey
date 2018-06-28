@@ -28,7 +28,7 @@ def static(html, static=STATIC_DIR):
 
 
 @mod_long.route('/')
-@Auth.requires_auth
+#@Auth.requires_auth
 def index():
     return render_template('long/index.html')
 
